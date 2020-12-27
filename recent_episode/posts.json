@@ -168,5 +168,34 @@
 "tag" : "",
 "vol" : "ဘာသာပြန် : လမင်းကဗျာ\nတင်ဆက်သူ : XC2"
 }
+ ,{
+"title" : "Twice The Love",
+"status" : "အပိုင်း(၂၉)",
+"cover" : "https://1.bp.blogspot.com/-r2BreSFbjj8/X2DSZ9SZWNI/AAAAAAAAhxo/8b5SyGVLaJAQLokSivzgbusuwNYfyJRkwCLcBGAsYHQ/s320/Twice-the-Love-193x278.jpg",
+"image" : "https://1.bp.blogspot.com/-covlZw35QT4/X2DR0qRJ09I/AAAAAAAAhxg/s_EFaCblxZI8ikaO5ext54CcH-7HtahiwCLcBGAsYHQ/s1600/Screenshot_20200915-210501_Chrome-picsay.jpg",
+"link" : "https://raw.githubusercontent.com/Ggwp57/3omi3/main/twice_the_love/",
+"tag" : "",
+"vol" : ""
+} 
+ ,
+  {
+"title" : "Mind Reader",
+"status" : "အပိုင်း (၂၅)",
+"tag" : "",
+"image" : "https://1.bp.blogspot.com/-xsKFQ7GRc18/XzERhwTLIKI/AAAAAAAAYXc/PAcQvuSzYfQq6i3NtkCxnS7FBBl-huWLgCLcBGAsYHQ/s1600/IMG_20200810_154910.jpg",
+"cover" : "https://1.bp.blogspot.com/-qIkPx_JmauQ/XzEJ9pNw39I/AAAAAAAAX1g/y2VNBN_poZEiF1j6kJPhlNDy6IRQ_6XswCLcBGAsYHQ/s320/Mind-Reader-193x278.jpg",
+"link" : "https://raw.githubusercontent.com/Ggwp57/3omi3/main/mind_reader/",
+"vol" : "."
+}
+  ,
+{
+"title" : "The Widow",
+"status" : "အပိုင်း (၄၄)",
+"image" : "https://1.bp.blogspot.com/-biCLiKE12Pw/Xx_Nr9PhSTI/AAAAAAAAVjc/VC5yr6E4cWA-8bBT-awcDzE7piXSiJg3gCLcBGAsYHQ/s1600/Screenshot_2020-07-28-13-25-40-811_com.android.chrome-picsay.jpg",
+"cover" : "https://1.bp.blogspot.com/-sLaWDl4ecZ8/Xx_NrxcAJJI/AAAAAAAAVjg/44W9PJFkQRgjMYWbYiLQlwIHXW0mFN8ggCLcBGAsYHQ/s400/The-Widow-193x278-picsay.jpg",
+"link" : "https://raw.githubusercontent.com/Ggwp57/3omi3/main/the_widow/",
+"tag" : "",
+"vol" : ""
+}
 ]
 }
