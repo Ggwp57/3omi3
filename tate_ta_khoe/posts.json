@@ -1,12 +1,39 @@
 {
-"allbook":
-[
-            
+   "allbook": [
+      {
+         "title": "တိတ်တခိုး",
+         "status": "အပိုင်း(၉၈)",
+         "cover": "https://1.bp.blogspot.com/-VqQCTJiEoOA/YAgCpg26Q0I/AAAAAAAAF7I/TPOvEjLJEwMUWF6QYxk7YUSQchklPOnEgCLcBGAsYHQ/s0/000cover.jpg",
+         "post": "
+   <img src=\"https://1.bp.blogspot.com/-lMOk2owfkGg/YAgCps-j4FI/AAAAAAAAF7M/5R2Yjc0skUUTJQMN6x41OfpDvVz4uh75QCLcBGAsYHQ/s0/003-picsay.jpg\"width=\"100%\"/>
+   <img src=\"https://1.bp.blogspot.com/-ffF019faAFQ/YAgCpsyhQLI/AAAAAAAAF7E/QOd7aPbJxek1xPOvabiRCqRu9CCZemsNACLcBGAsYHQ/s0/004-picsay.jpg\"width=\"100%\"/>
+   <img src=\"https://1.bp.blogspot.com/-GzDH8-FxpEg/YAgCqjyp_4I/AAAAAAAAF7Q/UbrJt5LRxjIY8AzcGuL6y7QAvmNwBORlwCLcBGAsYHQ/s0/005.jpg\"width=\"100%\"/>
+   <img src=\"https://1.bp.blogspot.com/-U2xpTXkYQFQ/YAgCrAVPuBI/AAAAAAAAF7U/DVP0J_Jnsn4nS6QC3UBfkqFGhRBhVDJxgCLcBGAsYHQ/s0/006-picsay.jpg\"width=\"100%\"/>
+   <img src=\"https://1.bp.blogspot.com/-N8sE9xBsJxA/YAgCrcjaNMI/AAAAAAAAF7Y/45u_jnaKYWwQStnS5NSB1bRFEwjyMu4kACLcBGAsYHQ/s0/007-picsay.jpg\"width=\"100%\"/>
+   <img src=\"https://1.bp.blogspot.com/-PFgDA12LkX0/YAgCrVjPaJI/AAAAAAAAF7c/hbw4x5oUw_8vhTwr4TL1Q8D13R2FklHrgCLcBGAsYHQ/s0/008-picsay.jpg\"width=\"100%\"/>
+   <img src=\"https://1.bp.blogspot.com/-1dzVbnFOmCE/YAgCsEdhYbI/AAAAAAAAF7g/MYDNwzNiLUUCiOS3PcTvKuneLSwxBBG5QCLcBGAsYHQ/s0/009.jpg\"width=\"100%\"/>
+   <img src=\"https://1.bp.blogspot.com/-ZvoW7ntHrvI/YAgCsUTRFhI/AAAAAAAAF7k/J6UXduZMOY0cGA0tj5z00ViN1lpP3JmkwCLcBGAsYHQ/s0/010-picsay.jpg\"width=\"100%\"/>
+   <img src=\"https://1.bp.blogspot.com/-j16JdVxyuoA/YAgCsnF9KCI/AAAAAAAAF7o/lCuWcAS4Vw4oXpXspK41_D6-hLjol3O-QCLcBGAsYHQ/s0/011-picsay.jpg\"width=\"100%\"/>
+   <img src=\"https://1.bp.blogspot.com/-w0qyksgtr68/YAgCs8Eh_bI/AAAAAAAAF7s/CqE0u08mMkcGqQ7YUfOSvf9IEPArBLc5wCLcBGAsYHQ/s0/012.jpg\"width=\"100%\"/>
+   <img src=\"https://1.bp.blogspot.com/-FgeGBrqSamE/YAgCtSNTB9I/AAAAAAAAF7w/LHxs-LTLTw8370hiXu4EPhaBNsTGpIr8QCLcBGAsYHQ/s0/013-picsay.jpg\"width=\"100%\"/>
+   <img src=\"https://1.bp.blogspot.com/-KJgpm-iBUFA/YAgCtU1xrvI/AAAAAAAAF70/jDS13C5wxiQ_PJkwwn5n1tubxemceqquwCLcBGAsYHQ/s0/014-picsay.jpg\"width=\"100%\"/>
+   <img src=\"https://1.bp.blogspot.com/-mQ3zu60B000/YAgCt5AMnMI/AAAAAAAAF74/O1fRYGLB_pcnw_FB6vSzEmJc5-LIwaZmQCLcBGAsYHQ/s0/015-picsay.jpg\"width=\"100%\"/>
+   <img src=\"https://1.bp.blogspot.com/-NkP4slzLDVY/YAgCuG2SVII/AAAAAAAAF78/0zQivDvHtoE_S_qfo_cvxvxQy8dliiNjACLcBGAsYHQ/s0/016-picsay.jpg\"width=\"100%\"/>
+   <img src=\"https://1.bp.blogspot.com/-jq1_5M-YU88/YAgCuF2QhLI/AAAAAAAAF8A/hQfAyrSBZDgeVFT8B0y7utqtAoupuIoVwCLcBGAsYHQ/s0/017-picsay.jpg\"width=\"100%\"/>
+   <img src=\"https://1.bp.blogspot.com/-Z07Q29UyCAk/YAgCvL0v_5I/AAAAAAAAF8E/RyCJzDJDHcUtwUPgu0ZKrckJxk_froP2ACLcBGAsYHQ/s0/018-picsay.jpg\"width=\"100%\"/>
+   <img src=\"https://1.bp.blogspot.com/-9cxF0bp_G3w/YAgCvocSQeI/AAAAAAAAF8I/g2ht_RaeM7MzJBtAd0JTxYd_1ERIxUBnACLcBGAsYHQ/s0/019-picsay.jpg\"width=\"100%\"/>
+   <img src=\"https://1.bp.blogspot.com/-OLg2MDlOXlA/YAgCvzOAsxI/AAAAAAAAF8M/wrxZ4213d-YFnHt-u2HDrbSytFz-OQ0vQCLcBGAsYHQ/s0/020-picsay.jpg\"width=\"100%\"/>
+   <img src=\"https://1.bp.blogspot.com/-tfB27mDWRO0/YAgCwGMA7GI/AAAAAAAAF8Q/VS-czC0lSDEV-FzIEQlUTUz1CUmW13uTwCLcBGAsYHQ/s0/021-picsay.jpg\"width=\"100%\"/>
+   <img src=\"https://1.bp.blogspot.com/-wxb1NrPBHfc/YAgCwnhc5EI/AAAAAAAAF8U/kkQhGSZkI-srHXBpIi6kyQLWgnOm4iO-QCLcBGAsYHQ/s0/022-picsay.jpg\"width=\"100%\"/>
+   <img src=\"https://1.bp.blogspot.com/-b31Z8nACLNg/YAgCw59hu0I/AAAAAAAAF8Y/KyqZBh_5ADk86YjrTZU4okILviPNZ685ACLcBGAsYHQ/s0/023-picsay.jpg\"width=\"100%\"/>
+   <img src=\"https://1.bp.blogspot.com/-2oWq6CVVQbc/YAgCxJMg7DI/AAAAAAAAF8c/FSqgy04wOKUYmj02ztXJv4oMO7bwdxpkwCLcBGAsYHQ/s0/024-picsay.jpg\"width=\"100%\"/>
+   <img src=\"https://1.bp.blogspot.com/-ul2ta3kv39k/YAgCxclZXcI/AAAAAAAAF8g/b3xD0p9F774TBJM_ko8LiYBLLo1vS7aPgCLcBGAsYHQ/s0/025-picsay.jpg\"width=\"100%\"/>
+   "},
 {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၉၇)",
-"cover" : "https://1.bp.blogspot.com/-c29a_McZZ_A/X_xeftq7epI/AAAAAAAAEEI/dU_O51n0TCI6pwZ0Jh9vovGFkwKGQ4krwCLcBGAsYHQ/s0/000cover.jpg",
-"post" : "
+            "title": "တိတ်တခိုး",
+            "status": "အပိုင်း(၉၇)",
+            "cover": "https://1.bp.blogspot.com/-c29a_McZZ_A/X_xeftq7epI/AAAAAAAAEEI/dU_O51n0TCI6pwZ0Jh9vovGFkwKGQ4krwCLcBGAsYHQ/s0/000cover.jpg",
+            "post": "
 <img src=\"https://1.bp.blogspot.com/-trii8QsUBFI/X_xeo7Nf0PI/AAAAAAAAEF4/eXACFsvG6-kUPVpyXTflr-EdooSC3vl_QCLcBGAsYHQ/s0/1-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-Grgcsac4KcQ/X_xepsCkMoI/AAAAAAAAEF8/KVRRQRrrcPQvxe3aYZJxP1EBuAKZhKxOwCLcBGAsYHQ/s0/2.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-XXGRkrdOAw0/X_xefxmSmQI/AAAAAAAAEEQ/rV4mqLt7FOwOVZSZHZU7YyoTB12G3GjLwCLcBGAsYHQ/s0/004-picsay.jpg\"width=\"100%\"/>
@@ -37,10 +64,10 @@
 <img src=\"https://1.bp.blogspot.com/-BYLorLLOrTg/X_xeot0uncI/AAAAAAAAEFw/pkrj_n7-cioEEi-OTBw0S0o6y_8Blj0-gCLcBGAsYHQ/s0/029-picsay.jpg\"width=\"100%\"/>                       
 "},
 {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၉၆)",
-"cover" : "https://1.bp.blogspot.com/-1rLvbAQH0OY/X_AJHhpq-9I/AAAAAAAACI8/5e_PvJaZBJUm1lDFnxL0X4AUmEZWB2mMgCLcBGAsYHQ/s0/000cover.jpg",
-"post" : "
+               "title": "တိတ်တခိုး",
+               "status": "အပိုင်း(၉၆)",
+               "cover": "https://1.bp.blogspot.com/-1rLvbAQH0OY/X_AJHhpq-9I/AAAAAAAACI8/5e_PvJaZBJUm1lDFnxL0X4AUmEZWB2mMgCLcBGAsYHQ/s0/000cover.jpg",
+               "post": "
 <img src=\"https://1.bp.blogspot.com/-n5GB9r0Im4Y/X_AJHwPusXI/AAAAAAAACJA/aQAM1l8RQ00kzwPBJVYMoX5pJPZcuX9-QCLcBGAsYHQ/s5000/005-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-6JXpW4w2qQQ/X_AJHylAvrI/AAAAAAAACJE/up3q60ywIl0xBZ8HyiH9mRF2Rff0T1ARACLcBGAsYHQ/s5000/006-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-haInN7ja95c/X_AJIu67X-I/AAAAAAAACJI/Gdcihwqvv7wLl6IvWufZeeO6eipESC5uwCLcBGAsYHQ/s5000/007-picsay.jpg\"width=\"100%\"/>
@@ -72,13 +99,12 @@
 <img src=\"https://1.bp.blogspot.com/-zvQ18l4Ncfk/X_AJQno9-UI/AAAAAAAACKw/FcXXLGjy1XAbq0T4DWGsp_aD9AnksRKOQCLcBGAsYHQ/s5000/028-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-Dqv3xS419rQ/X_AJRDn50uI/AAAAAAAACK0/qSBoAdnTX2UKgfLzE4UmWC5fi03XRqlvQCLcBGAsYHQ/s5000/029-picsay.jpg\"width=\"100%\"/>        
                         "
-            }
-            ,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၉၅)",
-"cover" : "https://1.bp.blogspot.com/-JfrK_HBo6NU/X-oHp9NaA4I/AAAAAAAAAyw/Kai2IQeLOF0KRvTkTqH-kOH4koH2lKbwgCLcBGAsYHQ/s0/000cover.jpg",
-"post" : "
+            },
+            {
+               "title": "တိတ်တခိုး",
+               "status": "အပိုင်း(၉၅)",
+               "cover": "https://1.bp.blogspot.com/-JfrK_HBo6NU/X-oHp9NaA4I/AAAAAAAAAyw/Kai2IQeLOF0KRvTkTqH-kOH4koH2lKbwgCLcBGAsYHQ/s0/000cover.jpg",
+               "post": "
 <img src=\"https://1.bp.blogspot.com/-WeLY54Xq_xg/X-oHp5jReSI/AAAAAAAAAy0/Nq9m8dI2rRYO10tHn6kraoCA8V9IfYmWgCLcBGAsYHQ/s0/004-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-U2YFOAC3J7s/X-oHp2CsLsI/AAAAAAAAAy4/dHtGGxwn1B068t8q4TZAyoVat-lm3m_eQCLcBGAsYHQ/s0/005-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-wItFOfJ-vNE/X-oHq3j4KpI/AAAAAAAAAy8/uusumgLIm5w2wse16L7EeolcbOUpd3sJQCLcBGAsYHQ/s0/006-picsay.jpg\" width=\"100%\" />
@@ -110,10 +136,10 @@
 <img src=\"https://1.bp.blogspot.com/-j1ptLMIFfS4/X-oHz0afj9I/AAAAAAAAA0k/dWgofJz5kE4mKyyb-ZcIZRRSQFo7tK2sACLcBGAsYHQ/s0/032-picsay.jpg\" width=\"100%\" />
 "},
 {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၉၄)",
-"cover" : "https://1.bp.blogspot.com/-aHuPzLo57ZQ/X-XguwjSNfI/AAAAAAAAAMQ/iQ-GeegP34wXi6wLzcqhFzmhAR7cXCq3ACLcBGAsYHQ/s0/000cover.jpg",
-"post" : "
+                  "title": "တိတ်တခိုး",
+                  "status": "အပိုင်း(၉၄)",
+                  "cover": "https://1.bp.blogspot.com/-aHuPzLo57ZQ/X-XguwjSNfI/AAAAAAAAAMQ/iQ-GeegP34wXi6wLzcqhFzmhAR7cXCq3ACLcBGAsYHQ/s0/000cover.jpg",
+                  "post": "
 <img src=\"https://1.bp.blogspot.com/-2hikIarTJ9s/X-Xgu-g0abI/AAAAAAAAAMU/Vus6-Lq4LqMP01hIqdtf_Tmzll9MiHUiACLcBGAsYHQ/s0/005-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-7AtTE5m-ZMI/X-Xgu5dcSMI/AAAAAAAAAMY/GUXsEIslL3wyUZP70JcQXVSQhhQ_b_xQwCLcBGAsYHQ/s0/006-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-br_wDiaDkC8/X-Xgv6VBINI/AAAAAAAAAMo/cV_qqeIkaB4Xqsm_QZhmekOWAvR6Y44igCLcBGAsYHQ/s0/007-picsay.jpg\" width=\"100%\" />
@@ -142,10 +168,10 @@
 <img src=\"https://1.bp.blogspot.com/--071_iNwpbM/X-XhFYdmZyI/AAAAAAAAAPg/Kk6afKVTXjkiFAZsD7jMiAjjMicDKcHcACLcBGAsYHQ/s0/030-picsay.jpg\" width=\"100%\" />         
 "},
 {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၉၃)",
-"cover" : "https://1.bp.blogspot.com/-Q6NJKGyT6uw/X9iyB-6deWI/AAAAAAAA77w/gJGyRZopS2wXVuQu_0dhQO_3i6deaMTSQCLcBGAsYHQ/s0/000cover.jpg",
-"post" : "
+                     "title": "တိတ်တခိုး",
+                     "status": "အပိုင်း(၉၃)",
+                     "cover": "https://1.bp.blogspot.com/-Q6NJKGyT6uw/X9iyB-6deWI/AAAAAAAA77w/gJGyRZopS2wXVuQu_0dhQO_3i6deaMTSQCLcBGAsYHQ/s0/000cover.jpg",
+                     "post": "
 <img src=\"https://1.bp.blogspot.com/-sQW_3NWSwM4/X9iyCJAX9GI/AAAAAAAA774/0vvtosA-BeQzpR0vugCStIeTVQIkDG_GACLcBGAsYHQ/s0/IMG_20201215_172149-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-6cr6zAYVQ6Q/X9iyBxfJMpI/AAAAAAAA770/FDtEOJxzwJ0NXtF36QcTL4mdFqmo2UXeQCLcBGAsYHQ/s0/IMG_20201215_172200-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-L78QWw3ur3s/X9iyCkzujuI/AAAAAAAA778/LnIGD6ZC9QkLzkxUqj6_ddJD4nuePkq1wCLcBGAsYHQ/s0/IMG_20201215_172213-picsay.jpg\" width=\"100%\" />
@@ -173,10 +199,10 @@
 <img src=\"https://1.bp.blogspot.com/-aHmTuA00tWU/X9iyLpp4qbI/AAAAAAAA79U/VzEDqWyIWfA-KjnbrEDtEKEA49uERp3DACLcBGAsYHQ/s0/IMG_20201215_172543-picsay.jpg\" width=\"100%\" />     
 "},
 {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၉၂)",
-"cover" : "https://1.bp.blogspot.com/-J7wSLA1VprQ/X9TbmUPF05I/AAAAAAAA7JI/s3AK2UKTMesKM8Xkjf9rnGE7_MZIqthtACLcBGAsYHQ/s0/000cover.jpg",
-"post" : "
+                        "title": "တိတ်တခိုး",
+                        "status": "အပိုင်း(၉၂)",
+                        "cover": "https://1.bp.blogspot.com/-J7wSLA1VprQ/X9TbmUPF05I/AAAAAAAA7JI/s3AK2UKTMesKM8Xkjf9rnGE7_MZIqthtACLcBGAsYHQ/s0/000cover.jpg",
+                        "post": "
 <img src=\"https://1.bp.blogspot.com/-TTHiDKzO24M/X9TbmDZ8rwI/AAAAAAAA7JE/t6QWIbhwD1M4-UWGjwzqkEf4pfX6EMFxQCLcBGAsYHQ/s0/IMG_20201212_193433-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-t67DPpZYtNY/X9TbmZvV9cI/AAAAAAAA7JM/xN6ls4Hzv8oqllSiVM5inndjP0Va-N1UACLcBGAsYHQ/s0/IMG_20201212_193441-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-sIEmHtv6__8/X9TbnRWHNOI/AAAAAAAA7JQ/c5PpTbIDNKsCvHMJ1gza38eI1ea-8FGSwCLcBGAsYHQ/s0/IMG_20201212_193447-picsay.jpg\" width=\"100%\" />
@@ -200,10 +226,10 @@
 "},
 
 {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၉၁)",
-"cover" : "https://1.bp.blogspot.com/-tMn7nRsLndQ/X9DPS89mtJI/AAAAAAAA54A/cfBfaj_UJKoFzAtlTFhcj7MSo_I-Ax53QCLcBGAsYHQ/s0/000cover.jpg",
-"post" : "
+                           "title": "တိတ်တခိုး",
+                           "status": "အပိုင်း(၉၁)",
+                           "cover": "https://1.bp.blogspot.com/-tMn7nRsLndQ/X9DPS89mtJI/AAAAAAAA54A/cfBfaj_UJKoFzAtlTFhcj7MSo_I-Ax53QCLcBGAsYHQ/s0/000cover.jpg",
+                           "post": "
 <img src=\"https://1.bp.blogspot.com/-ETwfP4gkHTw/X9DPS3OhVRI/AAAAAAAA54I/v8fpuip4RhcZy3SvOuKDSbZ_Hxj3kX_YwCLcBGAsYHQ/s0/IMG_20201209_180130-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-90ndDh_yVhU/X9DPTMXilFI/AAAAAAAA54E/ZAySgbFaP4A_Bq9MlHQmuUBJauc1DpSOACLcBGAsYHQ/s0/IMG_20201209_180149-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-RBFwhCW2Uz8/X9DPUJCq0GI/AAAAAAAA54M/4aG2721jL0MuiVIBY9LFDP6j2WWUFGp-gCLcBGAsYHQ/s0/IMG_20201209_180159-picsay.jpg\" width=\"100%\" />
@@ -224,10 +250,10 @@
 <img src=\"https://1.bp.blogspot.com/-AVWhyVtfEos/X9DPay6zW2I/AAAAAAAA55M/NYKpil_VYxsb5ddIFv0tfnPZSQ_dugk9gCLcBGAsYHQ/s0/IMG_20201209_180339-picsay.jpg\" width=\"100%\" /> 
 "},
 {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၉၀)",
-"cover" : "https://1.bp.blogspot.com/-Oyt_H-5WYUE/X8TeRa-7ZsI/AAAAAAAA2ao/xHdDLfn3WCssjiiH0Bmu_9MY07qB93EUACEwYBhgLKtQDAL1OcqxVbe5ev1J4FqchBXat43zpKWIwGVdXma8lDtBuUNVJsk3olRTNjVgVuM8792cePtKK8ZBtpww_4ijjZpDnxgR2VqB96YlYpR1KUNizf03pzw6AOqB5h0d5DplPEDjyjZULXzfDIfnF02qepXeD581KYO8e7xRRXJcz4uB8-0uwoq3jZ540Y84C2SGjxOrPPDU7Y8XyASoJqnHdUjCeKLIc5BCpG9r7Buzlc-jqezbfLTzqHAr1B-RLgCs_7pviLCd8bmLjxPhe1kOoFGxWR9OZEgKkkHw0FoC6rmMf3Jj_a0AtpRukdsR3ugY9LHBcWk__404lYUHBawk61HAgC5Qp0bDkBCnBy-49mE1qoom50U4_Je_crsA19cjKhwFUhlx7-zmQS3y6Uuu8VSd_9IB74vlNbtSTD04R29TKp3z67pX2pGOwmTbSTxHHHCAEUAzms3LKywjCiPQeYt4jhKLI_2pKsGFzY9f2HWA2j2fUuSfWqqE5u_tofI8sfDudk4Sbu18OBJD_BZytc21lOO96EfDjXwPCvRqd_oMs1Rfu29gUhsivFbDLw2TpNeq7b66sumvSGLcoCmr0ONlaZK02MtP4z8cvPWBS2caitTYsMMLBk_4F/s0/000cover.jpg",
-"post" : "
+                              "title": "တိတ်တခိုး",
+                              "status": "အပိုင်း(၉၀)",
+                              "cover": "https://1.bp.blogspot.com/-Oyt_H-5WYUE/X8TeRa-7ZsI/AAAAAAAA2ao/xHdDLfn3WCssjiiH0Bmu_9MY07qB93EUACEwYBhgLKtQDAL1OcqxVbe5ev1J4FqchBXat43zpKWIwGVdXma8lDtBuUNVJsk3olRTNjVgVuM8792cePtKK8ZBtpww_4ijjZpDnxgR2VqB96YlYpR1KUNizf03pzw6AOqB5h0d5DplPEDjyjZULXzfDIfnF02qepXeD581KYO8e7xRRXJcz4uB8-0uwoq3jZ540Y84C2SGjxOrPPDU7Y8XyASoJqnHdUjCeKLIc5BCpG9r7Buzlc-jqezbfLTzqHAr1B-RLgCs_7pviLCd8bmLjxPhe1kOoFGxWR9OZEgKkkHw0FoC6rmMf3Jj_a0AtpRukdsR3ugY9LHBcWk__404lYUHBawk61HAgC5Qp0bDkBCnBy-49mE1qoom50U4_Je_crsA19cjKhwFUhlx7-zmQS3y6Uuu8VSd_9IB74vlNbtSTD04R29TKp3z67pX2pGOwmTbSTxHHHCAEUAzms3LKywjCiPQeYt4jhKLI_2pKsGFzY9f2HWA2j2fUuSfWqqE5u_tofI8sfDudk4Sbu18OBJD_BZytc21lOO96EfDjXwPCvRqd_oMs1Rfu29gUhsivFbDLw2TpNeq7b66sumvSGLcoCmr0ONlaZK02MtP4z8cvPWBS2caitTYsMMLBk_4F/s0/000cover.jpg",
+                              "post": "
 <img src=\"https://1.bp.blogspot.com/-nwsXBNAd_pU/X8TeRnhK8WI/AAAAAAAA2as/eCmZ0uoq9oIyN7prmzohmGKVsMh0TEh9ACEwYBhgLKtQDAL1OcqxVbe5ev1J4FqchBXat43zpKWIwGVdXma8lDtBuUNVJsk3olRTNjVgVuM8792cePtKK8ZBtpww_4ijjZpDnxgR2VqB96YlYpR1KUNizf03pzw6AOqB5h0d5DplPEDjyjZULXzfDIfnF02qepXeD581KYO8e7xRRXJcz4uB8-0uwoq3jZ540Y84C2SGjxOrPPDU7Y8XyASoJqnHdUjCeKLIc5BCpG9r7Buzlc-jqezbfLTzqHAr1B-RLgCs_7pviLCd8bmLjxPhe1kOoFGxWR9OZEgKkkHw0FoC6rmMf3Jj_a0AtpRukdsR3ugY9LHBcWk__404lYUHBawk61HAgC5Qp0bDkBCnBy-49mE1qoom50U4_Je_crsA19cjKhwFUhlx7-zmQS3y6Uuu8VSd_9IB74vlNbtSTD04R29TKp3z67pX2pGOwmTbSTxHHHCAEUAzms3LKywjCiPQeYt4jhKLI_2pKsGFzY9f2HWA2j2fUuSfWqqE5u_tofI8sfDudk4Sbu18OBJD_BZytc21lOO96EfDjXwPCvRqd_oMs1Rfu29gUhsivFbDLw2TpNeq7b66sumvSGLcoCmr0ONlaZK02MtP4z8cvPWBS2caitTYsMMLBk_4F/s5000/IMG_20201130_173916-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-vM7FQIXp-BE/X8TeRhINgKI/AAAAAAAA2aw/iH9aFiJKCHE9wl_x29qmSfs0d0WeoYHvwCEwYBhgLKtQDAL1OcqxVbe5ev1J4FqchBXat43zpKWIwGVdXma8lDtBuUNVJsk3olRTNjVgVuM8792cePtKK8ZBtpww_4ijjZpDnxgR2VqB96YlYpR1KUNizf03pzw6AOqB5h0d5DplPEDjyjZULXzfDIfnF02qepXeD581KYO8e7xRRXJcz4uB8-0uwoq3jZ540Y84C2SGjxOrPPDU7Y8XyASoJqnHdUjCeKLIc5BCpG9r7Buzlc-jqezbfLTzqHAr1B-RLgCs_7pviLCd8bmLjxPhe1kOoFGxWR9OZEgKkkHw0FoC6rmMf3Jj_a0AtpRukdsR3ugY9LHBcWk__404lYUHBawk61HAgC5Qp0bDkBCnBy-49mE1qoom50U4_Je_crsA19cjKhwFUhlx7-zmQS3y6Uuu8VSd_9IB74vlNbtSTD04R29TKp3z67pX2pGOwmTbSTxHHHCAEUAzms3LKywjCiPQeYt4jhKLI_2pKsGFzY9f2HWA2j2fUuSfWqqE5u_tofI8sfDudk4Sbu18OBJD_BZytc21lOO96EfDjXwPCvRqd_oMs1Rfu29gUhsivFbDLw2TpNeq7b66sumvSGLcoCmr0ONlaZK02MtP4z8cvPWBS2caitTYsMMLBk_4F/s5000/IMG_20201130_173924-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-UdUS0Ah-kZs/X8TeSs1RYbI/AAAAAAAA2a0/Rf2wAna-PMMgEx52sRwqPZ4tKj9wklxywCEwYBhgLKtQDAL1OcqxVbe5ev1J4FqchBXat43zpKWIwGVdXma8lDtBuUNVJsk3olRTNjVgVuM8792cePtKK8ZBtpww_4ijjZpDnxgR2VqB96YlYpR1KUNizf03pzw6AOqB5h0d5DplPEDjyjZULXzfDIfnF02qepXeD581KYO8e7xRRXJcz4uB8-0uwoq3jZ540Y84C2SGjxOrPPDU7Y8XyASoJqnHdUjCeKLIc5BCpG9r7Buzlc-jqezbfLTzqHAr1B-RLgCs_7pviLCd8bmLjxPhe1kOoFGxWR9OZEgKkkHw0FoC6rmMf3Jj_a0AtpRukdsR3ugY9LHBcWk__404lYUHBawk61HAgC5Qp0bDkBCnBy-49mE1qoom50U4_Je_crsA19cjKhwFUhlx7-zmQS3y6Uuu8VSd_9IB74vlNbtSTD04R29TKp3z67pX2pGOwmTbSTxHHHCAEUAzms3LKywjCiPQeYt4jhKLI_2pKsGFzY9f2HWA2j2fUuSfWqqE5u_tofI8sfDudk4Sbu18OBJD_BZytc21lOO96EfDjXwPCvRqd_oMs1Rfu29gUhsivFbDLw2TpNeq7b66sumvSGLcoCmr0ONlaZK02MtP4z8cvPWBS2caitTYsMMLBk_4F/s5000/IMG_20201130_173931-picsay.jpg\"width=\"100%\"/>
@@ -258,14 +284,12 @@
 <img src=\"https://1.bp.blogspot.com/-pN1MI_Gg44g/X8TecBp1rFI/AAAAAAAA2cY/dnY11TBE58M2dZPZaY2X25_cODXn-SLzwCLcBGAsYHQ/s5000/IMG_20201130_174429.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-jKPViv9emPk/X8TecSp1fHI/AAAAAAAA2cc/SuYzOBtoV-we4CYolHYhFQ0SenzsXdb9wCLcBGAsYHQ/s5000/IMG_20201130_174435-picsay.jpg\"width=\"100%\"/>
             "
-      }
-      ,
-    
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၈၉)",
-"cover" : "https://1.bp.blogspot.com/-LlkcKQOxwRE/X8JXilTPvnI/AAAAAAAA1lQ/qk90DcXG1skCm-_DditHDHfJJG2QizNbQCLcBGAsYHQ/s0/000cover.jpg",
-"post" : "
+                           },
+                           {
+                              "title": "တိတ်တခိုး",
+                              "status": "အပိုင်း(၈၉)",
+                              "cover": "https://1.bp.blogspot.com/-LlkcKQOxwRE/X8JXilTPvnI/AAAAAAAA1lQ/qk90DcXG1skCm-_DditHDHfJJG2QizNbQCLcBGAsYHQ/s0/000cover.jpg",
+                              "post": "
 <img src=\"https://1.bp.blogspot.com/-xQbkzDWURdY/X8JXiwWujyI/AAAAAAAA1lU/FJS7xWdiXOAWgNOWDrk0st7rMmNA8N8EQCLcBGAsYHQ/s0/IMG_20201128_181546-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-RNjZQxRXAHA/X8JXjENDGdI/AAAAAAAA1lY/iUv71cZI65QIegfm-a7_vzTEX0NhoYaOwCLcBGAsYHQ/s0/IMG_20201128_181552-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-steLohU2gOU/X8JXj3W15DI/AAAAAAAA1lg/axc28WT3J80zAgj7Jq6WWyatUQqWIF6fgCLcBGAsYHQ/s0/IMG_20201128_181558-picsay.jpg\" width=\"100%\" />
@@ -293,10 +317,10 @@
 <img src=\"https://1.bp.blogspot.com/-JJR_br4CIPk/X8JXsXrURxI/AAAAAAAA1nQ/F5HHC_i0JkgrIaRo2ec1L9zSqdXYOOL8QCLcBGAsYHQ/s0/IMG_20201128_181848-picsay.jpg\" width=\"100%\" />
 "},    
 {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၈၈)",
-"cover" : "https://1.bp.blogspot.com/-7RwpQ5DwQ3M/X8JXOxHiRHI/AAAAAAAA1jA/mLlq_Rshercs1aPXvtLNZtR4aT7EU6WywCLcBGAsYHQ/s0/000cover.jpg",
-"post" : "
+                                 "title": "တိတ်တခိုး",
+                                 "status": "အပိုင်း(၈၈)",
+                                 "cover": "https://1.bp.blogspot.com/-7RwpQ5DwQ3M/X8JXOxHiRHI/AAAAAAAA1jA/mLlq_Rshercs1aPXvtLNZtR4aT7EU6WywCLcBGAsYHQ/s0/000cover.jpg",
+                                 "post": "
 <img src=\"https://1.bp.blogspot.com/-wYVLOqZc6xg/X8JXO8S9JuI/AAAAAAAA1jE/wAx8JfM11a8WuvpSaHSSRRB-VcWjDJ_egCLcBGAsYHQ/s0/IMG_20201128_181230-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-emaOv1jA5k0/X8JXO4qWPxI/AAAAAAAA1jI/kEU6e0xyyCo8Uu4SMOonf6TwL2gEr4hGwCLcBGAsYHQ/s0/IMG_20201128_181241-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-Lanx_6DLFcU/X8JXQWe4v8I/AAAAAAAA1jM/VHZxRAabFLEYA8wYAY_9HyL6E5p2f0R7ACLcBGAsYHQ/s0/IMG_20201128_181248-picsay.jpg\" width=\"100%\" />
@@ -324,10 +348,10 @@
 <img src=\"https://1.bp.blogspot.com/-SB_0idMLNE8/X8JXYzJSfeI/AAAAAAAA1k0/oo08zimwX1kZVmjsWeIJgCVjkFjaaR_qQCLcBGAsYHQ/s0/IMG_20201128_181537-picsay.jpg\" width=\"100%\" />
 "},
 {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၈၇)",
-"cover" : "https://1.bp.blogspot.com/-boHISRgI5VY/X75hFpA5BII/AAAAAAAA1JU/3dWbtvZ39Uobg7REhFDa-Du--aHjjX_8wCLcBGAsYHQ/s0/000cover.jpg",
-"post" : "
+                                    "title": "တိတ်တခိုး",
+                                    "status": "အပိုင်း(၈၇)",
+                                    "cover": "https://1.bp.blogspot.com/-boHISRgI5VY/X75hFpA5BII/AAAAAAAA1JU/3dWbtvZ39Uobg7REhFDa-Du--aHjjX_8wCLcBGAsYHQ/s0/000cover.jpg",
+                                    "post": "
 <img src=\"https://1.bp.blogspot.com/-yD1DgzVaX0E/X75hFnbXgGI/AAAAAAAA1JM/A6qoryTE06UdglWA1W3iv5N8J11W23CiQCLcBGAsYHQ/s0/IMG_20201125_194238-picsayjpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-01LSViQs9Jc/X75hFr0-Z0I/AAAAAAAA1JQ/ZBd0N55yDnM3t0cGQ4HJhP0octQtD0oWQCLcBGAsYHQ/s0/IMG_20201125_194259-picsayjpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-3WOwFFqZQjI/X75hGcCQ6tI/AAAAAAAA1JY/TyeWACcnDdgQTGNRdekxVug0q-fxWckcQCLcBGAsYHQ/s0/IMG_20201125_194318-picsayjpg\" width=\"100%\" />
@@ -357,10 +381,10 @@
 <img src=\"https://1.bp.blogspot.com/-1LDlsYiLUV0/X75hN94LBFI/AAAAAAAA1K4/P6-HhftSI_Esl9ipmjjnFAh7UXD1PtxJwCLcBGAsYHQ/s0/IMG_20201125_194633-picsayjpg\" width=\"100%\" />
 "},
 {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၈၆)",
-"cover" : "https://1.bp.blogspot.com/-z0LdCpkgkmA/X7kC7G-_KMI/AAAAAAAA0Wo/G3Rm4QV4HSYZxn_eLo5muCGnp5zhLiu1wCEwYBhgLKtQDAL1OcqzfP0adnzNaPD_L1I60c64kEI1hrZCDyg5YoRKi70kkmeQC-fDI7WQXbhbyKCc1L5sAGLsV-b5YMUfdieK2alT-Ws6q6lHAAMJqpt1I-_IwXx4zmnRdFeEaJLQ-aZ4yfAOXXCMvI7gCeB4pE3TccFccYn3T1IoCksy6x9gJqot1bFRebPVNEH2WfXJNlwxJpQK4_WwpvejrJxUHzVJydRw6D8iiG5GyXwc_BS6IFlwkRHc1qvlr_tGcg_DJr4Y2QzYxRGRvWPJKsqNf8c19-g3CjZHF_-1bTcTiiBgJ90LneDs6HI1U2Dye9qfKYKsxzBUf3wOlQ1xZ__ei50ABs5kSRHAyHckIsowjJQ0PAGgHkWstqZrYrtclSTvckuuWTgwIfEqLfWlSirjyWFJXLBLN_5yWfAMoDIFp8VkPp9e6F6GWmLoXiD8g730IYsr7Bo2AD_BoanSgEz9t5357-XfdVxGy_Ngt3Th_AjLpZevBivs0ALJMlz4flrguewdWMECnZPN-wfwGBOPraBgzX3X8jwfXn3rUyKD1Uey_Z-w_qBab6S29-GtTozUnhzH43-hMXcBzY87Pgqqn829jMCfZzKPMhhxrAzBuEXqIvva4MM6K5P0F/s0/000cover.jpg",
-"post" : "
+                                       "title": "တိတ်တခိုး",
+                                       "status": "အပိုင်း(၈၆)",
+                                       "cover": "https://1.bp.blogspot.com/-z0LdCpkgkmA/X7kC7G-_KMI/AAAAAAAA0Wo/G3Rm4QV4HSYZxn_eLo5muCGnp5zhLiu1wCEwYBhgLKtQDAL1OcqzfP0adnzNaPD_L1I60c64kEI1hrZCDyg5YoRKi70kkmeQC-fDI7WQXbhbyKCc1L5sAGLsV-b5YMUfdieK2alT-Ws6q6lHAAMJqpt1I-_IwXx4zmnRdFeEaJLQ-aZ4yfAOXXCMvI7gCeB4pE3TccFccYn3T1IoCksy6x9gJqot1bFRebPVNEH2WfXJNlwxJpQK4_WwpvejrJxUHzVJydRw6D8iiG5GyXwc_BS6IFlwkRHc1qvlr_tGcg_DJr4Y2QzYxRGRvWPJKsqNf8c19-g3CjZHF_-1bTcTiiBgJ90LneDs6HI1U2Dye9qfKYKsxzBUf3wOlQ1xZ__ei50ABs5kSRHAyHckIsowjJQ0PAGgHkWstqZrYrtclSTvckuuWTgwIfEqLfWlSirjyWFJXLBLN_5yWfAMoDIFp8VkPp9e6F6GWmLoXiD8g730IYsr7Bo2AD_BoanSgEz9t5357-XfdVxGy_Ngt3Th_AjLpZevBivs0ALJMlz4flrguewdWMECnZPN-wfwGBOPraBgzX3X8jwfXn3rUyKD1Uey_Z-w_qBab6S29-GtTozUnhzH43-hMXcBzY87Pgqqn829jMCfZzKPMhhxrAzBuEXqIvva4MM6K5P0F/s0/000cover.jpg",
+                                       "post": "
 <img src=\"https://1.bp.blogspot.com/-WslFPHL5UOc/X7kC7EgQQFI/AAAAAAAA0Ws/4ZKhyFCs9f02K4B2X-0MuWCj5YXf0zlwwCEwYBhgLKtQDAL1OcqzfP0adnzNaPD_L1I60c64kEI1hrZCDyg5YoRKi70kkmeQC-fDI7WQXbhbyKCc1L5sAGLsV-b5YMUfdieK2alT-Ws6q6lHAAMJqpt1I-_IwXx4zmnRdFeEaJLQ-aZ4yfAOXXCMvI7gCeB4pE3TccFccYn3T1IoCksy6x9gJqot1bFRebPVNEH2WfXJNlwxJpQK4_WwpvejrJxUHzVJydRw6D8iiG5GyXwc_BS6IFlwkRHc1qvlr_tGcg_DJr4Y2QzYxRGRvWPJKsqNf8c19-g3CjZHF_-1bTcTiiBgJ90LneDs6HI1U2Dye9qfKYKsxzBUf3wOlQ1xZ__ei50ABs5kSRHAyHckIsowjJQ0PAGgHkWstqZrYrtclSTvckuuWTgwIfEqLfWlSirjyWFJXLBLN_5yWfAMoDIFp8VkPp9e6F6GWmLoXiD8g730IYsr7Bo2AD_BoanSgEz9t5357-XfdVxGy_Ngt3Th_AjLpZevBivs0ALJMlz4flrguewdWMECnZPN-wfwGBOPraBgzX3X8jwfXn3rUyKD1Uey_Z-w_qBab6S29-GtTozUnhzH43-hMXcBzY87Pgqqn829jMCfZzKPMhhxrAzBuEXqIvva4MM6K5P0F/s0/IMG_20201121_171431.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-e10WdU3u_Eo/X7kC7A18t9I/AAAAAAAA0Ww/IkI9d5GSZRUFyGu1PlUDvKXYpY-VJWHAgCEwYBhgLKtQDAL1OcqzfP0adnzNaPD_L1I60c64kEI1hrZCDyg5YoRKi70kkmeQC-fDI7WQXbhbyKCc1L5sAGLsV-b5YMUfdieK2alT-Ws6q6lHAAMJqpt1I-_IwXx4zmnRdFeEaJLQ-aZ4yfAOXXCMvI7gCeB4pE3TccFccYn3T1IoCksy6x9gJqot1bFRebPVNEH2WfXJNlwxJpQK4_WwpvejrJxUHzVJydRw6D8iiG5GyXwc_BS6IFlwkRHc1qvlr_tGcg_DJr4Y2QzYxRGRvWPJKsqNf8c19-g3CjZHF_-1bTcTiiBgJ90LneDs6HI1U2Dye9qfKYKsxzBUf3wOlQ1xZ__ei50ABs5kSRHAyHckIsowjJQ0PAGgHkWstqZrYrtclSTvckuuWTgwIfEqLfWlSirjyWFJXLBLN_5yWfAMoDIFp8VkPp9e6F6GWmLoXiD8g730IYsr7Bo2AD_BoanSgEz9t5357-XfdVxGy_Ngt3Th_AjLpZevBivs0ALJMlz4flrguewdWMECnZPN-wfwGBOPraBgzX3X8jwfXn3rUyKD1Uey_Z-w_qBab6S29-GtTozUnhzH43-hMXcBzY87Pgqqn829jMCfZzKPMhhxrAzBuEXqIvva4MM6K5P0F/s0/IMG_20201121_171437-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-BCGHk-iw_I0/X7kC7xY2DmI/AAAAAAAA0W0/AkyNDq4HlVwzJbLatTPfPceiAdjwB6TMQCEwYBhgLKtQDAL1OcqzfP0adnzNaPD_L1I60c64kEI1hrZCDyg5YoRKi70kkmeQC-fDI7WQXbhbyKCc1L5sAGLsV-b5YMUfdieK2alT-Ws6q6lHAAMJqpt1I-_IwXx4zmnRdFeEaJLQ-aZ4yfAOXXCMvI7gCeB4pE3TccFccYn3T1IoCksy6x9gJqot1bFRebPVNEH2WfXJNlwxJpQK4_WwpvejrJxUHzVJydRw6D8iiG5GyXwc_BS6IFlwkRHc1qvlr_tGcg_DJr4Y2QzYxRGRvWPJKsqNf8c19-g3CjZHF_-1bTcTiiBgJ90LneDs6HI1U2Dye9qfKYKsxzBUf3wOlQ1xZ__ei50ABs5kSRHAyHckIsowjJQ0PAGgHkWstqZrYrtclSTvckuuWTgwIfEqLfWlSirjyWFJXLBLN_5yWfAMoDIFp8VkPp9e6F6GWmLoXiD8g730IYsr7Bo2AD_BoanSgEz9t5357-XfdVxGy_Ngt3Th_AjLpZevBivs0ALJMlz4flrguewdWMECnZPN-wfwGBOPraBgzX3X8jwfXn3rUyKD1Uey_Z-w_qBab6S29-GtTozUnhzH43-hMXcBzY87Pgqqn829jMCfZzKPMhhxrAzBuEXqIvva4MM6K5P0F/s0/IMG_20201121_171442-picsay.jpg\" width=\"100%\" />
@@ -391,10 +415,10 @@
 "},
 
 {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၈၅)",
-"cover" : "https://1.bp.blogspot.com/-fJVmb5w0lIk/X7UFXYvsN4I/AAAAAAAAznA/A9J1tfdYse0NEQMZhOOFAGPbsfcYmFfMACLcBGAsYHQ/s0/000cover.jpg",
-"post" : "
+                                          "title": "တိတ်တခိုး",
+                                          "status": "အပိုင်း(၈၅)",
+                                          "cover": "https://1.bp.blogspot.com/-fJVmb5w0lIk/X7UFXYvsN4I/AAAAAAAAznA/A9J1tfdYse0NEQMZhOOFAGPbsfcYmFfMACLcBGAsYHQ/s0/000cover.jpg",
+                                          "post": "
       <img src=\"https://1.bp.blogspot.com/-LYHh5D3asvA/X7UFXp6iNDI/AAAAAAAAznE/eI2tHlWAj38NKWoZG0RfaxiV5nCzbuVhgCLcBGAsYHQ/s5000/IMG_20201118_152609-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-pq5l9PdzKhU/X7UFXr3KbAI/AAAAAAAAznI/PbQuySFZgVIxVFP2Jy3lhGBmD1wnZf3VACLcBGAsYHQ/s5000/IMG_20201118_152613-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-mE7bIEkCTzQ/X7UFYWuPjII/AAAAAAAAznM/Jc84Rbf2_wU9dAfJIcayk2KaTkrPrRbSACLcBGAsYHQ/s5000/IMG_20201118_161758-picsay.jpg\"width=\"100%\"/>
@@ -426,13 +450,12 @@
 <img src=\"https://1.bp.blogspot.com/-DLAvFY9P2HM/X7UFh7mK8aI/AAAAAAAAzpA/uIUT5bSlrUAAk5WVn4EQbiPiSjfpE-a-QCLcBGAsYHQ/s5000/IMG_20201118_162020-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-pQaPk5hAXKg/X7UFiFdySJI/AAAAAAAAzpE/KgWm8fgq7JEYZIqxwgXoPD4n1wEpAKeIQCLcBGAsYHQ/s5000/IMG_20201118_162027-picsay.jpg\"width=\"100%\"/>
       "
-   }
-   ,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၈၄)",
-"cover" : "https://1.bp.blogspot.com/-rijRVr8-sD4/X63W7s0pylI/AAAAAAAAy94/Hc4oln9xB70AbcH4RoQsgrf2mnR2rNEawCLcBGAsYHQ/s0/000cover.jpg",
-"post" : "
+                                       },
+                                       {
+                                          "title": "တိတ်တခိုး",
+                                          "status": "အပိုင်း(၈၄)",
+                                          "cover": "https://1.bp.blogspot.com/-rijRVr8-sD4/X63W7s0pylI/AAAAAAAAy94/Hc4oln9xB70AbcH4RoQsgrf2mnR2rNEawCLcBGAsYHQ/s0/000cover.jpg",
+                                          "post": "
 <img src=\"https://1.bp.blogspot.com/-QlGrrCWLD0c/X63W7kGy98I/AAAAAAAAy98/rJq1LppCXR8V1Re1q6ARWT5AWf8S8ne1gCLcBGAsYHQ/s0/1605222737156-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-ZePm3HHOBIA/X63W7hMQtYI/AAAAAAAAy-A/RW7FkvE9EZEJ0MeDwKNHSco1tOashpIbgCLcBGAsYHQ/s0/1605222790327-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-HWiERvbf4K4/X63W8kwhTLI/AAAAAAAAy-E/f2HjTmIiJGABbqHM0_-LobquglNFgbrPACLcBGAsYHQ/s0/1605222829419-picsay.jpg\" width=\"100%\" />
@@ -463,10 +486,10 @@
 <img src=\"https://1.bp.blogspot.com/-Z1zO0QsPwxA/X63XENrnWnI/AAAAAAAAy_o/2SbQh6tIDj8aSUg3gVx9RCKomC1-tcv1wCLcBGAsYHQ/s0/1605224240342-picsay.jpg\" width=\"100%\" />
 "},
 {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၈၃)",
-"cover" : "https://1.bp.blogspot.com/-3SluvlMvN1s/X6fujM4FwwI/AAAAAAAAx_A/HY6OvngQ0eICJBCmFJId-NG3yXgN0QIowCLcBGAsYHQ/s0/000cover.jpg",
-"post" : "
+                                             "title": "တိတ်တခိုး",
+                                             "status": "အပိုင်း(၈၃)",
+                                             "cover": "https://1.bp.blogspot.com/-3SluvlMvN1s/X6fujM4FwwI/AAAAAAAAx_A/HY6OvngQ0eICJBCmFJId-NG3yXgN0QIowCLcBGAsYHQ/s0/000cover.jpg",
+                                             "post": "
 <img src=\"https://1.bp.blogspot.com/-Bunl2V-yG08/X6fujFiD6cI/AAAAAAAAx_I/u61og5ccmbUvyZLhU8YzqNUz3kA3kIobwCLcBGAsYHQ/s5000/1604838889527-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-2iRhJtf4InI/X6fujMoZ-fI/AAAAAAAAx_E/BOUL7UWtijEa8w1QSwmETSmkwASi2jBeACLcBGAsYHQ/s5000/1604839070455-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-O0BBUOLsN5U/X6fukC8KxII/AAAAAAAAx_M/GQeFTZVtjII6hA5E2LYRARrQAVylJ1XEQCLcBGAsYHQ/s5000/1604839222953-picsay.jpg\"width=\"100%\"/>
@@ -493,13 +516,12 @@
 <img src=\"https://1.bp.blogspot.com/-Nh6XFKEwCwk/X6fuqheJhgI/AAAAAAAAyAg/z_HPY0PB7H4JztMu1Q4nkrcpHPcH8MgOQCLcBGAsYHQ/s5000/1604840618352-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-7hMxwshphHw/X6furW01GPI/AAAAAAAAyAk/3yRXjTiiSNU55Y89WcNHZwynXrezOWOYwCLcBGAsYHQ/s5000/1604840676183-picsay.jpg\"width=\"100%\"/>
       "
-   }
-   ,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၈၂)",
-"cover" : "https://1.bp.blogspot.com/-shoISv8vXY0/X51YkzIw_-I/AAAAAAAAwXM/kEgKjskfFwM-J6w4G3iO5Qa68ERArqXcgCLcBGAsYHQ/s0/000cover.jpg",
-"post" : "
+                                          },
+                                          {
+                                             "title": "တိတ်တခိုး",
+                                             "status": "အပိုင်း(၈၂)",
+                                             "cover": "https://1.bp.blogspot.com/-shoISv8vXY0/X51YkzIw_-I/AAAAAAAAwXM/kEgKjskfFwM-J6w4G3iO5Qa68ERArqXcgCLcBGAsYHQ/s0/000cover.jpg",
+                                             "post": "
 <img src=\"https://1.bp.blogspot.com/-7nfihrGzHOk/X51Yk5AeS5I/AAAAAAAAwXQ/b5O5fkEzjbYUau8_7N3FkrKxQF5FwxpvACLcBGAsYHQ/s0/1604144485826-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-z4vqfMlZpTc/X51Yk6ecuzI/AAAAAAAAwXI/_paRIDX_BnIwyHO4Addu55cjP81vcaEhQCLcBGAsYHQ/s0/1604144528556-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-VvD1GqSgcpA/X51YliWgsmI/AAAAAAAAwXU/eKNGv-H0Y0IML6qo1hfBHTifFgQdpElyACLcBGAsYHQ/s0/1604144657005-picsay.jpg\" width=\"100%\" />
@@ -524,13 +546,12 @@
 <img src=\"https://1.bp.blogspot.com/-gDswNlS9k-8/X51YrS-ZRQI/AAAAAAAAwYg/WLhVWda38vYr03pGJez1bzqv4XxIKSBygCLcBGAsYHQ/s0/1604145334882-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-KA9JeqLCP6E/X51YsLy1q7I/AAAAAAAAwYk/UCHgjay8LPYp56EVjdMQ38OENcf4yOdGQCLcBGAsYHQ/s0/1604145379072-picsay.jpg\" width=\"100%\" />
 "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၈၁)",
-"cover" : "https://1.bp.blogspot.com/-tREC4cP_L1M/X47m5JJn-WI/AAAAAAAAu94/M4Ss8NYVtEcziflN0C8ihlb02sZOA2XwgCLcBGAsYHQ/s300/000cover.jpg",
-"post" : "
+                                          },
+                                          {
+                                             "title": "တိတ်တခိုး",
+                                             "status": "အပိုင်း(၈၁)",
+                                             "cover": "https://1.bp.blogspot.com/-tREC4cP_L1M/X47m5JJn-WI/AAAAAAAAu94/M4Ss8NYVtEcziflN0C8ihlb02sZOA2XwgCLcBGAsYHQ/s300/000cover.jpg",
+                                             "post": "
 <img src=\"https://1.bp.blogspot.com/-uhHXo4AhIrY/X47m5BWuNII/AAAAAAAAu-A/GOvVAwba_z8L1BRS0S8aP9Fy9cvyBF9PwCLcBGAsYHQ/s0/1603194189142-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-nOGmUJeoiNg/X47m5I5NTxI/AAAAAAAAu98/L1wQdLunL8osvinGkm9doU34xI5Zde49wCLcBGAsYHQ/s0/1603194298822-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-YaSEnclMKlM/X47m5_B4xqI/AAAAAAAAu-E/8wz9GsRkZHoZaQ1jePHbjJ2oNF4Zhej2ACLcBGAsYHQ/s0/1603194449739-picsay.jpg\" width=\"100%\" />
@@ -558,13 +579,12 @@
 <img src=\"https://1.bp.blogspot.com/-_xV7OuKv8UY/X47m-t1jNuI/AAAAAAAAu_g/Wt5ihcD1hgoE0ZSdfhdiWYi5BVNi3ABYACLcBGAsYHQ/s0/1603197594251-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-9CiB74aj610/X47m-kkggYI/AAAAAAAAu_c/gkSGPoqGBK8YywOqPGlhDW-oR2sHepLbACLcBGAsYHQ/s0/1603197621365-picsay.jpg\" width=\"100%\" />
 "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၈၀)",
-"cover" : "https://1.bp.blogspot.com/-hEZmHL0sXt4/X4GtaWvvoRI/AAAAAAAAs3c/8Fvy-wqOBKwCg92oSdpJWvbnNrRhhsHKQCLcBGAsYHQ/s320/000cover.jpg",
-"post" : "
+                                          },
+                                          {
+                                             "title": "တိတ်တခိုး",
+                                             "status": "အပိုင်း(၈၀)",
+                                             "cover": "https://1.bp.blogspot.com/-hEZmHL0sXt4/X4GtaWvvoRI/AAAAAAAAs3c/8Fvy-wqOBKwCg92oSdpJWvbnNrRhhsHKQCLcBGAsYHQ/s320/000cover.jpg",
+                                             "post": "
 <img src=\"https://1.bp.blogspot.com/-7crtonYi8_w/X4GtaQkUMDI/AAAAAAAAs3g/p6vQ9eV7e6sMxdy_iH2nOlv-kDSS2p5ggCLcBGAsYHQ/s5000/IMG_20201010_184121-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-Uur3LZ1f0gI/X4GtaeHjfEI/AAAAAAAAs3k/--rh5lqeAyM5u8MTHLUmWIHffU2Uso_LQCLcBGAsYHQ/s5000/IMG_20201010_184127-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-PL5vJSfvXGU/X4GtbcpaiOI/AAAAAAAAs3o/yCf3gFn_lhwmmvqyfGMnI6ZSGypdZtbmwCLcBGAsYHQ/s5000/IMG_20201010_184132-picsay.jpg\" width=\"100%\" />
@@ -586,13 +606,12 @@
 <img src=\"https://1.bp.blogspot.com/-z-DyXmpMONI/X4Gte7lgAAI/AAAAAAAAs4o/ENERzXIxNJ4JtKZW23CA4U7N8xNUGOjjACLcBGAsYHQ/s5000/IMG_20201010_184301.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-mVjtVwBGolY/X4GtfNYVn-I/AAAAAAAAs4s/1sjfdCS-LyYH0sMic9QCqVWprrgt7w-MgCLcBGAsYHQ/s5000/IMG_20201010_184306-picsay.jpg\" width=\"100%\" />
 "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၇၉)",
-"cover" : "https://1.bp.blogspot.com/-HGZu1xpepDA/X4Byd7OmllI/AAAAAAAAsmA/H_T_aFlrQSYDy-mvXmCTT2OZTJkZAPRcQCLcBGAsYHQ/s300/000cover.jpg",
-"post" : "
+                                          },
+                                          {
+                                             "title": "တိတ်တခိုး",
+                                             "status": "အပိုင်း(၇၉)",
+                                             "cover": "https://1.bp.blogspot.com/-HGZu1xpepDA/X4Byd7OmllI/AAAAAAAAsmA/H_T_aFlrQSYDy-mvXmCTT2OZTJkZAPRcQCLcBGAsYHQ/s300/000cover.jpg",
+                                             "post": "
 <img src=\"https://1.bp.blogspot.com/-JpwyXaNrsck/X4BydwYBPMI/AAAAAAAAsmE/TbStWb4eFWI9gVo8v0IIdX0WdFMIpSBJQCLcBGAsYHQ/s5000/IMG_20201009_190811-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-9v4tESLR7lk/X4Byd9C-n4I/AAAAAAAAsmI/NhetEA3UwdMU_d-_MGpHJO3mqAvGqA2ZACLcBGAsYHQ/s5000/IMG_20201009_190816-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-b3iie14INgw/X4ByeuDKQtI/AAAAAAAAsmU/YeA3MqUgWYwEWb_FGyX7V7cbjGohGhRfACLcBGAsYHQ/s5000/IMG_20201009_190825-picsay.jpg\" width=\"100%\" />
@@ -616,13 +635,12 @@
 <img src=\"https://1.bp.blogspot.com/-Utgo_fSFIMY/X4ByjiDQToI/AAAAAAAAsnU/LCzTT2E38K85VoQOfwJeVXMjPmPpGumdQCLcBGAsYHQ/s5000/IMG_20201009_191044-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-kXM4de-lCUI/X4Byj1i9VnI/AAAAAAAAsnY/LEDnZ7Jzp_QM6Z_oxOtJeMqnWDMV8owJQCLcBGAsYHQ/s5000/IMG_20201009_191050-picsay.jpg\" width=\"100%\" />
 "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၇၈)",
-"cover" : "https://1.bp.blogspot.com/-z4H_Y_e9TbE/X30u1UBxKvI/AAAAAAAAraU/uRuC1XE4NfET8fzKEF99up4Il7W_pllLACLcBGAsYHQ/s320/000cover.jpg",
-"post" : "
+                                          },
+                                          {
+                                             "title": "တိတ်တခိုး",
+                                             "status": "အပိုင်း(၇၈)",
+                                             "cover": "https://1.bp.blogspot.com/-z4H_Y_e9TbE/X30u1UBxKvI/AAAAAAAAraU/uRuC1XE4NfET8fzKEF99up4Il7W_pllLACLcBGAsYHQ/s320/000cover.jpg",
+                                             "post": "
 <img src=\"https://1.bp.blogspot.com/-Oghe1hbRDTA/X30u1QMikpI/AAAAAAAAraY/AZguHi8kVZMPZwMGdI_Vuqze4KvyXmsogCLcBGAsYHQ/s5000/IMG_20201005_183440-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-4SquSLTOdaA/X30u1a4ptxI/AAAAAAAAraQ/6v0x2MAOWUE-KqQA2W1yRUVne5xH3_DCwCLcBGAsYHQ/s5000/IMG_20201005_183447-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-7K-XZbSdL6A/X30u10E-pUI/AAAAAAAArag/oDdxq0U6BFYbn3rl2rVkDaa0UYJPmNcLACLcBGAsYHQ/s5000/IMG_20201005_183451-picsay.jpg\" width=\"100%\" />
@@ -645,13 +663,12 @@
 <img src=\"https://1.bp.blogspot.com/-dbHzJrdIG2s/X30u8s9WouI/AAAAAAAArbw/MSTRbnqgfOE5GuxyFIMq2OE7tW7MQvCvwCLcBGAsYHQ/s5000/IMG_20201007_084758-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-IJjDNCXPnAM/X30u9FO0uMI/AAAAAAAArb0/mA_zd3oz4TobHprdoPoojvNiSNWwCExhgCLcBGAsYHQ/s5000/IMG_20201007_084806-picsay.jpg\" width=\"100%\" />
 "
-}
-,
-   {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၇၇)",
-"cover" : "https://1.bp.blogspot.com/-hAijtcrt9AA/X3m2giqMX_I/AAAAAAAAqjg/ECpmbiZIq0gX6K7FQdHKrC0pVJDHSPv2gCLcBGAsYHQ/s0/000cover.jpg",
-"post" : "
+                                          },
+                                          {
+                                             "title": "တိတ်တခိုး",
+                                             "status": "အပိုင်း(၇၇)",
+                                             "cover": "https://1.bp.blogspot.com/-hAijtcrt9AA/X3m2giqMX_I/AAAAAAAAqjg/ECpmbiZIq0gX6K7FQdHKrC0pVJDHSPv2gCLcBGAsYHQ/s0/000cover.jpg",
+                                             "post": "
      <img src=\"https://1.bp.blogspot.com/-XtMM7DF9HDg/X3m2goJ4XmI/AAAAAAAAqjc/LO3UCuz8qzEEXhHV5TWg9FeVlWpHvYvaQCLcBGAsYHQ/s5000/IMG_20201004_121138-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-6SeF1AuKYTM/X3m2gklaY3I/AAAAAAAAqjk/THJTNrsUhCokO4ODbGQgYxWnwgGa_v7XQCLcBGAsYHQ/s5000/IMG_20201004_121147.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-A5TXYAVTHds/X3m2hgJ4wbI/AAAAAAAAqjo/Gu4If6-uyw0-pi6u4KuZ2zd34ocgyyAAwCLcBGAsYHQ/s5000/IMG_20201004_121152-picsay.jpg\"width=\"100%\"/>
@@ -676,13 +693,12 @@
 <img src=\"https://1.bp.blogspot.com/-wNQbwvMm1kY/X3m2mppTwbI/AAAAAAAAqk4/tI9UQp9t9Bk6uEv5qY43NKivEaeJsOAhgCLcBGAsYHQ/s5000/IMG_20201004_121402.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-LN6YrMqgnIU/X3m2mkeZ2FI/AAAAAAAAqk0/HrHfADVcOuIgyQksC7EUsc6v2KqYd3HrwCLcBGAsYHQ/s5000/IMG_20201004_121408-picsay.jpg\"width=\"100%\"/>
      "
-   }
-  ,
-  {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၇၆)",
-"cover" : "https://1.bp.blogspot.com/-S4sQfzY8YMA/X3h1HJAzpNI/AAAAAAAAqd8/t7vCLAHTjdc46aaAL8-wWSIe7aH35yz-gCLcBGAsYHQ/s320/000cover.jpg",
-"post" : "
+                                          },
+                                          {
+                                             "title": "တိတ်တခိုး",
+                                             "status": "အပိုင်း(၇၆)",
+                                             "cover": "https://1.bp.blogspot.com/-S4sQfzY8YMA/X3h1HJAzpNI/AAAAAAAAqd8/t7vCLAHTjdc46aaAL8-wWSIe7aH35yz-gCLcBGAsYHQ/s320/000cover.jpg",
+                                             "post": "
     <img src=\"https://1.bp.blogspot.com/-tTAc7VKg0y8/X3h1HZZh-lI/AAAAAAAAqeA/nPClCCrEqRU-QzcvkZ9RnVAhTvmv4te0QCLcBGAsYHQ/s5000/IMG_20201003_184935-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-AKl1Xl8l1AQ/X3h1HIKUMiI/AAAAAAAAqd4/5y4VfIFLCAEdV4nKhNydqW--Ml4cjBiJACLcBGAsYHQ/s5000/IMG_20201003_184940-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-UqHtAni75qE/X3h1IOIxoeI/AAAAAAAAqeE/MuIDXwUtBOk_c2Yp2m8RJi9fUkVvjBFjwCLcBGAsYHQ/s5000/IMG_20201003_184949-picsay.jpg\"width=\"100%\"/>
@@ -709,13 +725,12 @@
 <img src=\"https://1.bp.blogspot.com/-8P_c28jv0YA/X3h1NV9Kq0I/AAAAAAAAqfY/K48EdFwmLNMJ6efGeB1BSO8K9fKM8laFQCLcBGAsYHQ/s5000/IMG_20201003_185150-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-G-O1-chq8HI/X3h1Ng8ln9I/AAAAAAAAqfc/U7ch3sZAm_c1Oh92BNE8uuNdi5VPeTXjACLcBGAsYHQ/s5000/IMG_20201003_185155-picsay.jpg\"width=\"100%\"/>
     "
-  }
-  ,
-  {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၇၅)",
-"cover" : "https://1.bp.blogspot.com/-io8nua-glMs/X3CRCziSxtI/AAAAAAAAocI/0lr8Bw9EGvoCZ09_IDRQhT72rGFg21_3wCLcBGAsYHQ/s320/000cover.jpg",
-"post" : "
+                                          },
+                                          {
+                                             "title": "တိတ်တခိုး",
+                                             "status": "အပိုင်း(၇၅)",
+                                             "cover": "https://1.bp.blogspot.com/-io8nua-glMs/X3CRCziSxtI/AAAAAAAAocI/0lr8Bw9EGvoCZ09_IDRQhT72rGFg21_3wCLcBGAsYHQ/s320/000cover.jpg",
+                                             "post": "
     <img src=\"https://1.bp.blogspot.com/-2qyRG7vHh0U/X3CRCkiCtlI/AAAAAAAAocA/_vmWtcCM8ekOusc87RmiyeOrG8Y8gpbSgCLcBGAsYHQ/s5000/IMG_20200927_125551-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-CUb2_b9u0Cw/X3CRC2Vu2cI/AAAAAAAAocE/544lxXytM5o7WD_39hCleA-T_1m4aoBYwCLcBGAsYHQ/s5000/IMG_20200927_125558-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-JR0LpcqD_K4/X3CRD3gIgNI/AAAAAAAAocM/JDXhRNPSp9ArUUL7vngxsOoQ35v7BSbNACLcBGAsYHQ/s5000/IMG_20200927_125605.jpg\"width=\"100%\"/>
@@ -752,13 +767,12 @@
 <img src=\"https://1.bp.blogspot.com/-d_nDZdn0hOs/X3CRL99pM7I/AAAAAAAAoeM/M35bsydVm1ItOaNEpcsZc1YG6wxEj7ytwCLcBGAsYHQ/s5000/IMG_20200927_125956-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-_NR_Yaq3vRg/X3CRL5_otbI/AAAAAAAAoeI/8hxkmTrp_WQKM1mdSWIxxRqpuK6s0MKAgCLcBGAsYHQ/s5000/IMG_20200927_130002-picsay.jpg\"width=\"100%\"/>
     "
-  }
-  ,
-  {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၇၄)",
-"cover" : "https://1.bp.blogspot.com/-OHSXE8t0Dwc/X2ncECIo4AI/AAAAAAAAmKE/Otn6xJ3Lq_EDvFgnM8UJQaDL3jlymoQnwCLcBGAsYHQ/s320/000cover.jpg",
-"post" : "
+                                          },
+                                          {
+                                             "title": "တိတ်တခိုး",
+                                             "status": "အပိုင်း(၇၄)",
+                                             "cover": "https://1.bp.blogspot.com/-OHSXE8t0Dwc/X2ncECIo4AI/AAAAAAAAmKE/Otn6xJ3Lq_EDvFgnM8UJQaDL3jlymoQnwCLcBGAsYHQ/s320/000cover.jpg",
+                                             "post": "
     <img src=\"https://1.bp.blogspot.com/-IuusaGihLyo/X2ncEMO51LI/AAAAAAAAmJ8/8x1tTeyWWZQeRjgU6x9AdghpN7nvoKA0QCLcBGAsYHQ/s5000/IMG_20200922_165427-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-Y-uXO1VvbLM/X2ncEDYLlbI/AAAAAAAAmKA/ivm3AmtyICw8PcWo0nTokVqrz72NyucGwCLcBGAsYHQ/s5000/IMG_20200922_165435-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-gjIBtZ7caYo/X2ncErnf7iI/AAAAAAAAmKQ/748iuYJxa1wz38PFdNvBlb2tPv3qLRQwQCLcBGAsYHQ/s5000/IMG_20200922_165440-picsay.jpg\"width=\"100%\"/>
@@ -786,13 +800,12 @@
 <img src=\"https://1.bp.blogspot.com/-mhE4aJrQuTg/X2ncVwtZ6BI/AAAAAAAAmNA/WB1bX9yUVF849Yc9ziZKeh_X5PdHx8j2gCLcBGAsYHQ/s5000/IMG_20200922_165816-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-r94K8DIjKl8/X2ncWGVnLeI/AAAAAAAAmNE/2YyuqhcTBTAFOtXRQDLcEvCw9DfhzqnSwCLcBGAsYHQ/s5000/IMG_20200922_165823-picsay.jpg\"width=\"100%\"/>
     "
-  }
-  ,
-  {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၇၃)",
-"cover" : "https://1.bp.blogspot.com/-TgjfW1yEi-A/X2iecu2xFEI/AAAAAAAAj_Y/fsDrSdQEgU0WtfHybr0_uqj82US41np8gCLcBGAsYHQ/s0/000cover.jpg",
-"post" : "
+                                          },
+                                          {
+                                             "title": "တိတ်တခိုး",
+                                             "status": "အပိုင်း(၇၃)",
+                                             "cover": "https://1.bp.blogspot.com/-TgjfW1yEi-A/X2iecu2xFEI/AAAAAAAAj_Y/fsDrSdQEgU0WtfHybr0_uqj82US41np8gCLcBGAsYHQ/s0/000cover.jpg",
+                                             "post": "
    <img src=\"https://1.bp.blogspot.com/-ro_rEEJ1wMo/X2iecq_WSII/AAAAAAAAj_g/qOmyckgx7uYlfkKQitGWltMT0XHEGzWXwCLcBGAsYHQ/s5000/IMG_20200921_184136-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-4w4m8XDvma8/X2iecj2_jyI/AAAAAAAAj_c/FJKxQseVvW4SatAONSu5pTZqO2Au4ZFJwCLcBGAsYHQ/s5000/IMG_20200921_184142.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-Ls7GCfrN-xo/X2iedaqHY_I/AAAAAAAAj_k/MUvKO2YI4sEeiusivqe4kiPS9orYMkvEwCLcBGAsYHQ/s5000/IMG_20200921_184148-picsay.jpg\"width=\"100%\"/>
@@ -827,13 +840,12 @@
 <img src=\"https://1.bp.blogspot.com/-XWKnlBjmPTo/X2ieiqEEhBI/AAAAAAAAkBY/GGcOMa6Sp6k6BrLQhfkWtLp1ZIX0U5ZQQCLcBGAsYHQ/s5000/IMG_20200921_184429-picsay.jpg\"width=\"100%\"/>
    
    "
-  }
- ,
- {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၇၂)",
-"cover" : "https://1.bp.blogspot.com/-hHdcyQVvD1U/X2dc0qRqWvI/AAAAAAAAjwc/d4mYF8LyCho5nBAh4wVhIWjk73T5ENk1wCLcBGAsYHQ/s320/000cover.jpg",
-"post" : "
+                                          },
+                                          {
+                                             "title": "တိတ်တခိုး",
+                                             "status": "အပိုင်း(၇၂)",
+                                             "cover": "https://1.bp.blogspot.com/-hHdcyQVvD1U/X2dc0qRqWvI/AAAAAAAAjwc/d4mYF8LyCho5nBAh4wVhIWjk73T5ENk1wCLcBGAsYHQ/s320/000cover.jpg",
+                                             "post": "
   <img src=\"https://1.bp.blogspot.com/-2JyV1XatHb4/X2dc0gpGmII/AAAAAAAAjwg/TkBsqDdsNSk22EHuPRLdM4VPDcHuaeiWgCLcBGAsYHQ/s5000/IMG_20200920_193040-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-KE3hJ_CQdAY/X2dc06LINRI/AAAAAAAAjwk/n-OdR9Hv5QwzrN2tLusRND5K98coIwphQCLcBGAsYHQ/s5000/IMG_20200920_193047-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-wv78oLjHn5A/X2dc1pW0OgI/AAAAAAAAjws/eqw5eGpRSDgzNK7zTgyF_M7hu7Tg4yWZQCLcBGAsYHQ/s5000/IMG_20200920_193053-picsay.jpg\"width=\"100%\"/>
@@ -862,13 +874,12 @@
 <img src=\"https://1.bp.blogspot.com/-L-TPJecnud4/X2dc86zsgDI/AAAAAAAAjyM/VLnBMxs5_m0NvQlulcaXpM0ew9PTQYJpQCLcBGAsYHQ/s5000/IMG_20200920_193308-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-F2em0XJQsxM/X2dc9JJPMrI/AAAAAAAAjyQ/8RV6unjd3j0O_1T1iqUPbGj_h0hHMp_WQCLcBGAsYHQ/s5000/IMG_20200920_193315-picsay.jpg\"width=\"100%\"/>
  "
- }
- ,
- {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၇၁)",
-"cover" : "https://1.bp.blogspot.com/-0TVyt8FFl-g/X2SGp-MC7pI/AAAAAAAAi1c/6rHmeaGP6QY25SQu66DnmujxZo10cWSRACLcBGAsYHQ/s320/000cover.jpg",
-"post" : "
+                                          },
+                                          {
+                                             "title": "တိတ်တခိုး",
+                                             "status": "အပိုင်း(၇၁)",
+                                             "cover": "https://1.bp.blogspot.com/-0TVyt8FFl-g/X2SGp-MC7pI/AAAAAAAAi1c/6rHmeaGP6QY25SQu66DnmujxZo10cWSRACLcBGAsYHQ/s320/000cover.jpg",
+                                             "post": "
   <img src=\"https://1.bp.blogspot.com/-g9Z8KkeBayY/X2SGqNf4k8I/AAAAAAAAi1g/kAzYTPnVUlofxMHkKEAZst7nb8KCcr2DwCLcBGAsYHQ/s5000/IMG_20200918_154946-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-pOCEia9DUvc/X2SGqMxhauI/AAAAAAAAi1k/fOraC2YuvmoYYgJBTzVcwaQrwvehVcTTACLcBGAsYHQ/s5000/IMG_20200918_154951-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-W7mTT1Lduzk/X2SGq6FuA2I/AAAAAAAAi1o/a5_5Q84gxJ0ECBRGzhmsEmKWsz3aP2tJQCLcBGAsYHQ/s5000/IMG_20200918_155008-picsay.jpg\"width=\"100%\"/>
@@ -896,13 +907,12 @@
 <img src=\"https://1.bp.blogspot.com/-KKrpnIop8dY/X2SGvavzvsI/AAAAAAAAi3A/9QBOUh9VA0APJsz69uFNuyVZpFhp-7kvgCLcBGAsYHQ/s5000/IMG_20200918_155213-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-pejv12M3_7o/X2SGvUWQYSI/AAAAAAAAi3E/yLgc5S-tHkwKU9YPhAl2e9PZpZUFTZY8ACLcBGAsYHQ/s5000/IMG_20200918_155218-picsay.jpg\"width=\"100%\"/>
   "
- }
- ,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၇၀)",
-"cover" : "https://1.bp.blogspot.com/-6_r-PvoTOic/X2NaMyOIuVI/AAAAAAAAipQ/3q-LJxM4TYg2030ita4PbL1XkW-bQIhBwCLcBGAsYHQ/s320/000cover.jpg",
-"post" : "
+                                          },
+                                          {
+                                             "title": "တိတ်တခိုး",
+                                             "status": "အပိုင်း(၇၀)",
+                                             "cover": "https://1.bp.blogspot.com/-6_r-PvoTOic/X2NaMyOIuVI/AAAAAAAAipQ/3q-LJxM4TYg2030ita4PbL1XkW-bQIhBwCLcBGAsYHQ/s320/000cover.jpg",
+                                             "post": "
 <img src=\"https://1.bp.blogspot.com/-rWxg64dTERs/X2NaNCUiDWI/AAAAAAAAipU/LUGzQFTAZQkSgnzvRTi23NYm2TQ78PXMQCLcBGAsYHQ/s5000/IMG_20200917_175817-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-hJRqmu8PmZY/X2NaNGGeA6I/AAAAAAAAipY/IET2BFySU40bqGaEvOzUoTmm7s6Jl9z8QCLcBGAsYHQ/s5000/IMG_20200917_175821-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-rN7S4uhpSC0/X2NaNVjKtyI/AAAAAAAAipc/6NQeILe_3BgsPaZXgYtSrcM78463MWexQCLcBGAsYHQ/s5000/IMG_20200917_175828-picsay.jpg\" width=\"100%\" />
@@ -930,13 +940,12 @@
 <img src=\"https://1.bp.blogspot.com/-doX2E03yuy8/X2NaRa44C8I/AAAAAAAAiq0/8AKLIGHy4SoOjDvuvmIkv2ndEt_FJ5rfgCLcBGAsYHQ/s5000/IMG_20200917_180300.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-v1thqNxBVNo/X2NaRZ-fJzI/AAAAAAAAiq4/g8xdrp3cECQSGjNMwEJ_bIr3ydaX8xlegCLcBGAsYHQ/s5000/IMG_20200917_180305-picsay.jpg\" width=\"100%\" />h
 "
- }
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၆၉)",
-"cover" : "https://1.bp.blogspot.com/-t781JnSFpeU/X2H7eIJ5vXI/AAAAAAAAiX4/9x0tlLbV6mYD8DmRoOvfi7ManiryIkaFgCLcBGAsYHQ/s320/000cover.jpg",
-"post" : "
+                                          },
+                                          {
+                                             "title": "တိတ်တခိုး",
+                                             "status": "အပိုင်း(၆၉)",
+                                             "cover": "https://1.bp.blogspot.com/-t781JnSFpeU/X2H7eIJ5vXI/AAAAAAAAiX4/9x0tlLbV6mYD8DmRoOvfi7ManiryIkaFgCLcBGAsYHQ/s320/000cover.jpg",
+                                             "post": "
 <img src=\"https://1.bp.blogspot.com/-ctt7OGAQ9vg/X2H7eSWm8aI/AAAAAAAAiX8/QxBx8aNh0KkKu46mrR2TsecOAEYsVh9_ACLcBGAsYHQ/s5000/IMG_20200916_170116-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-PHT35jvPZkk/X2H7ee2VNDI/AAAAAAAAiYA/bgpO_4x2lOEkiwDNhF8qdesEjAYNF9pMQCLcBGAsYHQ/s5000/IMG_20200916_170125.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-Lekx5PxF5qk/X2H7fc9IhsI/AAAAAAAAiYE/NOa1CYTXcDkik5Vn9PHzoF53fZ7ckaKvwCLcBGAsYHQ/s5000/IMG_20200916_170130-picsay.jpg\"width=\"100%\"/>
@@ -968,13 +977,12 @@
 <img src=\"https://1.bp.blogspot.com/-DlR-ZS4w7u4/X2H7lpvjD1I/AAAAAAAAiZs/H2wq0OM2mOMLkAEnRM6OWEKppnb1Ca3vQCLcBGAsYHQ/s5000/IMG_20200916_170449-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-GNRqYw4oF_g/X2H7lzbBxAI/AAAAAAAAiZw/JGWjFBEqF7k0NdvN2aPlYZTTtdtKMfy7wCLcBGAsYHQ/s5000/IMG_20200916_170454-picsay.jpg\"width=\"100%\"/>
 "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၆၈)",
-"cover" : "https://1.bp.blogspot.com/-zCS4dDoXvKY/X1uAtX1KThI/AAAAAAAAgyk/SrNrysydEmYlqWsktd38hcj07TomUCQggCLcBGAsYHQ/s320/000cover.jpg",
-"post" : "
+                                          },
+                                          {
+                                             "title": "တိတ်တခိုး",
+                                             "status": "အပိုင်း(၆၈)",
+                                             "cover": "https://1.bp.blogspot.com/-zCS4dDoXvKY/X1uAtX1KThI/AAAAAAAAgyk/SrNrysydEmYlqWsktd38hcj07TomUCQggCLcBGAsYHQ/s320/000cover.jpg",
+                                             "post": "
 <img src=\"https://1.bp.blogspot.com/-2SclRX22pCc/X1uAtXRcoYI/AAAAAAAAgyo/DXCNtq1mhaUNc_8rpyMDWGk-Rw-sQfU8QCLcBGAsYHQ/s5000/IMG_20200911_182542-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-8W6PAvJ6X3k/X1uAtI9Pv3I/AAAAAAAAgyg/lLpatQj2zEg-8gR53aU0v2ApxnvxOD7CgCLcBGAsYHQ/s5000/IMG_20200911_182549-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-z_n3NPKUKWE/X1uAtzgL5NI/AAAAAAAAgys/HbNO6D6Y54YFXVZxC3f9Yzu1AcGDxGNKgCLcBGAsYHQ/s5000/IMG_20200911_182553-picsay.jpg\"width=\"100%\"/>
@@ -996,13 +1004,12 @@
 <img src=\"https://1.bp.blogspot.com/-BMDpCPIm5qg/X1uAxuGFpSI/AAAAAAAAgzs/SnakdH5tN-kQM_ubbgl2ggJ1Qq3n56pHwCLcBGAsYHQ/s5000/IMG_20200911_182736.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-nW8XgoyuKg8/X1uAxpMItfI/AAAAAAAAgzw/f0Su_c0-q5kJ-qvmYpebqeaem-YzL1kdwCLcBGAsYHQ/s5000/IMG_20200911_182741-picsay.jpg\"width=\"100%\"/>
 "
-}
-,
- {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၆၇)",
-"cover" : "https://1.bp.blogspot.com/-j3ddEm68UZo/X1oO2hWCMPI/AAAAAAAAgVk/vN2EdrpE4pQOOiju7XtZQJHP9nfsXIIxwCLcBGAsYHQ/s320/000cover.jpg",
-"post" : "
+                                          },
+                                          {
+                                             "title": "တိတ်တခိုး",
+                                             "status": "အပိုင်း(၆၇)",
+                                             "cover": "https://1.bp.blogspot.com/-j3ddEm68UZo/X1oO2hWCMPI/AAAAAAAAgVk/vN2EdrpE4pQOOiju7XtZQJHP9nfsXIIxwCLcBGAsYHQ/s320/000cover.jpg",
+                                             "post": "
 <img src=\"https://1.bp.blogspot.com/-Nit6PgBDf7I/X1oO2wbYOnI/AAAAAAAAgVo/psHJuOqhFqU1BTaa9DBaoK_Qut_1oJr4QCLcBGAsYHQ/s5000/IMG_20200910_163348-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-TUtuJrAARPc/X1oO2z430KI/AAAAAAAAgVs/welDNgpYhq0Q4RVHx4pj1VpdCRRzxM9sQCLcBGAsYHQ/s5000/IMG_20200910_163355.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-bSbTuHAOmOQ/X1oO3oikwxI/AAAAAAAAgVw/3Y7BjpYnrM4vHkdOxjVnUmngPg9kuQrLQCLcBGAsYHQ/s5000/IMG_20200910_163359-picsay.jpg\"width=\"100%\"/>
@@ -1024,13 +1031,12 @@
 <img src=\"https://1.bp.blogspot.com/-bewEl-Rrn50/X1oO7Xws3gI/AAAAAAAAgW0/vdYdvcItfnMAi1k1G3eB-BqPPPXecM7dACLcBGAsYHQ/s5000/IMG_20200910_163558-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/--thf77gDBuM/X1oO7ed-2gI/AAAAAAAAgWw/2J3hE87XWgMYm_nduKRtiDtHEkRLqzYkACLcBGAsYHQ/s5000/IMG_20200910_163606-picsay.jpg\"width=\"100%\"/>
 "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၆၆)",
-"cover" : "https://1.bp.blogspot.com/-PPyUAHZOlo0/X1jCFJraB1I/AAAAAAAAf_k/LKX8fVzmf1EHqLG3kcUmmI29A0fpU0dXwCLcBGAsYHQ/s320/000cover.jpg",
-"post" : "
+                                          },
+                                          {
+                                             "title": "တိတ်တခိုး",
+                                             "status": "အပိုင်း(၆၆)",
+                                             "cover": "https://1.bp.blogspot.com/-PPyUAHZOlo0/X1jCFJraB1I/AAAAAAAAf_k/LKX8fVzmf1EHqLG3kcUmmI29A0fpU0dXwCLcBGAsYHQ/s320/000cover.jpg",
+                                             "post": "
        <img src=\"https://1.bp.blogspot.com/-6Gzl-GzLeAw/X1jCFJS1wLI/AAAAAAAAf_o/Khxi47NwDCYoBLojL2QCwe3QMmwPOchVwCLcBGAsYHQ/s5000/3_1_1f7bb418281f8320d-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-31PqkhoBj-0/X1jCFGTo6nI/AAAAAAAAf_s/cuuNu0Y2Uf8XMvAnz4RFJqDGyxCST1gEwCLcBGAsYHQ/s5000/IMG_20200909_180002-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-C3TPRRz8BG4/X1jCGATmFII/AAAAAAAAf_w/4OGFlUimOeg6DsWjSMtqll2xU9GtmWjQACLcBGAsYHQ/s5000/IMG_20200909_180007-picsay.jpg\"width=\"100%\"/>
@@ -1052,13 +1058,12 @@
 <img src=\"https://1.bp.blogspot.com/-127c0Gaw7SY/X1jCJnJLkFI/AAAAAAAAgAw/1f74APHaCj0rvL7ZlS-m7TizRQJLLH0yACLcBGAsYHQ/s5000/IMG_20200909_180153-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-4cDANtZHivk/X1jCJ6YAMeI/AAAAAAAAgA0/8LPJFpOxid8RMn76t8FZS7xgD2t5SclwQCLcBGAsYHQ/s5000/IMG_20200909_180158-picsay.jpg\"width=\"100%\"/>
         "
-    }
-    ,
-    {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၆၅)",
-"cover" : "https://1.bp.blogspot.com/-K6Y5_6lMzXg/X1N5mHy29zI/AAAAAAAAec4/K2Gunmrta1U6wbWvTHi8U4YoE1VtpD3gQCLcBGAsYHQ/s320/000cover.jpg",
-"post" : "
+                                          },
+                                          {
+                                             "title": "တိတ်တခိုး",
+                                             "status": "အပိုင်း(၆၅)",
+                                             "cover": "https://1.bp.blogspot.com/-K6Y5_6lMzXg/X1N5mHy29zI/AAAAAAAAec4/K2Gunmrta1U6wbWvTHi8U4YoE1VtpD3gQCLcBGAsYHQ/s320/000cover.jpg",
+                                             "post": "
        
        <img src=\"https://1.bp.blogspot.com/-8N5zWoJthUY/X1N5l7-ynAI/AAAAAAAAec0/7Py3hiqVAc4yFENpdd4svnHK11m3jJyawCLcBGAsYHQ/s5000/IMG_20200905_135323-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-wSjM-p9OoTo/X1N5mFTLNVI/AAAAAAAAec8/ICgBNdz2zQEptc_mNt1mbkEgBLoDAV_6gCLcBGAsYHQ/s5000/IMG_20200905_135331-picsay.jpg\"width=\"100%\"/>
@@ -1081,13 +1086,12 @@
 <img src=\"https://1.bp.blogspot.com/-TIjeDtNr7F0/X1N5p-vUAvI/AAAAAAAAeeA/3npFq8xbdVAgpY0sskyLzXWLUC5El4TRACLcBGAsYHQ/s5000/IMG_20200905_135606-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-EQSbMZ97Qak/X1N5pzzx6MI/AAAAAAAAeeE/XbbL5TzHCNsGR2egfi9UoSEfZMO1jCcWQCLcBGAsYHQ/s5000/IMG_20200905_135613-picsay.jpg\"width=\"100%\"/>
        "
-    }
-   ,
-   {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၆၄)",
-"cover" : "https://1.bp.blogspot.com/-Hz44wLgdAH0/X1DmkPAUJuI/AAAAAAAAd5I/y8V-xGluGvIla84wKs9NeIx1xiHM5RdrwCLcBGAsYHQ/s320/000cover.jpg",
-"post" : "
+                                          },
+                                          {
+                                             "title": "တိတ်တခိုး",
+                                             "status": "အပိုင်း(၆၄)",
+                                             "cover": "https://1.bp.blogspot.com/-Hz44wLgdAH0/X1DmkPAUJuI/AAAAAAAAd5I/y8V-xGluGvIla84wKs9NeIx1xiHM5RdrwCLcBGAsYHQ/s320/000cover.jpg",
+                                             "post": "
       <img src=\"https://1.bp.blogspot.com/-N6bHxhkRyyA/X1DmkZ_87zI/AAAAAAAAd5Q/Kp6g7G41VwYvl8hmF_1OXj4fDHeWPUMIACLcBGAsYHQ/s5000/IMG_20200902_035504-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-XwTpZsQauUs/X1DmkEKnKLI/AAAAAAAAd5M/xg0I--W7LpsDt0mvr91_2iq_WeBj2nI6ACLcBGAsYHQ/s5000/IMG_20200902_035515.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-u49JDxG2-Qg/X1DmkxF6dWI/AAAAAAAAd5U/_qowNrQeyHUnZVvA0FSmFbkJBp_MBVJ9wCLcBGAsYHQ/s5000/IMG_20200902_035522-picsay.jpg\"width=\"100%\"/>
@@ -1119,13 +1123,12 @@
 <img src=\"https://1.bp.blogspot.com/-oagAiIYGdwA/X1Dmp-R5jTI/AAAAAAAAd68/cvq7dz-w3GEKEP0kBsN3TqMnjKhzSeLsQCLcBGAsYHQ/s5000/IMG_20200902_035932.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-EqiKjozhSW4/X1DmqOpFvNI/AAAAAAAAd7A/ejG0PN-lwwwBgHnIajDLSxA9kFfUxfgaACLcBGAsYHQ/s5000/IMG_20200902_035937-picsay.jpg\"width=\"100%\"/>
       "
-   }
-   ,
-   {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၆၃)",
-"cover" : "https://1.bp.blogspot.com/-0jAqhQIgXk0/X0zXs44uYKI/AAAAAAAAdOQ/npwCAN17M2E9IyHh-zhMc4Umcb0WPbT4gCLcBGAsYHQ/s640/000cover.jpg",
-"post" : "
+                                          },
+                                          {
+                                             "title": "တိတ်တခိုး",
+                                             "status": "အပိုင်း(၆၃)",
+                                             "cover": "https://1.bp.blogspot.com/-0jAqhQIgXk0/X0zXs44uYKI/AAAAAAAAdOQ/npwCAN17M2E9IyHh-zhMc4Umcb0WPbT4gCLcBGAsYHQ/s640/000cover.jpg",
+                                             "post": "
       <img src=\"https://1.bp.blogspot.com/-ZZ7WT5sz_Rs/X0zXuhlQRHI/AAAAAAAAdO8/2Hz16MCrHUgdZOhEAdGtD7uVVhuKnw0GwCLcBGAsYHQ/s5000/1ttk.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-OInqpjSa_AU/X0zXvtmPqNI/AAAAAAAAdPY/k_tiDFkam1IcwNWTigkvooSgyA8Xa5WKQCLcBGAsYHQ/s5000/2ttk.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-6So4bG6-qrU/X0zXwCOKgWI/AAAAAAAAdPc/93AXBCwg7Asf2yTY0HRfa2JApEfKWeuJgCLcBGAsYHQ/s5000/3ttk.jpg\"width=\"100%\"/>
@@ -1152,13 +1155,12 @@
 <img src=\"https://1.bp.blogspot.com/-UC7O1nJYiTk/X0zXvu8i_1I/AAAAAAAAdPU/Nehx7jsn3X0aaNNuN4vErltAL5ksocfMgCLcBGAsYHQ/s5000/24ttk.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-rtZU5cN5LP0/X0zXvo2OWwI/AAAAAAAAdPQ/3CqeHgHsUAYF65L8R4vlQqdeolhlBK47gCLcBGAsYHQ/s5000/25ttk.jpg\"width=\"100%\"/>
       "
-   }
-   ,
-   {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၆၂)",
-"cover" : "https://1.bp.blogspot.com/-5rF3eUgB9a8/X0zXPMBFEiI/AAAAAAAAdIs/0frnbTTreSk7RYXdK_hl-cIp1a0VQmcxACLcBGAsYHQ/s0/000cover.jpg",
-"post" : "
+                                          },
+                                          {
+                                             "title": "တိတ်တခိုး",
+                                             "status": "အပိုင်း(၆၂)",
+                                             "cover": "https://1.bp.blogspot.com/-5rF3eUgB9a8/X0zXPMBFEiI/AAAAAAAAdIs/0frnbTTreSk7RYXdK_hl-cIp1a0VQmcxACLcBGAsYHQ/s0/000cover.jpg",
+                                             "post": "
       <img src=\"https://1.bp.blogspot.com/-A-p_PBHgmiw/X0zXVernRzI/AAAAAAAAdKE/RmUN3jKwo84pjpIuIiyRmiZkYqDtv9UiACLcBGAsYHQ/s5000/1myfridad.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-Fv1fHntKzf4/X0zXaO3jbeI/AAAAAAAAdKo/zrGW_qlnMvsY7u7HHpbazRv798O7bjVgwCLcBGAsYHQ/s5000/2myfridad.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-Vx-Rw9fs-fc/X0zXatQQF1I/AAAAAAAAdK0/gbttCd5cZZAjFycGj5BGb6_upPss5_m0gCLcBGAsYHQ/s5000/3myfridad.jpg\"width=\"100%\"/>
@@ -1182,13 +1184,12 @@
 <img src=\"https://1.bp.blogspot.com/-RE4Fi8MYPhw/X0zXX14KQII/AAAAAAAAdKY/6pb2nteioYQtC49c1OikVyUgaAhYMrtrwCLcBGAsYHQ/s5000/21myfridad.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-EqPFxZLzGw8/X0zXYySthqI/AAAAAAAAdKc/Y4N21WZDpKgMc6pT8jO8wYoDnMUD4khmQCLcBGAsYHQ/s5000/22myfridad.jpg\"width=\"100%\"/>
       "
-   }
-   ,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၆၁)",
-"cover" : "https://1.bp.blogspot.com/-CfgvZwE5nNI/X0jhD1foJsI/AAAAAAAAcls/QYSGPWo0jawGiz5EzjPh77GY-TxaI6eIgCEwYBhgLKtQDAL1OcqxAoxXjS3sN-WwzhUtEX0ZJxst4WRr5PBY25LppapdP8cxSPHR-6IXvJvp276dC-YM5atfiE2yC8onUfBLF9FHZ-t5fQ3aMR2O-MrKKkGHvEXveeHgMI4tTkK9li7TSzG0olSHjAB2WYQeo7HyUwal9bgBqWEF6TPm1PEdDetNnqL5Dovx7Hpf9tj9hjLPsjw0CAZHv3ehbySgEbTJD2vzinQ5c8t4g-xf3LKnPlTTlZdfFn6TXRPVHIeT5zeJAzHaP1Vmqq2hiaSmV1ss5IPpAp-UBcF6eSmZ9p6Srnix33nfe1tMLDI86t4FFs2JvBf0sQVhqV8oY8L8qqM2LX-QDazfrfNXIh4N19Rq8d9yOVdhHXjyFUIffAxLrfz8sLAcgfFWUZv0U2EjnD5Lc6LByvcRWEsO8SJTSROixASYWfr1K2UoZuQ_X0iV4fHQo7pqYwQKrCgGtETNUd-sBpEne4NHEtYYq4-W7lRj7BFZCqySnm5RfdIgFO6fKnjtbM3ln1LYGMJmJakYOgYQ0ZeUyNB4AAnPLpMHPtnlyMwmctatLTKSX6iDD3xV8nsJrUSgay8rermE7nhSNu8K6Z5k_oa5Nsh0ZdQhyfNV3FOwMMITHo_oF/s100/000cover.jpg",
-"post" : "<img src=\"https://1.bp.blogspot.com/-jRui6q8pTWY/X0jhHXMq31I/AAAAAAAAcmY/zsxduXH7gQEvhBpoxQxL-BDWc16TPin8gCEwYBhgLKtQDAL1OcqxAoxXjS3sN-WwzhUtEX0ZJxst4WRr5PBY25LppapdP8cxSPHR-6IXvJvp276dC-YM5atfiE2yC8onUfBLF9FHZ-t5fQ3aMR2O-MrKKkGHvEXveeHgMI4tTkK9li7TSzG0olSHjAB2WYQeo7HyUwal9bgBqWEF6TPm1PEdDetNnqL5Dovx7Hpf9tj9hjLPsjw0CAZHv3ehbySgEbTJD2vzinQ5c8t4g-xf3LKnPlTTlZdfFn6TXRPVHIeT5zeJAzHaP1Vmqq2hiaSmV1ss5IPpAp-UBcF6eSmZ9p6Srnix33nfe1tMLDI86t4FFs2JvBf0sQVhqV8oY8L8qqM2LX-QDazfrfNXIh4N19Rq8d9yOVdhHXjyFUIffAxLrfz8sLAcgfFWUZv0U2EjnD5Lc6LByvcRWEsO8SJTSROixASYWfr1K2UoZuQ_X0iV4fHQo7pqYwQKrCgGtETNUd-sBpEne4NHEtYYq4-W7lRj7BFZCqySnm5RfdIgFO6fKnjtbM3ln1LYGMJmJakYOgYQ0ZeUyNB4AAnPLpMHPtnlyMwmctatLTKSX6iDD3xV8nsJrUSgay8rermE7nhSNu8K6Z5k_oa5Nsh0ZdQhyfNV3FOwMMITHo_oF/s5000/1ttk.jpg\" width=\"100%\" />
+                                          },
+                                          {
+                                             "title": "တိတ်တခိုး",
+                                             "status": "အပိုင်း(၆၁)",
+                                             "cover": "https://1.bp.blogspot.com/-CfgvZwE5nNI/X0jhD1foJsI/AAAAAAAAcls/QYSGPWo0jawGiz5EzjPh77GY-TxaI6eIgCEwYBhgLKtQDAL1OcqxAoxXjS3sN-WwzhUtEX0ZJxst4WRr5PBY25LppapdP8cxSPHR-6IXvJvp276dC-YM5atfiE2yC8onUfBLF9FHZ-t5fQ3aMR2O-MrKKkGHvEXveeHgMI4tTkK9li7TSzG0olSHjAB2WYQeo7HyUwal9bgBqWEF6TPm1PEdDetNnqL5Dovx7Hpf9tj9hjLPsjw0CAZHv3ehbySgEbTJD2vzinQ5c8t4g-xf3LKnPlTTlZdfFn6TXRPVHIeT5zeJAzHaP1Vmqq2hiaSmV1ss5IPpAp-UBcF6eSmZ9p6Srnix33nfe1tMLDI86t4FFs2JvBf0sQVhqV8oY8L8qqM2LX-QDazfrfNXIh4N19Rq8d9yOVdhHXjyFUIffAxLrfz8sLAcgfFWUZv0U2EjnD5Lc6LByvcRWEsO8SJTSROixASYWfr1K2UoZuQ_X0iV4fHQo7pqYwQKrCgGtETNUd-sBpEne4NHEtYYq4-W7lRj7BFZCqySnm5RfdIgFO6fKnjtbM3ln1LYGMJmJakYOgYQ0ZeUyNB4AAnPLpMHPtnlyMwmctatLTKSX6iDD3xV8nsJrUSgay8rermE7nhSNu8K6Z5k_oa5Nsh0ZdQhyfNV3FOwMMITHo_oF/s100/000cover.jpg",
+                                             "post": "<img src=\"https://1.bp.blogspot.com/-jRui6q8pTWY/X0jhHXMq31I/AAAAAAAAcmY/zsxduXH7gQEvhBpoxQxL-BDWc16TPin8gCEwYBhgLKtQDAL1OcqxAoxXjS3sN-WwzhUtEX0ZJxst4WRr5PBY25LppapdP8cxSPHR-6IXvJvp276dC-YM5atfiE2yC8onUfBLF9FHZ-t5fQ3aMR2O-MrKKkGHvEXveeHgMI4tTkK9li7TSzG0olSHjAB2WYQeo7HyUwal9bgBqWEF6TPm1PEdDetNnqL5Dovx7Hpf9tj9hjLPsjw0CAZHv3ehbySgEbTJD2vzinQ5c8t4g-xf3LKnPlTTlZdfFn6TXRPVHIeT5zeJAzHaP1Vmqq2hiaSmV1ss5IPpAp-UBcF6eSmZ9p6Srnix33nfe1tMLDI86t4FFs2JvBf0sQVhqV8oY8L8qqM2LX-QDazfrfNXIh4N19Rq8d9yOVdhHXjyFUIffAxLrfz8sLAcgfFWUZv0U2EjnD5Lc6LByvcRWEsO8SJTSROixASYWfr1K2UoZuQ_X0iV4fHQo7pqYwQKrCgGtETNUd-sBpEne4NHEtYYq4-W7lRj7BFZCqySnm5RfdIgFO6fKnjtbM3ln1LYGMJmJakYOgYQ0ZeUyNB4AAnPLpMHPtnlyMwmctatLTKSX6iDD3xV8nsJrUSgay8rermE7nhSNu8K6Z5k_oa5Nsh0ZdQhyfNV3FOwMMITHo_oF/s5000/1ttk.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-zXr4Dz12YGE/X0jhIrUyJsI/AAAAAAAAcms/C8YkR6mw2F43PELG5L41rHMMMPsCj1JIACEwYBhgLKtQDAL1OcqxAoxXjS3sN-WwzhUtEX0ZJxst4WRr5PBY25LppapdP8cxSPHR-6IXvJvp276dC-YM5atfiE2yC8onUfBLF9FHZ-t5fQ3aMR2O-MrKKkGHvEXveeHgMI4tTkK9li7TSzG0olSHjAB2WYQeo7HyUwal9bgBqWEF6TPm1PEdDetNnqL5Dovx7Hpf9tj9hjLPsjw0CAZHv3ehbySgEbTJD2vzinQ5c8t4g-xf3LKnPlTTlZdfFn6TXRPVHIeT5zeJAzHaP1Vmqq2hiaSmV1ss5IPpAp-UBcF6eSmZ9p6Srnix33nfe1tMLDI86t4FFs2JvBf0sQVhqV8oY8L8qqM2LX-QDazfrfNXIh4N19Rq8d9yOVdhHXjyFUIffAxLrfz8sLAcgfFWUZv0U2EjnD5Lc6LByvcRWEsO8SJTSROixASYWfr1K2UoZuQ_X0iV4fHQo7pqYwQKrCgGtETNUd-sBpEne4NHEtYYq4-W7lRj7BFZCqySnm5RfdIgFO6fKnjtbM3ln1LYGMJmJakYOgYQ0ZeUyNB4AAnPLpMHPtnlyMwmctatLTKSX6iDD3xV8nsJrUSgay8rermE7nhSNu8K6Z5k_oa5Nsh0ZdQhyfNV3FOwMMITHo_oF/s5000/2ttk.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-5LxtOKwIcwU/X0jhIqtSr8I/AAAAAAAAcmw/-EvdX1KEFBsgQdjZeZ6_MJq0qwm-KZo7wCEwYBhgLKtQDAL1OcqxAoxXjS3sN-WwzhUtEX0ZJxst4WRr5PBY25LppapdP8cxSPHR-6IXvJvp276dC-YM5atfiE2yC8onUfBLF9FHZ-t5fQ3aMR2O-MrKKkGHvEXveeHgMI4tTkK9li7TSzG0olSHjAB2WYQeo7HyUwal9bgBqWEF6TPm1PEdDetNnqL5Dovx7Hpf9tj9hjLPsjw0CAZHv3ehbySgEbTJD2vzinQ5c8t4g-xf3LKnPlTTlZdfFn6TXRPVHIeT5zeJAzHaP1Vmqq2hiaSmV1ss5IPpAp-UBcF6eSmZ9p6Srnix33nfe1tMLDI86t4FFs2JvBf0sQVhqV8oY8L8qqM2LX-QDazfrfNXIh4N19Rq8d9yOVdhHXjyFUIffAxLrfz8sLAcgfFWUZv0U2EjnD5Lc6LByvcRWEsO8SJTSROixASYWfr1K2UoZuQ_X0iV4fHQo7pqYwQKrCgGtETNUd-sBpEne4NHEtYYq4-W7lRj7BFZCqySnm5RfdIgFO6fKnjtbM3ln1LYGMJmJakYOgYQ0ZeUyNB4AAnPLpMHPtnlyMwmctatLTKSX6iDD3xV8nsJrUSgay8rermE7nhSNu8K6Z5k_oa5Nsh0ZdQhyfNV3FOwMMITHo_oF/s5000/3ttk.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-gqYn0QbV2sI/X0jhJF5VkFI/AAAAAAAAcm0/kj_9Y1PMK_oQYExaCM4hSJcgKHHAddoAACEwYBhgLKtQDAL1OcqxAoxXjS3sN-WwzhUtEX0ZJxst4WRr5PBY25LppapdP8cxSPHR-6IXvJvp276dC-YM5atfiE2yC8onUfBLF9FHZ-t5fQ3aMR2O-MrKKkGHvEXveeHgMI4tTkK9li7TSzG0olSHjAB2WYQeo7HyUwal9bgBqWEF6TPm1PEdDetNnqL5Dovx7Hpf9tj9hjLPsjw0CAZHv3ehbySgEbTJD2vzinQ5c8t4g-xf3LKnPlTTlZdfFn6TXRPVHIeT5zeJAzHaP1Vmqq2hiaSmV1ss5IPpAp-UBcF6eSmZ9p6Srnix33nfe1tMLDI86t4FFs2JvBf0sQVhqV8oY8L8qqM2LX-QDazfrfNXIh4N19Rq8d9yOVdhHXjyFUIffAxLrfz8sLAcgfFWUZv0U2EjnD5Lc6LByvcRWEsO8SJTSROixASYWfr1K2UoZuQ_X0iV4fHQo7pqYwQKrCgGtETNUd-sBpEne4NHEtYYq4-W7lRj7BFZCqySnm5RfdIgFO6fKnjtbM3ln1LYGMJmJakYOgYQ0ZeUyNB4AAnPLpMHPtnlyMwmctatLTKSX6iDD3xV8nsJrUSgay8rermE7nhSNu8K6Z5k_oa5Nsh0ZdQhyfNV3FOwMMITHo_oF/s5000/4ttk.jpg\" width=\"100%\" />
@@ -1211,13 +1212,12 @@
 <img src=\"https://1.bp.blogspot.com/-vId4kYhgwFo/X0jhHzhSxSI/AAAAAAAAcmg/r-2Yv6-rMG8s7di9uON6sn_qtLtnUioiQCEwYBhgLKtQDAL1OcqxAoxXjS3sN-WwzhUtEX0ZJxst4WRr5PBY25LppapdP8cxSPHR-6IXvJvp276dC-YM5atfiE2yC8onUfBLF9FHZ-t5fQ3aMR2O-MrKKkGHvEXveeHgMI4tTkK9li7TSzG0olSHjAB2WYQeo7HyUwal9bgBqWEF6TPm1PEdDetNnqL5Dovx7Hpf9tj9hjLPsjw0CAZHv3ehbySgEbTJD2vzinQ5c8t4g-xf3LKnPlTTlZdfFn6TXRPVHIeT5zeJAzHaP1Vmqq2hiaSmV1ss5IPpAp-UBcF6eSmZ9p6Srnix33nfe1tMLDI86t4FFs2JvBf0sQVhqV8oY8L8qqM2LX-QDazfrfNXIh4N19Rq8d9yOVdhHXjyFUIffAxLrfz8sLAcgfFWUZv0U2EjnD5Lc6LByvcRWEsO8SJTSROixASYWfr1K2UoZuQ_X0iV4fHQo7pqYwQKrCgGtETNUd-sBpEne4NHEtYYq4-W7lRj7BFZCqySnm5RfdIgFO6fKnjtbM3ln1LYGMJmJakYOgYQ0ZeUyNB4AAnPLpMHPtnlyMwmctatLTKSX6iDD3xV8nsJrUSgay8rermE7nhSNu8K6Z5k_oa5Nsh0ZdQhyfNV3FOwMMITHo_oF/s5000/21ttk.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-gVoFOeZF0Ts/X0jhIMWKe4I/AAAAAAAAcmk/7NLWVVLgmeESEKK0ZR4tnku4nVRO9jgigCEwYBhgLKtQDAL1OcqxAoxXjS3sN-WwzhUtEX0ZJxst4WRr5PBY25LppapdP8cxSPHR-6IXvJvp276dC-YM5atfiE2yC8onUfBLF9FHZ-t5fQ3aMR2O-MrKKkGHvEXveeHgMI4tTkK9li7TSzG0olSHjAB2WYQeo7HyUwal9bgBqWEF6TPm1PEdDetNnqL5Dovx7Hpf9tj9hjLPsjw0CAZHv3ehbySgEbTJD2vzinQ5c8t4g-xf3LKnPlTTlZdfFn6TXRPVHIeT5zeJAzHaP1Vmqq2hiaSmV1ss5IPpAp-UBcF6eSmZ9p6Srnix33nfe1tMLDI86t4FFs2JvBf0sQVhqV8oY8L8qqM2LX-QDazfrfNXIh4N19Rq8d9yOVdhHXjyFUIffAxLrfz8sLAcgfFWUZv0U2EjnD5Lc6LByvcRWEsO8SJTSROixASYWfr1K2UoZuQ_X0iV4fHQo7pqYwQKrCgGtETNUd-sBpEne4NHEtYYq4-W7lRj7BFZCqySnm5RfdIgFO6fKnjtbM3ln1LYGMJmJakYOgYQ0ZeUyNB4AAnPLpMHPtnlyMwmctatLTKSX6iDD3xV8nsJrUSgay8rermE7nhSNu8K6Z5k_oa5Nsh0ZdQhyfNV3FOwMMITHo_oF/s5000/22ttk.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-DL16dRHWCaY/X0jhIfj8SfI/AAAAAAAAcmo/UaDaZreKPRAOW6S8rpzcTOpAOPKK9Ar6ACEwYBhgLKtQDAL1OcqxAoxXjS3sN-WwzhUtEX0ZJxst4WRr5PBY25LppapdP8cxSPHR-6IXvJvp276dC-YM5atfiE2yC8onUfBLF9FHZ-t5fQ3aMR2O-MrKKkGHvEXveeHgMI4tTkK9li7TSzG0olSHjAB2WYQeo7HyUwal9bgBqWEF6TPm1PEdDetNnqL5Dovx7Hpf9tj9hjLPsjw0CAZHv3ehbySgEbTJD2vzinQ5c8t4g-xf3LKnPlTTlZdfFn6TXRPVHIeT5zeJAzHaP1Vmqq2hiaSmV1ss5IPpAp-UBcF6eSmZ9p6Srnix33nfe1tMLDI86t4FFs2JvBf0sQVhqV8oY8L8qqM2LX-QDazfrfNXIh4N19Rq8d9yOVdhHXjyFUIffAxLrfz8sLAcgfFWUZv0U2EjnD5Lc6LByvcRWEsO8SJTSROixASYWfr1K2UoZuQ_X0iV4fHQo7pqYwQKrCgGtETNUd-sBpEne4NHEtYYq4-W7lRj7BFZCqySnm5RfdIgFO6fKnjtbM3ln1LYGMJmJakYOgYQ0ZeUyNB4AAnPLpMHPtnlyMwmctatLTKSX6iDD3xV8nsJrUSgay8rermE7nhSNu8K6Z5k_oa5Nsh0ZdQhyfNV3FOwMMITHo_oF/s5000/23ttk.jpg\" width=\"100%\" />
-"}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၆၀)",
-"cover" : "https://1.bp.blogspot.com/-mwZgcTemtTc/X0YmB6S4pHI/AAAAAAAAb5E/1JkNFmyMM1suFlsOrK5ndb-EjDW5JmingCLcBGAsYHQ/s640/000cover.jpg",
-"post" : "
+"},
+                                             {
+                                                "title": "တိတ်တခိုး",
+                                                "status": "အပိုင်း(၆၀)",
+                                                "cover": "https://1.bp.blogspot.com/-mwZgcTemtTc/X0YmB6S4pHI/AAAAAAAAb5E/1JkNFmyMM1suFlsOrK5ndb-EjDW5JmingCLcBGAsYHQ/s640/000cover.jpg",
+                                                "post": "
 <img src=\"https://1.bp.blogspot.com/-Mzmhwm2t5H0/X0YmEagGMdI/AAAAAAAAb50/yOr-sYFzpGIQinmIBncEbfieiqsvF55bwCLcBGAsYHQ/s5000/1ttk.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-T9aKaPoFXjs/X0YmFhH8HrI/AAAAAAAAb6Q/3ILS32fqmJgfWPzXJYX_dXIPKgWLo-6lgCLcBGAsYHQ/s5000/2ttk.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-Qt_AyAXyzj8/X0YmGI79DZI/AAAAAAAAb6Y/RIZgVS48nkwccQzS7TS1q__AmJezDPPkQCLcBGAsYHQ/s5000/3ttk.jpg\"width=\"100%\"/>
@@ -1245,13 +1245,12 @@
 <img src=\"https://1.bp.blogspot.com/-ZyP3IHoJBOw/X0YmFXaDVuI/AAAAAAAAb6I/2oXfanK4FbkafP0rLA58-q7LVcgpzcLRgCLcBGAsYHQ/s5000/25ttk.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-7KWWdQvaQ4c/X0YmFWggv0I/AAAAAAAAb6M/Q4I4r3ah9iI_E8ieFzQLkpU-3-dwVavbgCLcBGAsYHQ/s5000/26ttk.jpg\"width=\"100%\"/>
 "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၅၉)",
-"cover" : "https://1.bp.blogspot.com/-Seb1JaQxR2c/X0JzecFBBxI/AAAAAAAAbQQ/otWdOoZP2Eouz4oNVCeSITDoaZdek10GwCLcBGAsYHQ/s320/0ttk.jpg",
-"post" : "
+                                             },
+                                             {
+                                                "title": "တိတ်တခိုး",
+                                                "status": "အပိုင်း(၅၉)",
+                                                "cover": "https://1.bp.blogspot.com/-Seb1JaQxR2c/X0JzecFBBxI/AAAAAAAAbQQ/otWdOoZP2Eouz4oNVCeSITDoaZdek10GwCLcBGAsYHQ/s320/0ttk.jpg",
+                                                "post": "
 <img src=\"https://1.bp.blogspot.com/-q_ZQ6FJVI1k/X0JziKiU8_I/AAAAAAAAbQ4/_4NA-G8EPHMPw7SpaaoCmClsGZUwWn4wACLcBGAsYHQ/s5000/1ttk.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-GrEr-l1JS7k/X0JzkPmYRUI/AAAAAAAAbRQ/IZAjr4m3irQRvTzOh8t8YR-X_HEDroejgCLcBGAsYHQ/s5000/2ttk.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-uLkBY0huVrE/X0Jzkp741GI/AAAAAAAAbRU/4fRnYLyz7mwxHSnY4y9-dN6kOggAbV7RACLcBGAsYHQ/s5000/3ttk.jpg\"width=\"100%\"/>
@@ -1277,13 +1276,12 @@
 <img src=\"https://1.bp.blogspot.com/-10kouA_gLf8/X0JzjKoOULI/AAAAAAAAbRE/KSYKpfuM0rw2aVb-82TBJ31CXhK_g3PrwCLcBGAsYHQ/s5000/23ttk.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-TJ97i332Ppg/X0JzjUiEL9I/AAAAAAAAbRM/te0wK4MgyqggLCw14oNxYHXI52U2FjrjgCLcBGAsYHQ/s5000/24ttk.jpg\"width=\"100%\"/>
    "
-  }
- ,
- {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၅၈)",
-"cover" : "https://1.bp.blogspot.com/-4XaJDdkAsKU/Xz5ZHF9gu7I/AAAAAAAAarI/CNfSvlz2N8ACL8zkOMRkOlLSPH_pu3aawCLcBGAsYHQ/s0/0ttk.jpg",
-"post" : "
+                                             },
+                                             {
+                                                "title": "တိတ်တခိုး",
+                                                "status": "အပိုင်း(၅၈)",
+                                                "cover": "https://1.bp.blogspot.com/-4XaJDdkAsKU/Xz5ZHF9gu7I/AAAAAAAAarI/CNfSvlz2N8ACL8zkOMRkOlLSPH_pu3aawCLcBGAsYHQ/s0/0ttk.jpg",
+                                                "post": "
   <img src=\"https://1.bp.blogspot.com/-DUA10y8Z66k/Xz5ZK_MGFYI/AAAAAAAAar0/cFmhmmfSCjYKpg-w2D7909hNk6mdEXtJwCLcBGAsYHQ/s5000/1ttk.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-OeDPXbKlVH0/Xz5ZNKvS5-I/AAAAAAAAasU/OIxzuGi8W5gVs2WWbsj6o29a1Cuzr73dwCLcBGAsYHQ/s5000/2ttk.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-tpPA2hR04sg/Xz5ZNkKKyFI/AAAAAAAAasY/kbRMxnhZlFokz8h7Ev6dLYg3KPARH9YFgCLcBGAsYHQ/s5000/3ttk.jpg\"width=\"100%\"/>
@@ -1312,13 +1310,12 @@
 <img src=\"https://1.bp.blogspot.com/-lLrHhJuJJ-k/Xz5ZMhmZpeI/AAAAAAAAasM/yy6cVhLffY4_BaUKPSTRyi8IcAIKFf31gCLcBGAsYHQ/s5000/26ttk.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-YmTUu1uIFDA/Xz5ZMg4qg7I/AAAAAAAAasQ/E6hRLqvOU80JywNM5l0sW4O6ZEWJ9luJACLcBGAsYHQ/s5000/27ttk.jpg\"width=\"100%\"/>
   "
- }
- ,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၅၇)",
-"cover" : "https://1.bp.blogspot.com/-eDZHb4bWalo/XzvZz1g_NtI/AAAAAAAAacs/8lzBDadAiiUBO1hk-lRR-Xtmqp4v1RDIgCLcBGAsYHQ/s300/000cover.jpg",
-"post" : "
+                                             },
+                                             {
+                                                "title": "တိတ်တခိုး",
+                                                "status": "အပိုင်း(၅၇)",
+                                                "cover": "https://1.bp.blogspot.com/-eDZHb4bWalo/XzvZz1g_NtI/AAAAAAAAacs/8lzBDadAiiUBO1hk-lRR-Xtmqp4v1RDIgCLcBGAsYHQ/s300/000cover.jpg",
+                                                "post": "
  <img src=\"https://1.bp.blogspot.com/-YroBeAKGMys/XzvZ4j0658I/AAAAAAAAadU/Jb0BB7meDrctrkpi0PP1fkRJ2exyxiJWQCLcBGAsYHQ/s5000/1ttk.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/--aHOVkxih18/XzvZ7273c1I/AAAAAAAAad8/eDvO_bwESJwzVrgGPVLtOtG2TBDQE_SEACLcBGAsYHQ/s5000/2ttk.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-OtDRYtRvBO4/XzvZ8W92nxI/AAAAAAAAaeA/i1QgnFN9y78CAcOGiopbq8GE6D-veUrtwCLcBGAsYHQ/s5000/3ttk.jpg\" width=\"100%\" />
@@ -1347,13 +1344,12 @@
 <img src=\"https://1.bp.blogspot.com/-aJtu5uBRxWc/XzvZ7nLP45I/AAAAAAAAad0/ImiydBSC5P4rkBIfTVoNoI9sPfoMNJ-uwCLcBGAsYHQ/s5000/27ttk.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-T2UIztv1MrQ/XzvZ7sB4RWI/AAAAAAAAad4/nxr1_5BgcC4yv7rqAG3fwHjeI52K3QVOQCLcBGAsYHQ/s5000/28ttk.jpg\" width=\"100%\" />
 "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၅၆)",
-"cover" : "https://1.bp.blogspot.com/-p4JKJZQ6Fr0/Xzj-gN_y2tI/AAAAAAAAZyY/OPKve5ibTJcfvAiF-u3lWIbkhSgVNH8bgCEwYBhgLKtMDAL1Ocqy46vWeD1JUypvD350mrXz0ya8bZF8AS3_Pvv4cDJW6zpk8yoNvWwDVOvmcXOU_KbQgtYNSSZL5pdjkibhrhachoh_1SB-1xoCIC4M1b8tRELhpIR8up3ULg8UBDaCjyNs1_n9HFsiwSV4hCxU994MsMNeWJDbyFIDs57XeY8_VFTipNX-eFlKRZQdJN-xKkamt8uf-qSYvvvV8OmncW3oklP0RVlQ25Vd9Q5q7X7qy8U9JGQP95eyOmk44DC4yRNYczJBsDz4vcXowsab6p5k0aW1kww-VbTgjzod5lSyeOS4WUiJYt8zqF-bqvj6IQbzuSzzOGvXvotTKYugHvohFe0kyAaCoRJAKOPqplBvDBVmHgo45ndBG2djuHl0i0oc6LGctIS309KraiD3fUpQ1s_gvpC_UvTDAINf7UhyQIs4dmxCRIgbbWrsOpLJkHmdAJQOUg0UV6Umo_j0wRYMIh6g3TtfVBRm_YLjj7CXnpECsGuWrV0Ug3TcQkUgLIGuIt8oUZUB8s4IYWqhX_JULq3oNJ-BoTCX43CWME5xkgv56L0Q71BkWNAR2tElUaU4bHTwX5UqaHR2G-MjGvM2yVckxf47tm9oY4dBpsKUw_IHk-QU/s640/0ttk.jpg",
-"post" : "
+                                             },
+                                             {
+                                                "title": "တိတ်တခိုး",
+                                                "status": "အပိုင်း(၅၆)",
+                                                "cover": "https://1.bp.blogspot.com/-p4JKJZQ6Fr0/Xzj-gN_y2tI/AAAAAAAAZyY/OPKve5ibTJcfvAiF-u3lWIbkhSgVNH8bgCEwYBhgLKtMDAL1Ocqy46vWeD1JUypvD350mrXz0ya8bZF8AS3_Pvv4cDJW6zpk8yoNvWwDVOvmcXOU_KbQgtYNSSZL5pdjkibhrhachoh_1SB-1xoCIC4M1b8tRELhpIR8up3ULg8UBDaCjyNs1_n9HFsiwSV4hCxU994MsMNeWJDbyFIDs57XeY8_VFTipNX-eFlKRZQdJN-xKkamt8uf-qSYvvvV8OmncW3oklP0RVlQ25Vd9Q5q7X7qy8U9JGQP95eyOmk44DC4yRNYczJBsDz4vcXowsab6p5k0aW1kww-VbTgjzod5lSyeOS4WUiJYt8zqF-bqvj6IQbzuSzzOGvXvotTKYugHvohFe0kyAaCoRJAKOPqplBvDBVmHgo45ndBG2djuHl0i0oc6LGctIS309KraiD3fUpQ1s_gvpC_UvTDAINf7UhyQIs4dmxCRIgbbWrsOpLJkHmdAJQOUg0UV6Umo_j0wRYMIh6g3TtfVBRm_YLjj7CXnpECsGuWrV0Ug3TcQkUgLIGuIt8oUZUB8s4IYWqhX_JULq3oNJ-BoTCX43CWME5xkgv56L0Q71BkWNAR2tElUaU4bHTwX5UqaHR2G-MjGvM2yVckxf47tm9oY4dBpsKUw_IHk-QU/s640/0ttk.jpg",
+                                                "post": "
 <img src=\"https://1.bp.blogspot.com/-bxBUr4Yq4QI/Xzj-jiL6tkI/AAAAAAAAZzA/S09zLxX5PpwO3ILxqsHl5_oIRGamxW44ACEwYBhgLKtMDAL1Ocqy46vWeD1JUypvD350mrXz0ya8bZF8AS3_Pvv4cDJW6zpk8yoNvWwDVOvmcXOU_KbQgtYNSSZL5pdjkibhrhachoh_1SB-1xoCIC4M1b8tRELhpIR8up3ULg8UBDaCjyNs1_n9HFsiwSV4hCxU994MsMNeWJDbyFIDs57XeY8_VFTipNX-eFlKRZQdJN-xKkamt8uf-qSYvvvV8OmncW3oklP0RVlQ25Vd9Q5q7X7qy8U9JGQP95eyOmk44DC4yRNYczJBsDz4vcXowsab6p5k0aW1kww-VbTgjzod5lSyeOS4WUiJYt8zqF-bqvj6IQbzuSzzOGvXvotTKYugHvohFe0kyAaCoRJAKOPqplBvDBVmHgo45ndBG2djuHl0i0oc6LGctIS309KraiD3fUpQ1s_gvpC_UvTDAINf7UhyQIs4dmxCRIgbbWrsOpLJkHmdAJQOUg0UV6Umo_j0wRYMIh6g3TtfVBRm_YLjj7CXnpECsGuWrV0Ug3TcQkUgLIGuIt8oUZUB8s4IYWqhX_JULq3oNJ-BoTCX43CWME5xkgv56L0Q71BkWNAR2tElUaU4bHTwX5UqaHR2G-MjGvM2yVckxf47tm9oY4dBpsKUw_IHk-QU/s5000/1ttk.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-huFk9O9_tns/Xzj-o-ogHXI/AAAAAAAAZzo/981GDgnRkCAVb8qQza-YDPUQmyEZiEehACLcBGAsYHQ/s5000/2ttk.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-5mrsJDxDc_M/Xzj-q3FPddI/AAAAAAAAZz8/g8pU1Du3QkQT7rEfVIfvAbvryo4xmBZPgCLcBGAsYHQ/s5000/3ttk.jpg\" width=\"100%\" />
@@ -1386,13 +1382,12 @@
 <img src=\"https://1.bp.blogspot.com/-BDXy7yn_Kw4/Xzj-pi7MXzI/AAAAAAAAZzw/V3KD779K4xI7UnSeXMPjKDzeIHTwjlVjwCLcBGAsYHQ/s5000/30ttk.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-LMfr_UxBG_8/Xzj-p0aMFEI/AAAAAAAAZz0/PH_OjHr9lvYC9Stvtq6fE9BDDs5kJZsKwCLcBGAsYHQ/s5000/31ttk.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-uEGV-J2xpGk/Xzj-p9cmKfI/AAAAAAAAZz4/XWqjOHvUdDczNU0iiVdklSEmFZks9huqQCLcBGAsYHQ/s5000/32ttk.jpg\" width=\"100%\" />
-"}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၅၅)",
-"cover" : "https://1.bp.blogspot.com/-KIlC89X2vRk/Xy7MM5ravEI/AAAAAAAAXuY/PbDaHab4slk91RQjhBne8001OR2-ZTQZACLcBGAsYHQ/s0/000cover.jpg",
-"post" : "
+"},
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း(၅၅)",
+                                                   "cover": "https://1.bp.blogspot.com/-KIlC89X2vRk/Xy7MM5ravEI/AAAAAAAAXuY/PbDaHab4slk91RQjhBne8001OR2-ZTQZACLcBGAsYHQ/s0/000cover.jpg",
+                                                   "post": "
 <img src=\"https://1.bp.blogspot.com/-wR0y3xoSOiw/Xy7MM2mifHI/AAAAAAAAXuc/_CUEdGZ9FP4OYpFAA3NVagG611jlcOgQQCLcBGAsYHQ/s5000/0ttk.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-NWYrF_VFfXE/Xy7MQ1QyRPI/AAAAAAAAXvI/Q6H4fqga1rc4mtn2k5DuLa1dHVg3fcjoQCLcBGAsYHQ/s5000/1ttk.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-QJn25xJa2vk/Xy7MTnAst9I/AAAAAAAAXvo/HX4aLZo6eoscBx300qDjc-Q3AvElW8oLwCLcBGAsYHQ/s5000/2ttk.jpg\" width=\"100%\" />
@@ -1420,13 +1415,12 @@
 <img src=\"https://1.bp.blogspot.com/-igA3C37KMJ0/Xy7MSsUAwDI/AAAAAAAAXvc/gjqqPon1MyYwSlTPkoJoOjVM2MbDF6qMACLcBGAsYHQ/s5000/24ttk.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-H_P2F_Ns4Sc/Xy7MSq9k2eI/AAAAAAAAXvg/gIVQYpsmsucLqRI5Pdl3_NykTMOGmEGNwCLcBGAsYHQ/s5000/25ttk.jpg\" width=\"100%\" />
  "
- }
- ,
-  {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၅၄)",
-"cover" : "https://1.bp.blogspot.com/-Gknx7YFp-DY/Xy1XlprCqUI/AAAAAAAAXro/_GpeeYzqRc01PbLIHEzGQxWXzqbAywoNACLcBGAsYHQ/s320/000cover.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း(၅၄)",
+                                                   "cover": "https://1.bp.blogspot.com/-Gknx7YFp-DY/Xy1XlprCqUI/AAAAAAAAXro/_GpeeYzqRc01PbLIHEzGQxWXzqbAywoNACLcBGAsYHQ/s320/000cover.jpg",
+                                                   "post": "
 <img src=\"https://1.bp.blogspot.com/-oXytqJtkDDw/Xy1Xuhmky-I/AAAAAAAAXs8/Tmv3r4XAjtoh_kSmhgnD0Eh7Fy4wnqQCgCLcBGAsYHQ/s5000/2ttk.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-P-Vn_P0ZueM/Xy1Xx9SgPtI/AAAAAAAAXtY/cXuLAy8D-KY1qMtZnB9OO076JZzeJrgIgCLcBGAsYHQ/s5000/3ttk.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-0MNDBkV914I/Xy1XyPd5GuI/AAAAAAAAXtc/CwBoAg83qw8pDyhLv7pZt1OrDvhxYOBgQCLcBGAsYHQ/s5000/4ttk.jpg\"width=\"100%\"/>
@@ -1462,15 +1456,12 @@
 <img src=\"https://1.bp.blogspot.com/-jWs4WIxonYo/Xy1Xw1xfhAI/AAAAAAAAXtQ/RkIlCOmIGMA9vdJ5r6TeQBnhlLY2xlW7ACLcBGAsYHQ/s5000/34ttk.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-w2UycJJV3ac/Xy1XxKFcuQI/AAAAAAAAXtU/TQcUHYpMPhs5bMyTDxQBfuD41lerEqmtACLcBGAsYHQ/s5000/35ttk.jpg\"width=\"100%\"/>
    "
-  }
-,
- 
-
- {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၅၃)",
-"cover" : "https://1.bp.blogspot.com/-4IsRR5vkJP0/XsK-F7TDkRI/AAAAAAAAcMk/XIx564vZWUYh28UVqjRTe8ec7xMX9vJcACLcBGAsYHQ/s200/0.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း(၅၃)",
+                                                   "cover": "https://1.bp.blogspot.com/-4IsRR5vkJP0/XsK-F7TDkRI/AAAAAAAAcMk/XIx564vZWUYh28UVqjRTe8ec7xMX9vJcACLcBGAsYHQ/s200/0.jpg",
+                                                   "post": "
 <img src=\"https://1.bp.blogspot.com/-setHCUjkHAw/X3ZDcmq8qTI/AAAAAAAApzI/BnmKcoZ3pkIXzdUfzcdtOpSbcv2tp6BDQCLcBGAsYHQ/s5000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-lo1aXC4cOIk/X3ZDcjyK7qI/AAAAAAAApzE/qBm_0qA4USID7ip0GgSzdJCdhk16Pm5aACLcBGAsYHQ/s5000/1-1.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-F5JRlpRVlsY/X3ZDfv3gSUI/AAAAAAAApzs/otrnDGgZh3MueyuVGN_fpPT1azI_eoxFQCLcBGAsYHQ/s5000/1-2.jpg\" width=\"100%\" />
@@ -1489,13 +1480,12 @@
 <img src=\"https://1.bp.blogspot.com/-ltCDIp4MdZQ/X3ZDesAk8tI/AAAAAAAApzg/uUTmUs_PvGYsNSFbiQK0rhMQfy3tXNEkACLcBGAsYHQ/s5000/1-15.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-UTwX6QFN60A/X3ZDemEw62I/AAAAAAAApzk/GvVYy2I_bSYDSKeJXa30l7ekUGIwHXLCwCLcBGAsYHQ/s5000/1-16.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-ti1oVMCrvzE/X3ZDfGVlvuI/AAAAAAAApzo/weUQZXUQhS4RyYw1IdtwQAAW6s59t1K3gCLcBGAsYHQ/s5000/1-17.jpg\" width=\"100%\" />"
-}
- ,
- {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၅၂)",
-"cover" : "https://1.bp.blogspot.com/-wS99RUuKgaU/Xr-c5uOSsrI/AAAAAAAAcB8/TYtPATxPDcM9kXYK0Y4KiWDpxgJlJkpWQCLcBGAsYHQ/s200/0.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း(၅၂)",
+                                                   "cover": "https://1.bp.blogspot.com/-wS99RUuKgaU/Xr-c5uOSsrI/AAAAAAAAcB8/TYtPATxPDcM9kXYK0Y4KiWDpxgJlJkpWQCLcBGAsYHQ/s200/0.jpg",
+                                                   "post": "
 <img src=\"https://1.bp.blogspot.com/-IBb-ODW6egY/X3ZCxT6tyXI/AAAAAAAApvo/JhGl6tPHKJAie3pY3JdtupxHofow7FCjQCLcBGAsYHQ/s5000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-VwmEb8nmbxU/X3ZCxVHfuQI/AAAAAAAApvs/i7lrO3pfXOkN28epdu5a-1O75pPCu_IJwCLcBGAsYHQ/s5000/1-1.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-amrZrs15Al8/X3ZCz9OPJII/AAAAAAAApwQ/QSueR73SRPYGXVw_xlEVJ7BbbEfXZvqUwCLcBGAsYHQ/s5000/1-2.jpg\" width=\"100%\" />
@@ -1514,14 +1504,12 @@
 <img src=\"https://1.bp.blogspot.com/-ElLCuYosBn4/X3ZCzOSKWMI/AAAAAAAApwE/RMapaY6kwpAufmGGnw5nISqqmeooZT8lACLcBGAsYHQ/s5000/1-15.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-sAqv8-CgxD0/X3ZCzZf0BMI/AAAAAAAApwI/y9Kr_NMAeIc8geGNHwWX09eCUvqQqRWiwCLcBGAsYHQ/s5000/1-16.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-qGvdVKn-alA/X3ZCz0Fj-wI/AAAAAAAApwM/zKXwf9pIbMcCBAE73TXYWpQSyfs9dWOngCLcBGAsYHQ/s5000/1-17.jpg\" width=\"100%\" />"
-}
- ,
- 
- {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၅၁)",
-"cover" : "https://1.bp.blogspot.com/-Vi9ji_WrUL8/Xr7S0LIJkBI/AAAAAAAAcAM/FNzoZU08IQcLSgY09ImTb29vY49lhOVMwCLcBGAsYHQ/s200/0.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း(၅၁)",
+                                                   "cover": "https://1.bp.blogspot.com/-Vi9ji_WrUL8/Xr7S0LIJkBI/AAAAAAAAcAM/FNzoZU08IQcLSgY09ImTb29vY49lhOVMwCLcBGAsYHQ/s200/0.jpg",
+                                                   "post": "
 <img src=\"https://1.bp.blogspot.com/-5wl8PEBWU-8/X3ZChbmsZsI/AAAAAAAApuU/HMJsjSkxreE_9jfqoBDYp2KV7L5lb169gCLcBGAsYHQ/s5000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-genOv5sQuAc/X3ZChbwqr6I/AAAAAAAApuY/WkhKEZOLWFkwo12USY0IdgUp1yy37v25ACLcBGAsYHQ/s5000/1-1.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-O3s_9vr34bM/X3ZClQMllWI/AAAAAAAApvI/Ro4_8_OfleAXjlhNPGJ_T4r8xpLQ2a5JQCLcBGAsYHQ/s5000/1-2.jpg\" width=\"100%\" />
@@ -1540,14 +1528,12 @@
 <img src=\"https://1.bp.blogspot.com/-Vo1frCRinJ8/X3ZCj-h6j5I/AAAAAAAApu8/LE1aVCqxlpsv4njBnHj4jOrhz9Cs2eYHwCLcBGAsYHQ/s5000/1-15.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-7IS8ZSRlPP8/X3ZCj8IwCVI/AAAAAAAApu4/z51c3Hmsg2wFD6EzP0jo7Fl_3TKIKYEawCLcBGAsYHQ/s5000/1-16.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-mx4i0GeY-Jc/X3ZClNUa1PI/AAAAAAAApvA/odBzYS6Ez0wdO5Unz76Ey2jA7fro1mYowCLcBGAsYHQ/s5000/1-17.jpg\" width=\"100%\" />"
-}
- ,
- 
- {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၅၀)",
-"cover" : "https://1.bp.blogspot.com/-2GTpOF6HsyA/Xr2IE_umSII/AAAAAAAAb-o/DnMSiRwxX7YDcBshFpih_JC3k22y3AJ7QCLcBGAsYHQ/s200/0.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း(၅၀)",
+                                                   "cover": "https://1.bp.blogspot.com/-2GTpOF6HsyA/Xr2IE_umSII/AAAAAAAAb-o/DnMSiRwxX7YDcBshFpih_JC3k22y3AJ7QCLcBGAsYHQ/s200/0.jpg",
+                                                   "post": "
 <img src=\"https://1.bp.blogspot.com/-K9H2-5ptEfE/X3ZCR0My8fI/AAAAAAAAptU/8TcUeQND2a4hJEWYXW6LlGV-TX-9CowZwCLcBGAsYHQ/s5000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-_Dig-D4rG_M/X3ZCRyV_mKI/AAAAAAAAptc/y6Ly3TBPkyImftzSsDggCtvpGEjjmU3xQCLcBGAsYHQ/s5000/1-1.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-CO0UwBGal_E/X3ZCUR2gxQI/AAAAAAAApt0/WRnMmUGtEHAgAi1hVdK_IFk5PUyVC3CqwCLcBGAsYHQ/s5000/1-2.jpg\" width=\"100%\" />
@@ -1564,14 +1550,12 @@
 <img src=\"https://1.bp.blogspot.com/-2UMZhQVAfRk/X3ZCTUORrjI/AAAAAAAApto/6JEeWahIA9gQoPJYMq8bR-R1xyoXiGIWACLcBGAsYHQ/s5000/1-13.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-IDbrj73mYac/X3ZCT1UO_4I/AAAAAAAApts/b3Dez7obgnQvv2-csklGT5PQr6tM3afxwCLcBGAsYHQ/s5000/1-14.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-PYvqPTrvJh4/X3ZCUKbTRqI/AAAAAAAAptw/qb_QxbuAJrUlsjav6DJBTwkjXAN9s87fQCLcBGAsYHQ/s5000/1-15.jpg\" width=\"100%\" />"
-}
- ,
- 
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၄၉)",
-"cover" : "https://1.bp.blogspot.com/-wTLE_ouF4dE/XqMju-d1iPI/AAAAAAAAbVA/IJm3p7dUWf0tL6p9cmhvdbrwk-IUrnauQCLcBGAsYHQ/s200/0.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း(၄၉)",
+                                                   "cover": "https://1.bp.blogspot.com/-wTLE_ouF4dE/XqMju-d1iPI/AAAAAAAAbVA/IJm3p7dUWf0tL6p9cmhvdbrwk-IUrnauQCLcBGAsYHQ/s200/0.jpg",
+                                                   "post": "
 <img src=\"https://1.bp.blogspot.com/-sBCBfv4vpd4/X3ZCDIfNHnI/AAAAAAAApsE/l3qHCw5JcacA6n-7Jcm3jSu_Wat3VxQDQCLcBGAsYHQ/s5000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-UG4kbyw-P0o/X3ZCDKSuFFI/AAAAAAAApsI/fcihNFZVFTwA0YWRlV1LUZGlQgk9EqfOgCLcBGAsYHQ/s5000/1-1.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-WJJxeEpAVpk/X3ZCHL8I9nI/AAAAAAAApsw/H868JPmEeaYYiR5MNtmuAbT6u_x8Y5y8QCLcBGAsYHQ/s5000/1-2.jpg\" width=\"100%\" />
@@ -1590,14 +1574,12 @@
 <img src=\"https://1.bp.blogspot.com/-MsE7nLW58xg/X3ZCFgw-6sI/AAAAAAAApsk/DJ2sFh_-kcEf_hs9F-AmnpiaHg-F8ojkgCLcBGAsYHQ/s5000/1-15.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-x8Rb-_9ytTo/X3ZCFtQIy_I/AAAAAAAApso/DgzkLMEN_Ewp_mZ48NNfuLjzyfoWqMIPgCLcBGAsYHQ/s5000/1-16.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-YL5ahirj3fs/X3ZCG0YJa5I/AAAAAAAApss/W9BidyNg9IUvmqLKcUqQry8_jQXLiLW_gCLcBGAsYHQ/s5000/1-17.jpg\" width=\"100%\" />"
-}
- ,
- 
- {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၄၈)",
-"cover" : "https://1.bp.blogspot.com/-IoLLogEfW1Q/XqB24v6cBZI/AAAAAAAAbTM/Sqqfz68pJLcCobiuw0aNrRaVzVHqIZh9wCLcBGAsYHQ/s200/0.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း(၄၈)",
+                                                   "cover": "https://1.bp.blogspot.com/-IoLLogEfW1Q/XqB24v6cBZI/AAAAAAAAbTM/Sqqfz68pJLcCobiuw0aNrRaVzVHqIZh9wCLcBGAsYHQ/s200/0.jpg",
+                                                   "post": "
 <img src=\"https://1.bp.blogspot.com/-cKC_WWdyDy0/X3ZByJsK9vI/AAAAAAAApqs/SQuccZnqhFAM40ZCFrSd7EqhbQChhMJrQCLcBGAsYHQ/s5000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-B3uCtPFmy3M/X3ZByPWoSZI/AAAAAAAApqo/o-QC-avBHcUKlBr-o9bwn0cmsuYWHVeOACLcBGAsYHQ/s5000/1-1.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-ZVgMKcbnQz0/X3ZB2pv0-dI/AAAAAAAAprk/qF4TvnoVtDkRNB5EGsc4mMEuP5-cC3byACLcBGAsYHQ/s5000/1-2.jpg\" width=\"100%\" />
@@ -1618,13 +1600,12 @@
 <img src=\"https://1.bp.blogspot.com/-K9w3lryIcKc/X3ZB1k20qcI/AAAAAAAAprU/GZ_HjhhOKCUREHZ1DbduP242NlBiekEBQCLcBGAsYHQ/s5000/1-17.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-Lni71Rk-8zo/X3ZB161-lEI/AAAAAAAAprY/wxkho57YBE8BLGrEM95aSNw-I9qX1GV8ACLcBGAsYHQ/s5000/1-18.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-xdUYg4t2LBs/X3ZB2XwHmXI/AAAAAAAAprg/7EEVtE3PQ_Q_H6axd_os65tK3n2ROLwCwCLcBGAsYHQ/s5000/1-19.jpg\" width=\"100%\" />"
-}
- ,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၄၇)",
-"cover" : "https://1.bp.blogspot.com/-kjpMtlRZO0s/XpiFiji3btI/AAAAAAAAbLk/ThBg5KVYKd05qAB2_7ClpIkXIyX8QfQnACLcBGAsYHQ/s200/0.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း(၄၇)",
+                                                   "cover": "https://1.bp.blogspot.com/-kjpMtlRZO0s/XpiFiji3btI/AAAAAAAAbLk/ThBg5KVYKd05qAB2_7ClpIkXIyX8QfQnACLcBGAsYHQ/s200/0.jpg",
+                                                   "post": "
 <img src=\"https://1.bp.blogspot.com/-5zhWKKC43No/X3ZH8fDhW-I/AAAAAAAAp04/VatQHG-mzMQCf2QCSOD5MuaY6Q2yasF9ACLcBGAsYHQ/s5000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-hbVoyQ5pX20/X3ZH8TP8aaI/AAAAAAAAp08/pMCzzucpljMtTGW5zmpFPW3pKLMgeeqAwCLcBGAsYHQ/s5000/1-1.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-_VARmctxzCs/X3ZH-NybrbI/AAAAAAAAp1Q/Ya0X5WGib8MwcuKMy68C7WhCJH1gZXVuwCLcBGAsYHQ/s5000/1-2.jpg\" width=\"100%\" />
@@ -1639,13 +1620,12 @@
 <img src=\"https://1.bp.blogspot.com/-EnOmX8rYiro/X3ZH9Tju37I/AAAAAAAAp1E/6eDlgwT3XfQuh_h4PfBu9gviQo0RsCK2wCLcBGAsYHQ/s5000/1-11.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-blJcCEZ89FU/X3ZH9sanWYI/AAAAAAAAp1I/eT58-LEAunwJB2tNQXsr1LXf8FVIiIhJQCLcBGAsYHQ/s5000/1-12.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-gxrsSJ2fMv0/X3ZH9jP18WI/AAAAAAAAp1M/lhIhBNrUFmYDYgK13jF32ABTymGWGlOXACLcBGAsYHQ/s5000/1-13.jpg\" width=\"100%\" />"
-}
- ,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၄၆)",
-"cover" : "https://1.bp.blogspot.com/-wtZyzKlXVpw/Xpa-85unwQI/AAAAAAAAbJg/fhnEYg80E_c2sQWNQx0RwY3zddq73iGcACLcBGAsYHQ/s200/0.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း(၄၆)",
+                                                   "cover": "https://1.bp.blogspot.com/-wtZyzKlXVpw/Xpa-85unwQI/AAAAAAAAbJg/fhnEYg80E_c2sQWNQx0RwY3zddq73iGcACLcBGAsYHQ/s200/0.jpg",
+                                                   "post": "
 <img src=\"https://1.bp.blogspot.com/-piMExINLHAU/X3ZBTs18zFI/AAAAAAAApos/7M-WjR2TFroxjaiMZthu3HzBJjg-3M7bACLcBGAsYHQ/s5000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-IWqXM3ok7AI/X3ZBTiIlsOI/AAAAAAAApoo/M0jr6P8c3LkCHEDi_MSD_htMgJEuvddJgCLcBGAsYHQ/s5000/1-1.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-TAyL4aoB2Zo/X3ZBWSkljhI/AAAAAAAAppQ/wh56MDp0SdI4fjvV_Ox8E2xaf9qXRhsQACLcBGAsYHQ/s5000/1-2.jpg\" width=\"100%\" />
@@ -1664,13 +1644,12 @@
 <img src=\"https://1.bp.blogspot.com/-53O6s1uJcTI/X3ZBVi5H4eI/AAAAAAAAppE/V1QP58u-KUUNJbX_VwjSjhIltSyEfrjLQCLcBGAsYHQ/s5000/1-15.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-u4BhTV9qiyM/X3ZBVvfvy3I/AAAAAAAAppI/amO1wz2crq06yXxMhXmdu92HGY3FssTSACLcBGAsYHQ/s5000/1-16.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-8qfaeXxkBn0/X3ZBWGz919I/AAAAAAAAppM/vjYxgxD4P7ccSd3yjBlNt-V3EteZxij_ACLcBGAsYHQ/s5000/1-17.jpg\" width=\"100%\" />"
-}
- ,
- {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၄၅)",
-"cover" : "https://1.bp.blogspot.com/-k6WN9-Jc3MU/XpXU2MzteLI/AAAAAAAAbHw/NRiuiLcv7w8PuZgrmJQAO8Yd9NOPxWyggCLcBGAsYHQ/s200/0.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း(၄၅)",
+                                                   "cover": "https://1.bp.blogspot.com/-k6WN9-Jc3MU/XpXU2MzteLI/AAAAAAAAbHw/NRiuiLcv7w8PuZgrmJQAO8Yd9NOPxWyggCLcBGAsYHQ/s200/0.jpg",
+                                                   "post": "
 <img src=\"https://1.bp.blogspot.com/-CDicjSvJRA0/X3ZJZLRTDXI/AAAAAAAAp30/h0VFMDylq8sdXb5PzcPRIRAF-YRAr1XUgCLcBGAsYHQ/s5000/1-1.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-_2cfbE-Nqk8/X3ZJcpHmRII/AAAAAAAAp4k/z9Ci6UJbunsTUqedDhF9SbklvF49qJVZgCLcBGAsYHQ/s5000/1-2.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-W7UcE6qaJsY/X3ZJdLIFw8I/AAAAAAAAp4s/5obdBJkVqroNyW0zJ9lg3Ovw5tRvK7bEACLcBGAsYHQ/s5000/1-3.jpg\" width=\"100%\" />
@@ -1691,13 +1670,12 @@
 <img src=\"https://1.bp.blogspot.com/-cQkOmoXQyWU/X3ZJcV2wKnI/AAAAAAAAp4g/mNK2cIF_fpMSfwmOkM-t4sNBkgWn_sJ4wCLcBGAsYHQ/s5000/1-18.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-V_0LJ9MlGD4/X3ZJciRyiCI/AAAAAAAAp4o/6cgAdBxXkSgHRJYBX7UQQ6hhmN_TlOWbwCLcBGAsYHQ/s5000/1-19.jpg\" width=\"100%\" />
 "
-}
- ,
- {
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း(၄၄)",
-"cover" : "https://1.bp.blogspot.com/-Q-MZ3R_ThP4/XoSyBufONcI/AAAAAAAAau4/ka4YPnaTnhgSiq_Jck4j5Sz8rWv6qV7YwCLcBGAsYHQ/s400/0.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း(၄၄)",
+                                                   "cover": "https://1.bp.blogspot.com/-Q-MZ3R_ThP4/XoSyBufONcI/AAAAAAAAau4/ka4YPnaTnhgSiq_Jck4j5Sz8rWv6qV7YwCLcBGAsYHQ/s400/0.jpg",
+                                                   "post": "
 
 <img src=\"https://1.bp.blogspot.com/-R4E-MZU1wfM/XoSyBoE0G_I/AAAAAAAAau8/R1ZXOZUecV0COp9hAnUC-Ol8c7Cac0ZDACLcBGAsYHQ/s5000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-njCLbvJ44wc/XoSyB7UhIBI/AAAAAAAAavA/vOe2IO9viSsgjFseqhNQHh_7_SnBnjwiACLcBGAsYHQ/s5000/1-1.jpg\" width=\"100%\" />
@@ -1722,13 +1700,12 @@
 <img src=\"https://1.bp.blogspot.com/-eWdgZ6GE59o/XoSyGduDBrI/AAAAAAAAavs/1AkJXJ3G7pgiinc8o2lxgPcnStJzPADUACLcBGAsYHQ/s5000/1-20.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-wvk4KmADBVc/XoSyHSHSa_I/AAAAAAAAav0/2Pcb4f0rLdEKVZQymp5G0Ruvprbn3dp8wCLcBGAsYHQ/s5000/1-21.jpg\" width=\"100%\" />
 "
-}
-,
-{
-"title" : "တိတ်တခိုး\n၁၃.၀၄.၂၀၂၀",
-"status" : "အပိုင်း (၄၃)",
-"cover" : "https://1.bp.blogspot.com/-OMXnTT-dmzo/XoNNmPWNVEI/AAAAAAAAatE/e-56m9HI7lQHTaNEsKURFKXODZSlIVFkACLcBGAsYHQ/s400/0.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး\n၁၃.၀၄.၂၀၂၀",
+                                                   "status": "အပိုင်း (၄၃)",
+                                                   "cover": "https://1.bp.blogspot.com/-OMXnTT-dmzo/XoNNmPWNVEI/AAAAAAAAatE/e-56m9HI7lQHTaNEsKURFKXODZSlIVFkACLcBGAsYHQ/s400/0.jpg",
+                                                   "post": "
 
 <img src=\"https://1.bp.blogspot.com/-K-2a-mAaS4I/XoNNmFZdRDI/AAAAAAAAatM/L9ID8vjkfJcvL0srjTGB92_ESuyFuNKcgCLcBGAsYHQ/s5000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-_Mzn8alHGQU/XoNNmEvlTVI/AAAAAAAAatI/BtUKJVZS-B86Iuf7vjCCZLgYCtkPtXhawCLcBGAsYHQ/s5000/1-1.jpg\" width=\"100%\" />
@@ -1751,13 +1728,12 @@
 <img src=\"https://1.bp.blogspot.com/-YgxTpwN2Gag/XoNNpdLXykI/AAAAAAAAatw/5V9DqBbuD14mMTNAGIS8bcOzjGyMyji5wCLcBGAsYHQ/s5000/1-18.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-RX1_w_YNwpA/XoNNpxlT5II/AAAAAAAAat0/8ZALjqBY9QATgth3GdBXrHjLGG-sjs5NgCLcBGAsYHQ/s5000/1-19.jpg\" width=\"100%\" />
 "
-}
-,
-{
-"title" : "တိတ်တခိုး\n၁၃.၀၄.၂၀၂၀",
-"status" : "အပိုင်း(၄၂)",
-"cover" : "https://1.bp.blogspot.com/-eCNF1GyKur4/XneYTk2yGBI/AAAAAAAAarE/_h5XTbNvQVM7xGfQJX4hKkY_5RW7XsXgQCLcBGAsYHQ/s400/0.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး\n၁၃.၀၄.၂၀၂၀",
+                                                   "status": "အပိုင်း(၄၂)",
+                                                   "cover": "https://1.bp.blogspot.com/-eCNF1GyKur4/XneYTk2yGBI/AAAAAAAAarE/_h5XTbNvQVM7xGfQJX4hKkY_5RW7XsXgQCLcBGAsYHQ/s400/0.jpg",
+                                                   "post": "
 
 <img src=\"https://1.bp.blogspot.com/--xdGA2hd7Wg/XneYTpzIjEI/AAAAAAAAarI/aOEld9naLm4jL85ubAu2zo9LPIZUfnEhACLcBGAsYHQ/s5000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/--5Syx31l1x4/XneYTmtqDLI/AAAAAAAAarA/Sjzrxlthwt8QG0Y052l9wXrdWlRUMmyxACLcBGAsYHQ/s5000/1-1.jpg\" width=\"100%\" />
@@ -1780,14 +1756,12 @@
 <img src=\"https://1.bp.blogspot.com/-Fn5NzGFnehw/XneYXra7ePI/AAAAAAAAars/MlcTuOj1tCwaKzQAESqiSHW908R9ph2hACLcBGAsYHQ/s5000/1-18.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-5WlPBI3AMm8/XneYXmOdYSI/AAAAAAAAarw/10A98UN8DfYRzSNEWk6qGXwmiKyTsN1VACLcBGAsYHQ/s5000/1-19.jpg\" width=\"100%\" />
 "
-}
-,
-
-{
-"title" : "တိတ်တခိုး\n၁၃.၀၄.၂၀၂၀",
-"status" : "အပိုင်း (၄၁)",
-"cover" : "https://1.bp.blogspot.com/-lWPKrXewWeo/XmZcf3BDUeI/AAAAAAAAaoo/OZKVxwnMsm4CalwMBMtyxyzkdTnBWvI9QCLcBGAsYHQ/s400/0.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး\n၁၃.၀၄.၂၀၂၀",
+                                                   "status": "အပိုင်း (၄၁)",
+                                                   "cover": "https://1.bp.blogspot.com/-lWPKrXewWeo/XmZcf3BDUeI/AAAAAAAAaoo/OZKVxwnMsm4CalwMBMtyxyzkdTnBWvI9QCLcBGAsYHQ/s400/0.jpg",
+                                                   "post": "
 
 <img src=\"https://1.bp.blogspot.com/-HPb30yD6zpo/XmZcgLrHdAI/AAAAAAAAaow/9g-k4kPT_tsmeTJOSK756DTWy3ZAYvonQCLcBGAsYHQ/s5000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-e7_mmOSbHfo/XmZcf137RyI/AAAAAAAAaos/7bCF3d2CHdQpB-BobbPnzgcbK0cpqEQFQCLcBGAsYHQ/s5000/1-1.jpg\" width=\"100%\" />
@@ -1812,13 +1786,12 @@
 <img src=\"https://1.bp.blogspot.com/-2EiWgylQV8g/XmZck4thlXI/AAAAAAAAapg/QUyZlWVPIj4DLtgP77CnFjUAvhU5CN2TwCLcBGAsYHQ/s5000/1-20.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-2L1gQAfZRqo/XmZclYTD5yI/AAAAAAAAapk/46xsKlBrUow6GNBUwuthE_pqnlFOkvx3QCLcBGAsYHQ/s5000/1-21.jpg\" width=\"100%\" />
 "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၄၀)",
-"cover" : "https://1.bp.blogspot.com/-udrdVJHVXms/XklgNb04gOI/AAAAAAAAais/G3Vhqb9t-04XDqb1m5Yza0UesdCdE1t1QCLcBGAsYHQ/s400/0.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၄၀)",
+                                                   "cover": "https://1.bp.blogspot.com/-udrdVJHVXms/XklgNb04gOI/AAAAAAAAais/G3Vhqb9t-04XDqb1m5Yza0UesdCdE1t1QCLcBGAsYHQ/s400/0.jpg",
+                                                   "post": "
 <img src=\"https://1.bp.blogspot.com/-e0tXG3I3_B4/XklgNWs63dI/AAAAAAAAai0/W7g0rpWyi64h6GIh4PhWxThcB1V3BENXgCLcBGAsYHQ/s2000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-4acepYQu1JU/XklgNVc8ECI/AAAAAAAAaiw/HbOC5nSO9xwzWx6SMpbwQimgNA4PfYuOACLcBGAsYHQ/s2000/1-1.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-HftyxAE9yRE/XklgRhNd2NI/AAAAAAAAajY/27qxFpw-oRsaZKvux_jgYWBgNoFrjPtDACLcBGAsYHQ/s2000/1-2.jpg\" width=\"100%\" />
@@ -1838,13 +1811,12 @@
 <img src=\"https://1.bp.blogspot.com/-DExjtGF_CqM/XklgQ6UIqlI/AAAAAAAAajQ/v09UMknJV5wRYX4V1Ql0i0etNVsSJtZ9gCLcBGAsYHQ/s2000/1-16.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-6Zbmkqqco2k/XklgRGzENMI/AAAAAAAAajU/DNTq-M6EcYIi1snXvCpREgwwkO1Sv4e7wCLcBGAsYHQ/s2000/1-17.jpg\" width=\"100%\" />
 "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၃၉)",
-"cover" : "https://1.bp.blogspot.com/-cTZ29YPTRio/XdQRY7G4TWI/AAAAAAAAaH8/Cg2kW2UHj-QrtvxBCE9hMjXEbAh6LGt0gCLcBGAsYHQ/s2000/0.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၃၉)",
+                                                   "cover": "https://1.bp.blogspot.com/-cTZ29YPTRio/XdQRY7G4TWI/AAAAAAAAaH8/Cg2kW2UHj-QrtvxBCE9hMjXEbAh6LGt0gCLcBGAsYHQ/s2000/0.jpg",
+                                                   "post": "
 <img src=\"https://1.bp.blogspot.com/-DB7ckHbES5Y/XdQRZYxmOdI/AAAAAAAAaIE/y3PfGhE-4RYToYqI1V-nlyJp5zGMF0A2ACLcBGAsYHQ/s2000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-NxZ9VPMOyF0/XdQRZNg2neI/AAAAAAAAaIA/xGaaysgqFJUBifOvGWKYl4DDGZIUUnEUgCLcBGAsYHQ/s2000/1-1.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-jHB53C6jD3o/XdQRef9xW8I/AAAAAAAAaIo/gNQj-6zgZqUDcNQXPzoqWWOErBvcwsnPwCLcBGAsYHQ/s2000/1-2.jpg\" width=\"100%\" />
@@ -1864,13 +1836,12 @@
 <img src=\"https://1.bp.blogspot.com/-hODTDeLsT14/XdQRdQlFymI/AAAAAAAAaIg/Dvim_McK-D0iKNhqzFlZ-7BWkvo1TcIswCLcBGAsYHQ/s2000/1-16.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-ahUe_phmGS4/XdQRdhoyr0I/AAAAAAAAaIk/zxq1tPKZS_8Du6dPKmxefklLI1QQDucwwCLcBGAsYHQ/s2000/1-17.jpg\" width=\"100%\" />
 "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၃၈)",
-"cover" : "https://1.bp.blogspot.com/-Hde27foIA2s/XdLIfIKShjI/AAAAAAAAaFc/bri13imlOc0w-TaA0mmZUvvKyYlDNMOOACLcBGAsYHQ/s2000/0.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၃၈)",
+                                                   "cover": "https://1.bp.blogspot.com/-Hde27foIA2s/XdLIfIKShjI/AAAAAAAAaFc/bri13imlOc0w-TaA0mmZUvvKyYlDNMOOACLcBGAsYHQ/s2000/0.jpg",
+                                                   "post": "
 <img src=\"https://1.bp.blogspot.com/-pUTaakW1WuY/XdLIgcqQOoI/AAAAAAAAaFk/-Er7d5WPFx0nwJ4SeoQLIt7-jLvNwFewACLcBGAsYHQ/s2000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-QtKrSjndDMo/XdLIgR43ZVI/AAAAAAAAaFg/wCmFZKVci54bjpbUQevMFS7gF0pk8h0OgCLcBGAsYHQ/s2000/1-1.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-GRIam6592eQ/XdLIlKFf5zI/AAAAAAAAaGQ/zMLt8u1IRxAmzLDhmNWGku02P_xLjTTiQCLcBGAsYHQ/s2000/1-2.jpg\" width=\"100%\" />
@@ -1892,13 +1863,12 @@
 <img src=\"https://1.bp.blogspot.com/-GidjTRORJgk/XdLIkTP0PoI/AAAAAAAAaGI/6Z7_5dHvwJMrG-QQvwy_TMO5oSmL8tL2gCLcBGAsYHQ/s2000/1-18.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-ZbF6NhSaYUI/XdLIktUjpAI/AAAAAAAAaGM/RAhY3ah5o7cFeRviT7IjTtGRwCyA3tZawCLcBGAsYHQ/s2000/1-19.jpg\" width=\"100%\" />
 "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၃၇)",
-"cover" : "https://1.bp.blogspot.com/--X-v6aXKNMA/XdFlxUGimNI/AAAAAAAAaDI/ZbaK3RUfkvYdt3HQy-iRLU7_Szxtwz_ZQCLcBGAsYHQ/s2000/0.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၃၇)",
+                                                   "cover": "https://1.bp.blogspot.com/--X-v6aXKNMA/XdFlxUGimNI/AAAAAAAAaDI/ZbaK3RUfkvYdt3HQy-iRLU7_Szxtwz_ZQCLcBGAsYHQ/s2000/0.jpg",
+                                                   "post": "
 <img src=\"https://1.bp.blogspot.com/-x-6C3nndIG8/XdFlxpMHluI/AAAAAAAAaDQ/cYIAjhfJh4IK1U_lHw0ndawsn66-WkoZgCLcBGAsYHQ/s2000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-wHl2poDFSts/XdFlxldO6XI/AAAAAAAAaDM/hH5DehWIj0QkMErTFyZSFy6VT5OD_T4KwCLcBGAsYHQ/s2000/1-1.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-r7ecoJTllaA/XdFl1zS0P1I/AAAAAAAAaD0/SQHNByX35xsDU_sg0g2V6bYo6wMzgmB-wCLcBGAsYHQ/s2000/1-2.jpg\" width=\"100%\" />
@@ -1918,14 +1888,12 @@
 <img src=\"https://1.bp.blogspot.com/-ejUjLyBpR0U/XdFl04x7RDI/AAAAAAAAaDs/2i-izJ3xLAQeWboJ-kKY-8rMMcFNNmrzwCLcBGAsYHQ/s2000/1-16.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-oWlGs1e1aqY/XdFl1QWpJiI/AAAAAAAAaDw/vxcrWYW4ydQXf_5t5vVrVo0IaEF4_pPmACLcBGAsYHQ/s2000/1-17.jpg\" width=\"100%\" />
 "
-}
-,
-
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၃၆)",
-"cover" : "https://1.bp.blogspot.com/-WAfnwnUsIgg/XW6SGa5NdMI/AAAAAAAAYz8/vKU5h5c21MoOIm0ZG_AIpZEMjpX_fckiACLcBGAs/s2000/0.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၃၆)",
+                                                   "cover": "https://1.bp.blogspot.com/-WAfnwnUsIgg/XW6SGa5NdMI/AAAAAAAAYz8/vKU5h5c21MoOIm0ZG_AIpZEMjpX_fckiACLcBGAs/s2000/0.jpg",
+                                                   "post": "
 <img src=\"https://1.bp.blogspot.com/-NdCjhX1C8Hc/XW6SGfDf8ZI/AAAAAAAAY0E/_rTM3hV7rR4zCwmOlNdQheDJAc4ubTaJwCLcBGAs/s2000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-bXMnEIlrM-8/XW6SGWCld-I/AAAAAAAAY0A/cjmmJd07WuY8IXmLF3CXJprJfFQnig-PgCLcBGAs/s2000/1-1.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-FEvQs1oeQCk/XW6SJ-1rv0I/AAAAAAAAY0o/NkK4WqkK3hESLLkWC4SZNw9njJlAhgVtACLcBGAs/s2000/1-2.jpg\" width=\"100%\" />
@@ -1945,13 +1913,12 @@
 <img src=\"https://1.bp.blogspot.com/-bEuEnvodGMs/XW6SJLAcCxI/AAAAAAAAY0g/kLYkF2FX0ZMljQ19bn37pG5J3mXmE-ASACLcBGAs/s2000/1-16.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-V_4nZYS0NRg/XW6SJotQDUI/AAAAAAAAY0k/qGlDUrLUzpQnlrQIJX7a-EB6eVBsInjFQCLcBGAs/s2000/1-17.jpg\" width=\"100%\" />
 "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၃၅)",
-"cover" : "https://1.bp.blogspot.com/-gS13n1V8ZL0/XWvYJzaF5OI/AAAAAAAAYyM/O0497pTNbqM9LN9Aztrbt1Y5tN6Bcfi1ACLcBGAs/s2000/0.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၃၅)",
+                                                   "cover": "https://1.bp.blogspot.com/-gS13n1V8ZL0/XWvYJzaF5OI/AAAAAAAAYyM/O0497pTNbqM9LN9Aztrbt1Y5tN6Bcfi1ACLcBGAs/s2000/0.jpg",
+                                                   "post": "
 <img src=\"https://1.bp.blogspot.com/-60HaPvgJ5yw/XWvYKDfR9cI/AAAAAAAAYyQ/yywvD-m3t_Qi0NbKk1WUcFyxHVVKEt2LwCLcBGAs/s2000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-NbLmOiKeVwE/XWvYJwHei6I/AAAAAAAAYyI/6GBgfpcr42oe_q1EwyU86shosgDLxZg-QCLcBGAs/s2000/1-1.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-zF8-ASq_jB0/XWvYNlD_IlI/AAAAAAAAYy0/yLCT-Vq0vOEgKRILdBo0WvbPME8kIjRdgCLcBGAs/s2000/1-2.jpg\" width=\"100%\" />
@@ -1971,13 +1938,12 @@
 <img src=\"https://1.bp.blogspot.com/-9pwxtlK5Gq0/XWvYMxux8yI/AAAAAAAAYys/Aodyeclxpi8hy1g1Ao9p3RbUqFcy3zM3QCLcBGAs/s2000/1-16.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-NIAGxXAUcXk/XWvYNlYuICI/AAAAAAAAYyw/CInvShdFsDwhJl_kYXV4zGo9dgP7ukARgCLcBGAs/s2000/1-17.jpg\" width=\"100%\" />
 "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၃၄)",
-"cover" : "https://1.bp.blogspot.com/-yH33ixJCQmE/XWqDsk3Z0-I/AAAAAAAAYwI/P6vwyg_5gaUjrhtRrWYQzojcy-pC7bO4QCLcBGAs/s2000/0.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၃၄)",
+                                                   "cover": "https://1.bp.blogspot.com/-yH33ixJCQmE/XWqDsk3Z0-I/AAAAAAAAYwI/P6vwyg_5gaUjrhtRrWYQzojcy-pC7bO4QCLcBGAs/s2000/0.jpg",
+                                                   "post": "
 <img src=\"https://1.bp.blogspot.com/-ZjtxaGhi9Mk/XWqDs6LAijI/AAAAAAAAYwQ/Cqdo-hX4pHYJfB5480Zb7YwwEmTYj_sbgCLcBGAs/s2000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-KV_QGOpoJ5Q/XWqDspq0E1I/AAAAAAAAYwM/RF3VedgRw54WLrYGChw1dEmEzlQIIMvGgCLcBGAs/s2000/1-1.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-nYSpzfUt7og/XWqDwfTn1kI/AAAAAAAAYw0/u5W0RX1P_McFT1mBgZp06yLSQYnGqfYjACLcBGAs/s2000/1-2.jpg\" width=\"100%\" />
@@ -1997,13 +1963,12 @@
 <img src=\"https://1.bp.blogspot.com/-bzJ92KW38rs/XWqDvzCNyII/AAAAAAAAYws/wr9rUXeI4mYJfLvlF9WqdTe8md_b5t1WwCLcBGAs/s2000/1-16.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-SojXlogkxbE/XWqDwCuM5uI/AAAAAAAAYww/PJ6aTzjZMX0OOMK9qJVPdSjW-VcbkTDsgCLcBGAs/s2000/1-17.jpg\" width=\"100%\" />
 "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၃၃)",
-"cover" : "https://3.bp.blogspot.com/-XRDSLVrwfRQ/XLSqYX2Xe2I/AAAAAAAAWbQ/kKyANNnDNb0ecR6NzcX8p1uzlFDsh3NqQCLcBGAs/s2000/0.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၃၃)",
+                                                   "cover": "https://3.bp.blogspot.com/-XRDSLVrwfRQ/XLSqYX2Xe2I/AAAAAAAAWbQ/kKyANNnDNb0ecR6NzcX8p1uzlFDsh3NqQCLcBGAs/s2000/0.jpg",
+                                                   "post": "
 <img src=\"https://1.bp.blogspot.com/-DAtl14TL6JE/XLSqYS39xlI/AAAAAAAAWbU/EKU6D4YRNDYqwYzvnohZPxnHm5RHCGVsACLcBGAs/s2000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://3.bp.blogspot.com/-FkA5M3OsE0w/XLSqYsKE-xI/AAAAAAAAWbY/_MsUj8aVl5k7puOYrDCeeNI4zGHdbua6gCLcBGAs/s2000/1-1.jpg\" width=\"100%\" />
 <img src=\"https://3.bp.blogspot.com/-fc5Pch3NFr4/XLSqbojUULI/AAAAAAAAWcE/sAsKbmr_9qsoBy0MogRCgO4By_Lu2hXuQCLcBGAs/s2000/1-2.jpg\" width=\"100%\" />
@@ -2033,13 +1998,12 @@
 <img src=\"https://4.bp.blogspot.com/-iwhkv-l4tQA/XLSqdRwl16I/AAAAAAAAWcg/EGx7RzFnPm8L1xVB2FYPXQff_NJEMRYxACLcBGAs/s2000/1-26.jpg\" width=\"100%\" />
 <img src=\"https://3.bp.blogspot.com/-H7jmBf_UZs4/XLSqd_rNVTI/AAAAAAAAWck/Pw6KIodsggQ9BFeG-dKeUciI-D2zL0I5gCLcBGAs/s2000/1-27.jpg\" width=\"100%\" />
  "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၃၂)",
-"cover" : "https://1.bp.blogspot.com/-cOL74iY7Txw/XLIOyv-uPFI/AAAAAAAAWZY/vJRJLChm8A8rn0IP1VtIJHV4oWWyTKIWQCLcBGAs/s2000/0.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၃၂)",
+                                                   "cover": "https://1.bp.blogspot.com/-cOL74iY7Txw/XLIOyv-uPFI/AAAAAAAAWZY/vJRJLChm8A8rn0IP1VtIJHV4oWWyTKIWQCLcBGAs/s2000/0.jpg",
+                                                   "post": "
 <img src=\"https://3.bp.blogspot.com/-nG74jlO_olY/XLIOyiWQwDI/AAAAAAAAWZg/wKp99fswrAoPFIOqH9mzWT8I4pWj1B30ACLcBGAs/s2000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-hbOGWDu3g7k/XLIOypmF31I/AAAAAAAAWZc/tOYWvLJc1zYvvBTMnerOqF2aFw9hKLCjACLcBGAs/s2000/1-1.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-LUUTwzPWFv4/XLIO3XL3GII/AAAAAAAAWaM/EEzXLhqzb5EXaZquk4W80Wc7h_ygzPLngCLcBGAs/s2000/1-2.jpg\" width=\"100%\" />
@@ -2061,13 +2025,12 @@
 <img src=\"https://1.bp.blogspot.com/-vWIteRFPJ3U/XLIO26wDkhI/AAAAAAAAWaE/EcWvLsTPz3Yj1ETNB895v1_cPeCR5Hq-ACLcBGAs/s2000/1-18.jpg\" width=\"100%\" />
 <img src=\"https://2.bp.blogspot.com/-nFgXudswFQM/XLIO2-qtTVI/AAAAAAAAWaI/F0fbZ_L2ldEmEBBWalrAfrLU21zd649igCLcBGAs/s2000/1-19.jpg\" width=\"100%\" />
 "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၃၁)",
-"cover" : "https://2.bp.blogspot.com/-TceUo_udONk/XLC_0f9mxyI/AAAAAAAAWWo/oCICHO8rcjsDDKDrUbx4O4kIYyimtBOywCLcBGAs/s2000/0.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၃၁)",
+                                                   "cover": "https://2.bp.blogspot.com/-TceUo_udONk/XLC_0f9mxyI/AAAAAAAAWWo/oCICHO8rcjsDDKDrUbx4O4kIYyimtBOywCLcBGAs/s2000/0.jpg",
+                                                   "post": "
 <img src=\"https://3.bp.blogspot.com/-HtN3_9z4U5w/XLC_0vRO0RI/AAAAAAAAWWs/DFhInLpphIAKpatKaK1sCwHgZWwLckjhgCLcBGAs/s2000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://3.bp.blogspot.com/-B5Lx4Gc1p-0/XLC_0jvqAnI/AAAAAAAAWWw/xZAp-sKU_4cEBHoc6jwV5yIvk8SXInZwgCLcBGAs/s2000/1-1.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-G_hl-U2UEqY/XLC_39lfQ7I/AAAAAAAAWXc/1MVtse5w8QgjusdZSgJwghfFLjhmza_dACLcBGAs/s2000/1-2.jpg\" width=\"100%\" />
@@ -2094,13 +2057,12 @@
 <img src=\"https://4.bp.blogspot.com/-objWw5_RyuM/XLC_4i8KuuI/AAAAAAAAWXs/JEs-KCexc1sZUVppLt72CgPN7LL0zvxyQCLcBGAs/s2000/1-23.jpg\" width=\"100%\" />
 
 "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၃၀)",
-"cover" : "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s400/38.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၃၀)",
+                                                   "cover": "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s400/38.jpg",
+                                                   "post": "
 <img src=\"https://3.bp.blogspot.com/-54b3E3yT55E/XKOGeMqDcoI/AAAAAAAAWEI/DwIEdifMROY3s0Ak8NJ-rktI3FzSsl6gACLcBGAs/s5000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-gJVAgUens38/XKOGdynKMLI/AAAAAAAAWEA/H3dgrMrMsRAADlF7D2UyO0fVsULGxXcegCLcBGAs/s5000/1-1.jpg\" width=\"100%\" />
 <img src=\"https://2.bp.blogspot.com/-vDaCV9kcgGI/XKOGiXFMyBI/AAAAAAAAWE0/yrFEdbdoze88a-kYhL4dxD0piNOgHWyCACLcBGAs/s5000/1-2.jpg\" width=\"100%\" />
@@ -2123,13 +2085,12 @@
 <img src=\"https://4.bp.blogspot.com/-NBIFEI4Umgs/XKOGiaYcmrI/AAAAAAAAWEw/wMsZrMOiKVQcSmzifBpD66ikFWhvzAnHwCLcBGAs/s5000/1-19.jpg\" width=\"100%\" />
 
  "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၂၉)",
-"cover" : "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s400/38.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၂၉)",
+                                                   "cover": "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s400/38.jpg",
+                                                   "post": "
 <img src=\"https://3.bp.blogspot.com/-WBaxzJAIJ6M/XKIxn5jIukI/AAAAAAAAV_M/eAvugeask-I4JezQhdggwhCxQRHGyB6oQCLcBGAs/s5000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://2.bp.blogspot.com/-vrsVxbUBd9Q/XKIxn8j0i5I/AAAAAAAAV_Q/3bP75IlXeEENKSNrTMpiWfcOLTai1V86ACLcBGAs/s5000/1-1.jpg\" width=\"100%\" />
 <img src=\"https://3.bp.blogspot.com/-QW19NG_OyVA/XKIxsF9AKBI/AAAAAAAAV_8/jBA-ZrD_hxE5lmd9cfcozeP_a8D2hfx2QCLcBGAs/s5000/1-2.jpg\" width=\"100%\" />
@@ -2151,15 +2112,12 @@
 <img src=\"https://2.bp.blogspot.com/-vjBV_gsE3fc/XKIxrcnSoWI/AAAAAAAAV_w/prnJoKB34VMh4jpnjL6IRew4G8DxuHHnQCLcBGAs/s5000/1-18.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-c6H63SCgL-A/XKIxrpoJrWI/AAAAAAAAV_4/tbxrWR0Vboo3DsHf5uY7ISVUGyZFuUndwCLcBGAs/s5000/1-19.jpg\" width=\"100%\" />
  "
-}
-,
-
-
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၂၈)",
-"cover" : "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s400/38.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၂၈)",
+                                                   "cover": "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s400/38.jpg",
+                                                   "post": "
 <img src=\"https://1.bp.blogspot.com/-7IBm_KIQkbU/XKDlccEmeXI/AAAAAAAAV9c/Gz6_x9aFNdgjAAQbhvkdbCYz2vt78ncGACLcBGAs/s5000/1-0.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-F1O2LIpmyoE/XKDlcXTLU-I/AAAAAAAAV9Y/e1SEDXzOV2sCPyvOjLFYGzpVrft7QelSgCLcBGAs/s5000/1-1.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-1eFSstKO40M/XKDlfbSV1JI/AAAAAAAAV-I/SeEujfJQuTAYfAvLNbChi65mlbWoMPu9gCLcBGAs/s5000/1-2.jpg\" width=\"100%\" />
@@ -2181,13 +2139,12 @@
 <img src=\"https://3.bp.blogspot.com/-xtTlnTl4t0U/XKDlfKRJ7GI/AAAAAAAAV-A/wod99oJO1BI6n2Iuo0-_-ol_sVYB4Y71wCLcBGAs/s5000/1-18.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-jYk70QrMTJE/XKDlfDA9RbI/AAAAAAAAV-E/MwyEF_L3vA0oNLtmiFc8bFtCPlSJdvKwgCLcBGAs/s5000/1-19.jpg\" width=\"100%\" />
  "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၂၇)",
-"cover" : "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s400/38.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၂၇)",
+                                                   "cover": "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s400/38.jpg",
+                                                   "post": "
 <img src=\"https://4.bp.blogspot.com/-7I2xpc6wSvc/XJpE_r_N72I/AAAAAAAAVlY/5QR7svFPYdgLnOgOs72jDiybM0zX3XpzACLcBGAs/s5000/1%2B%25281%2529.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-BAsA50zN6g0/XJpFCVT0pnI/AAAAAAAAVmE/-m_EHCdNH8MKlMVda5hAyOFXct_bhvC2wCLcBGAs/s5000/1%2B%25282%2529.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-ACWYRJV4L34/XJpFCq9Y3gI/AAAAAAAAVmM/DkPchPV4QwYzER7IRddrT1P3Gn0edvB1QCLcBGAs/s5000/1%2B%25283%2529.jpg\" width=\"100%\" />
@@ -2209,15 +2166,12 @@
 <img src=\"https://3.bp.blogspot.com/-Nersyd-CAGo/XJpFCOfH-SI/AAAAAAAAVmA/egaXejN0CQolZc-jGoYAB5v551qLOlq0QCLcBGAs/s5000/1%2B%252819%2529.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-UFFV-l_2Iwg/XJpFCfxU4YI/AAAAAAAAVmI/P1swjyGePQkbVFkR5da53oZPSOBG_BeiwCLcBGAs/s5000/1%2B%252820%2529.jpg\" width=\"100%\" />
 "
-}
-,
-
-
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၂၆)",
-"cover" : "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s400/38.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၂၆)",
+                                                   "cover": "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s400/38.jpg",
+                                                   "post": "
 <img src=\"https://2.bp.blogspot.com/-oIrG6VQWnek/XJjzi8-76dI/AAAAAAAAVjc/H-HedC33GUQmUSp5TzelE_06Sg0eNhktwCLcBGAs/s5000/1%2B%25281%2529.jpg\" width=\"100%\" />
 <img src=\"https://2.bp.blogspot.com/-tqn_v6UieM8/XJjzljk11FI/AAAAAAAAVkE/8dEvycyZWykKEqPAe5bDyXITHizNOEY3QCLcBGAs/s5000/1%2B%25282%2529.jpg\" width=\"100%\" />
 <img src=\"https://2.bp.blogspot.com/-zV2P2x4tTCI/XJjzmEtAc2I/AAAAAAAAVkQ/DZ_10qYj9ewFT2Rrewk66tx1NrDX8-kEACLcBGAs/s5000/1%2B%25283%2529.jpg\" width=\"100%\" />
@@ -2239,15 +2193,12 @@
 <img src=\"https://3.bp.blogspot.com/-L1szlUteE0U/XJjzllolNqI/AAAAAAAAVkI/_be7aEg1tbwFWexGZ2ctr_z2uAXJv3FXgCLcBGAs/s5000/1%2B%252819%2529.jpg\" width=\"100%\" />
 <img src=\"https://2.bp.blogspot.com/-xFqFLq3gV3Y/XJjzl5xtstI/AAAAAAAAVkM/3PVhxnF-s1I6Cy2hKgLEuQ7WYXSbfBTIACLcBGAs/s5000/1%2B%252820%2529.jpg\" width=\"100%\" />
  "
-}
-,
-
-
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၂၅)",
-"cover" : "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s400/38.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၂၅)",
+                                                   "cover": "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s400/38.jpg",
+                                                   "post": "
 <img src=\"https://1.bp.blogspot.com/-DFKc_x3BILc/XJfXYT4gE6I/AAAAAAAAVh0/ZCC7g53GLdIZ7JjTH0C2Fq_751lphvpAgCLcBGAs/s5000/1%2B%25281%2529.jpg\" width=\"100%\" />
 <img src=\"https://3.bp.blogspot.com/-rVRW8z5DXWI/XJfXbeQ2WbI/AAAAAAAAVic/cUPSzturrfMimA3heLwKo8jfQuRmqSTCwCLcBGAs/s5000/1%2B%25282%2529.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-lucve_z6fLo/XJfXbuAVFhI/AAAAAAAAVig/pdlv1rqJAOo2eHzGVe98rPib7j-h5l5oQCLcBGAs/s5000/1%2B%25283%2529.jpg\" width=\"100%\" />
@@ -2267,13 +2218,12 @@
 <img src=\"https://1.bp.blogspot.com/-CiCfIQAtWME/XJfXavViC3I/AAAAAAAAViU/bP_4zoJTHbI0Txre3azS_unLL0FOM_0wwCLcBGAs/s5000/1%2B%252817%2529.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-UlqC-6nnJwg/XJfXazs84lI/AAAAAAAAViY/ArMpq60OwBYTUkeJN6OGoJTR3cVsVAgHACLcBGAs/s5000/1%2B%252818%2529.jpg\" width=\"100%\" />
  "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၂၄)",
-"cover" : "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s400/38.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၂၄)",
+                                                   "cover": "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s400/38.jpg",
+                                                   "post": "
 <img src=\"https://4.bp.blogspot.com/-qP80oD4_KT0/XJesUBhoa5I/AAAAAAAAVak/rFhRdUpV2wMUAnFm-HDD309XZg192WIAwCLcBGAs/s10000/1%2B%25281%2529.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-qOiXS-RmlEk/XJesW_hNJ7I/AAAAAAAAVbQ/wpS-BgskYAwNrzPx5DnmZ8AFjPkV-pchgCLcBGAs/s10000/1%2B%25282%2529.jpg\" width=\"100%\" />
 <img src=\"https://2.bp.blogspot.com/-4ZveqhrOKo4/XJesXjXNNPI/AAAAAAAAVbg/yZgjtoIrs8wCF_yS_Zkl6SLhacDUyn7sACLcBGAs/s10000/1%2B%25283%2529.jpg\" width=\"100%\" />
@@ -2297,13 +2247,12 @@
 <img src=\"https://3.bp.blogspot.com/-8WwcdcbPGlg/XJesXUy4YbI/AAAAAAAAVbY/ho0_EOwvDOc_lmK3By30JULbzlFojKs3gCLcBGAs/s10000/1%2B%252821%2529.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-NMEarY5kKcA/XJesXYHv3xI/AAAAAAAAVbc/IEfoMaYwO2IEyDyCA6k_i5VMbmzftYaPgCLcBGAs/s10000/1%2B%252822%2529.jpg\" width=\"100%\" />
  "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၂၃)",
-"cover" : "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s400/38.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၂၃)",
+                                                   "cover": "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s400/38.jpg",
+                                                   "post": "
 <img src=\"https://2.bp.blogspot.com/-UDoRwshIQzc/XH_H7Jjj6nI/AAAAAAAAVRs/nKVL6sY6G5o55bBkpQRXsCuM5EI9P1GQQCLcBGAs/s5000/1%2B%25281%2529.jpg\" width=\"100%\" />
 <img src=\"https://2.bp.blogspot.com/-N17PwFDH11E/XH_H8RiZTaI/AAAAAAAAVR4/ywqXtN7WgGouPijHGGnKI3MaVgUfh2fPACLcBGAs/s5000/1%2B%25282%2529.jpg\" width=\"100%\" />
 <img src=\"https://2.bp.blogspot.com/-wyjXsRAtDbI/XH_H9JtJHdI/AAAAAAAAVR8/nFJNgYirgaETYtBcyuEVqu2vR4tiUM-CQCLcBGAs/s5000/1%2B%25283%2529.jpg\" width=\"100%\" />
@@ -2317,14 +2266,12 @@
 <img src=\"https://3.bp.blogspot.com/-KroZhJGWybA/XH_H8LjTd7I/AAAAAAAAVRw/Cju2hdiHVhg1JY3BqKlzjplp7SG5-2VBgCLcBGAs/s5000/1%2B%252811%2529.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-DZEPwWTLQt4/XH_H8EFk4DI/AAAAAAAAVR0/2A319ST1Cwc707AUBc7uEnAXiCS2XeHKwCLcBGAs/s5000/1%2B%252812%2529.jpg\" width=\"100%\" />
  "
-}
-,
-
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၂၂)",
-"cover" : "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s400/38.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၂၂)",
+                                                   "cover": "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s400/38.jpg",
+                                                   "post": "
 <img src=\"https://3.bp.blogspot.com/-sXVyz6LJm_Q/XH1ph9y4SCI/AAAAAAAAVQg/t9UmMFuUTCUJSc2cRAb-uciUb_t18zZegCLcBGAs/s5000/1%2B%25281%2529.jpg\" width=\"100%\" />
 <img src=\"https://2.bp.blogspot.com/-r9llccyUBnU/XH1pi47JIwI/AAAAAAAAVQs/BXvpY0eCCt4yx650mFLznGeI2XY2kT5ZwCLcBGAs/s5000/1%2B%25282%2529.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-Jh7dvnd3lm8/XH1pi7n5l4I/AAAAAAAAVQw/Ll89D58ntQMqeyhFd_odICRTxlw2vZtsgCLcBGAs/s5000/1%2B%25283%2529.jpg\" width=\"100%\" />
@@ -2337,14 +2284,12 @@
 <img src=\"https://3.bp.blogspot.com/-OtWv7bkqUaw/XH1phzXzkPI/AAAAAAAAVQk/khsXBRB9e6c1QUikH-iRc-x73lCru4MmgCLcBGAs/s5000/1%2B%252810%2529.jpg\" width=\"100%\" />
 <img src=\"https://3.bp.blogspot.com/-QX7Uca4GN2E/XH1piUHA5hI/AAAAAAAAVQo/uhpbwsl44N4kaeWdvKoKNd5JEDqjqsISACLcBGAs/s5000/1%2B%252811%2529.jpg\" width=\"100%\" />
  "
-}
-,
-
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၂၁)",
-"cover" : "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s400/38.jpg",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၂၁)",
+                                                   "cover": "https://2.bp.blogspot.com/-ic5UjrnkmnE/XKJN9jH-ZeI/AAAAAAAAWC0/pwS-Y7LJfbgYdY0gpm9GrCOMzB74p79pgCLcBGAs/s400/38.jpg",
+                                                   "post": "
 <img src=\"https://4.bp.blogspot.com/-g2iayZNB_bg/XH0cl9X5SyI/AAAAAAAAVPU/upEXl_ZKY8gFLPcxW70dAsFyHoEHBwqogCLcBGAs/s5000/1%2B%25281%2529.jpg\" width=\"100%\" />
 <img src=\"https://2.bp.blogspot.com/-zkAxyE5DDfo/XH0cnWqEIXI/AAAAAAAAVPg/5OHKYJBOw38_-bsOPQOkHV2PlmQYAEZmACLcBGAs/s5000/1%2B%25282%2529.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-s63GRPsdRV8/XH0cnzhBkNI/AAAAAAAAVPk/QQG7KzuD-ekAwjqPWiOjKAa3wW5CX5zQQCLcBGAs/s5000/1%2B%25283%2529.jpg\" width=\"100%\" />
@@ -2358,14 +2303,12 @@
 <img src=\"https://2.bp.blogspot.com/-r295rhsb5Gs/XH0cmv07tUI/AAAAAAAAVPY/zAMggbdNkvctLTH1NP_cTkJswu2liCgCgCLcBGAs/s5000/1%2B%252811%2529.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-lcnd4Cw_Bys/XH0cmy2kNmI/AAAAAAAAVPc/XuOweiQmp5Ug6bJNsKaPxck2B97RIA2dACLcBGAs/s5000/1%2B%252812%2529.jpg\" width=\"100%\" />
  "
-}
-,
-
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၂၀)",
-"cover" : "https://3.bp.blogspot.com/-rFPRkPk3nvQ/XHvrabFOQbI/AAAAAAAAVN8/vlpuEuZv1agl_QOYIi3DQUyP-oW2hEAfgCLcBGAs/s400/0.webp",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၂၀)",
+                                                   "cover": "https://3.bp.blogspot.com/-rFPRkPk3nvQ/XHvrabFOQbI/AAAAAAAAVN8/vlpuEuZv1agl_QOYIi3DQUyP-oW2hEAfgCLcBGAs/s400/0.webp",
+                                                   "post": "
 <img src=\"https://2.bp.blogspot.com/-gLi1RSP_y18/XHvrafZDjwI/AAAAAAAAVOA/o3pDatic1AkORV-jEXDlXVJrueBbbn_LgCLcBGAs/s5000/1%2B%25281%2529.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-G5DJZ8l9Cqc/XHvrbUDImjI/AAAAAAAAVOQ/JSeXvPqc3G8TzkmngH63_UNHfXj-dy1DwCLcBGAs/s5000/1%2B%25282%2529.jpg\" width=\"100%\" />
 <img src=\"https://3.bp.blogspot.com/-2h4599mSO4E/XHvrbtoyy8I/AAAAAAAAVOU/ijSSJ2BAmm4U1NEUXo1kEUIH4oLOBSXAgCLcBGAs/s5000/1%2B%25283%2529.jpg\" width=\"100%\" />
@@ -2379,13 +2322,12 @@
 <img src=\"https://3.bp.blogspot.com/-tM0G-xZUb0U/XHvrazgMpbI/AAAAAAAAVOI/e__h7oRfzUI1n1FfIzux3k3JNZAFLtbDQCLcBGAs/s5000/1%2B%252811%2529.jpg\" width=\"100%\" />
 <img src=\"https://3.bp.blogspot.com/-E9_mZa79fMg/XHvrbAleHEI/AAAAAAAAVOM/FTXMKHgMpxc-KOYdw7Kz9EJ7Is4xShumQCLcBGAs/s5000/1%2B%252812%2529.jpg\" width=\"100%\" />
 "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၁၉)",
-"cover" : "https://3.bp.blogspot.com/-mXKU2P0o_dk/XHqYOfZifoI/AAAAAAAAVMw/Fc2zTjxJ5JA6hAXE0b47Uua_QV89iyMjACLcBGAs/s400/0.webp",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၁၉)",
+                                                   "cover": "https://3.bp.blogspot.com/-mXKU2P0o_dk/XHqYOfZifoI/AAAAAAAAVMw/Fc2zTjxJ5JA6hAXE0b47Uua_QV89iyMjACLcBGAs/s400/0.webp",
+                                                   "post": "
 <img src=\"https://3.bp.blogspot.com/-Ic48lpfE9bU/XHqYOiMcLSI/AAAAAAAAVM4/h4j2hJzkc8ssPcnQbGre4eZmzA3jqBFjgCLcBGAs/s5000/1%2B%25281%2529.jpg\" width=\"100%\" />
 <img src=\"https://3.bp.blogspot.com/-6BKRS5JoLqw/XHqYPZsBtEI/AAAAAAAAVNA/ahPFd-w0tpwBMujUZernGFiLnN9xBV3fwCLcBGAs/s5000/1%2B%25282%2529.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-U3t23BfD9EA/XHqYP5N6PlI/AAAAAAAAVNE/uc7GXQrfXYglMwiXMfaYDg2q5F7kA04LwCLcBGAs/s5000/1%2B%25283%2529.jpg\" width=\"100%\" />
@@ -2398,13 +2340,12 @@
 <img src=\"https://4.bp.blogspot.com/-xwSx51RCqHY/XHqYOhJVcKI/AAAAAAAAVM0/UDoSxCNI3uor9p69lYz8N48uv7tIQJRagCLcBGAs/s5000/1%2B%252810%2529.jpg\" width=\"100%\" />
 <img src=\"https://2.bp.blogspot.com/-619ycZ0T0VA/XHqYPIQo4rI/AAAAAAAAVM8/Si62uCSgu_ghBCVy01UCN9_cC-k22rpaACLcBGAs/s5000/1%2B%252811%2529.jpg\" width=\"100%\" />
 "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၁၈)",
-"cover" : "https://1.bp.blogspot.com/-mSdXOvWQrHM/XHLCYOX9v4I/AAAAAAAAVF4/99iTShs3ueYe1RtsVK4MLDLzfTs_ndFtwCLcBGAs/s400/0.webp",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၁၈)",
+                                                   "cover": "https://1.bp.blogspot.com/-mSdXOvWQrHM/XHLCYOX9v4I/AAAAAAAAVF4/99iTShs3ueYe1RtsVK4MLDLzfTs_ndFtwCLcBGAs/s400/0.webp",
+                                                   "post": "
 <img src=\"https://3.bp.blogspot.com/-KKSTkC6CluI/XHLCZE9N3CI/AAAAAAAAVGI/NxBYYT2nRnwEH7ucyZsY1nDxtIwZJju3wCLcBGAs/s5000/1%2B%25283%2529.jpg\" width=\"100%\" />
 <img src=\"https://3.bp.blogspot.com/-4x2Vgon3Glk/XHLCZV8FcLI/AAAAAAAAVGM/bGnRnzbemB0TDiWakDVmCXplkf9Im4gRgCLcBGAs/s5000/1%2B%25284%2529.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-ayMFDMf6isE/XHLCZWd9rwI/AAAAAAAAVGQ/Pbv6_AlUIdk3NU0ougJny0woAmMct-97QCLcBGAs/s5000/1%2B%25285%2529.jpg\" width=\"100%\" />
@@ -2416,13 +2357,12 @@
 <img src=\"https://1.bp.blogspot.com/-oZ0jB_yYHyM/XHLCYfVnnkI/AAAAAAAAVGA/YThbjVsX_AMHTIoYnPJuSANolFeVTZzMQCLcBGAs/s5000/1%2B%252811%2529.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-Rp2hmji_uCg/XHLCYsGaq0I/AAAAAAAAVGE/_XbLGOnQj_Ukq-DKul2hgkEDqY9SfG-ggCLcBGAs/s5000/1%2B%252812%2529.jpg\" width=\"100%\" />
 "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၁၇)",
-"cover" : "https://2.bp.blogspot.com/-iFeOYtfb4y8/XHFuLSmT2yI/AAAAAAAAVEc/5ZET4NQC3O03HwDWrbhfskDTYXKXHMUuQCLcBGAs/s400/0.webp",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၁၇)",
+                                                   "cover": "https://2.bp.blogspot.com/-iFeOYtfb4y8/XHFuLSmT2yI/AAAAAAAAVEc/5ZET4NQC3O03HwDWrbhfskDTYXKXHMUuQCLcBGAs/s400/0.webp",
+                                                   "post": "
 <img src=\"https://2.bp.blogspot.com/-UBqv2xd1wtg/XHFuLa22B4I/AAAAAAAAVEg/vgoJKq7r_e8Z29J_1XBWg0jIJ-r7pO4DgCLcBGAs/s5000/1%2B%25281%2529.jpg\" width=\"100%\" />
 <img src=\"https://3.bp.blogspot.com/-NONpNsgLfk0/XHFuNGqOSsI/AAAAAAAAVE0/4iUcDRCdDrI9AaoqE6ccOpJ-tC9zFftqACLcBGAs/s5000/1%2B%25282%2529.jpg\" width=\"100%\" />
 <img src=\"https://2.bp.blogspot.com/-97F4Gg-DFE0/XHFuN8pAXuI/AAAAAAAAVE4/9Lonac4Xt_ogURXo-SaqADxeImImPUYdQCLcBGAs/s5000/1%2B%25283%2529.jpg\" width=\"100%\" />
@@ -2437,13 +2377,12 @@
 <img src=\"https://1.bp.blogspot.com/-2jXXg7F3e10/XHFuMQqfbtI/AAAAAAAAVEs/6kyO1Lui9Tc9yeBu6UHy9l9OXSqxscO3QCLcBGAs/s5000/1%2B%252812%2529.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-n7u9vE0NQDo/XHFuMZKAKvI/AAAAAAAAVEw/2ogT9pJsmrILKftVHHQPyc8JolF4Hdw9ACLcBGAs/s5000/1%2B%252813%2529.jpg\" width=\"100%\" />
 "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၁၆)",
-"cover" : "https://2.bp.blogspot.com/-SmVoLByoszA/XHAHpuSUctI/AAAAAAAAUt8/bDLqYC7ei8siDiT0R9kW9XC_-BD_YuShACLcBGAs/s400/0.webp",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၁၆)",
+                                                   "cover": "https://2.bp.blogspot.com/-SmVoLByoszA/XHAHpuSUctI/AAAAAAAAUt8/bDLqYC7ei8siDiT0R9kW9XC_-BD_YuShACLcBGAs/s400/0.webp",
+                                                   "post": "
 <img src=\"https://4.bp.blogspot.com/-IEmmPm7KTKw/XHAHqGCv4OI/AAAAAAAAUuA/Qj4hjyoCvww-ZW1A8tSl7QRYBhJtNnnrQCLcBGAs/s5000/1%2B%25281%2529.jpg\" width=\"100%\" />
 <img src=\"https://2.bp.blogspot.com/-hWUnDRiWMvE/XHAHrudtTCI/AAAAAAAAUuM/T5Q-60XMN8koahPnU977P8rkdqjkCyBZQCLcBGAs/s5000/1%2B%25282%2529.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-7Bpl3RTGwEo/XHAHr2oSvTI/AAAAAAAAUuU/Zoz-b5nOiXE5f5zQosXz4seIriVMZM3NACLcBGAs/s5000/1%2B%25283%2529.jpg\" width=\"100%\" />
@@ -2457,13 +2396,12 @@
 <img src=\"https://2.bp.blogspot.com/-NWrglotax1o/XHAHqqub1AI/AAAAAAAAUuI/1ZYpGIJT0yQI0EhUIS0QrQlpUoX1d-ZAwCLcBGAs/s5000/1%2B%252812%2529.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-T8sRnt5NQyQ/XHAHrr0aAPI/AAAAAAAAUuQ/Ju1rQNDuMBAWxRc7wPbaZvcfIUlE5DUsACLcBGAs/s5000/1%2B%252813%2529.jpg\" width=\"100%\" />
 "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၁၅)",
-"cover" : "https://1.bp.blogspot.com/-gEDnuPR-B-g/XG64TGYpk4I/AAAAAAAAUpw/0iqFekgiCy8S_ymyAgvqXXvjqoV86yaFQCLcBGAs/s5000/1%2B%25281%2529.webp",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၁၅)",
+                                                   "cover": "https://1.bp.blogspot.com/-gEDnuPR-B-g/XG64TGYpk4I/AAAAAAAAUpw/0iqFekgiCy8S_ymyAgvqXXvjqoV86yaFQCLcBGAs/s5000/1%2B%25281%2529.webp",
+                                                   "post": "
 <img src=\"https://4.bp.blogspot.com/-9f9WrI128Uc/XG64bhCJDaI/AAAAAAAAUqA/YlZ89v_scRoJyn-s7m3YfWrbvwhm-yBuwCLcBGAs/s5000/1%2B%25282%2529.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-iblBEeC_TE8/XG64fNFETwI/AAAAAAAAUqI/QMKR7Rcv3yAGGBl7mTwfFVb4FSniy1PfQCLcBGAs/s5000/1%2B%25283%2529.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-IVnHZKu95mg/XG64fm14INI/AAAAAAAAUqM/UQrV3wmXzhspNMHQVKxqCI-mE4rm9DcygCLcBGAs/s5000/1%2B%25284%2529.jpg\" width=\"100%\" />
@@ -2478,14 +2416,12 @@
 <img src=\"https://4.bp.blogspot.com/-Nj5nBeTncVQ/XG64eOE6z3I/AAAAAAAAUqE/Ahzgsb0QOz0iEn4ToTK7ZNEqnoBVIjnNgCLcBGAs/s5000/1%2B%252813%2529.jpg\" width=\"100%\" />
  
  "
-}
-,
-
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၁၄)",
-"cover" : "https://4.bp.blogspot.com/--AQYLLR177Y/XG1ldfoxv8I/AAAAAAAAUoc/rc4qU9RuJdkIIvHDwWvQRB6HK8BeizG6wCLcBGAs/s400/1%2B%25281%2529.webp",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၁၄)",
+                                                   "cover": "https://4.bp.blogspot.com/--AQYLLR177Y/XG1ldfoxv8I/AAAAAAAAUoc/rc4qU9RuJdkIIvHDwWvQRB6HK8BeizG6wCLcBGAs/s400/1%2B%25281%2529.webp",
+                                                   "post": "
 <img src=\"https://4.bp.blogspot.com/-4Baba-TMhlQ/XG1lfZjY1GI/AAAAAAAAUo0/-qkBQSaodMkmz8Lep6C5hDjYt0bJlwZEQCLcBGAs/s5000/1%2B%25282%2529.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-nEof5PI9bjM/XG1lfmyzHrI/AAAAAAAAUo4/lFgAw6kXvPQjem-sTyBXPlqDS4Dk8GoKwCLcBGAs/s5000/1%2B%25283%2529.jpg\" width=\"100%\" />
 <img src=\"https://3.bp.blogspot.com/-B6VapOvTYAc/XG1lf3qWg9I/AAAAAAAAUo8/yY_baDUybvIggInbtj5kvFRXQT9o8LV2gCLcBGAs/s5000/1%2B%25284%2529.jpg\" width=\"100%\" />
@@ -2500,13 +2436,12 @@
 <img src=\"https://2.bp.blogspot.com/-igZpPbvoMZQ/XG1le6-zhHI/AAAAAAAAUow/O9mwpQtTub4foqCOCLycSuKddwAbg8IlwCLcBGAs/s5000/1%2B%252813%2529.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-QVxcOquOW3Y/XG1le3cbIZI/AAAAAAAAUos/jN4mBGml_lIptpLgBkyeiZ9MBI0DWKTNACLcBGAs/s5000/1%2B%252814%2529.jpg\" width=\"100%\" />
  "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၁၃)",
-"cover" : "https://1.bp.blogspot.com/-b0l-L81647s/XGq0MzJMryI/AAAAAAAAUmc/-T0N3hRzXrUAkzm26L97L3VXqvAW0dWxwCLcBGAs/s5000/0%2B%25281%2529.webp",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၁၃)",
+                                                   "cover": "https://1.bp.blogspot.com/-b0l-L81647s/XGq0MzJMryI/AAAAAAAAUmc/-T0N3hRzXrUAkzm26L97L3VXqvAW0dWxwCLcBGAs/s5000/0%2B%25281%2529.webp",
+                                                   "post": "
 <img src=\"https://2.bp.blogspot.com/-_nCGUYwkMFs/XGq0OpGJvVI/AAAAAAAAUm4/kFOLPu7UGYciPCZEBDyEvzv5vhWBj7ljQCLcBGAs/s5000/0%2B%25282%2529.jpg\" width=\"100%\" />
 <img src=\"https://3.bp.blogspot.com/-fxqN4a0hxpI/XGq0OyjGuOI/AAAAAAAAUm8/uwkjTVu5XRs4fwiMYtX4MEZy7Jzo0PpnQCLcBGAs/s5000/0%2B%25283%2529.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-FnWrbBl6Dzg/XGq0O81nVLI/AAAAAAAAUnA/jXfXZyQDZKcX4PTNkdpU7ZCaKKkjQOAVACLcBGAs/s5000/0%2B%25284%2529.jpg\" width=\"100%\" />
@@ -2523,14 +2458,12 @@
 <img src=\"https://3.bp.blogspot.com/-KnJYJyvl3jQ/XGq0Oa-YzsI/AAAAAAAAUm0/qE9Ef5NMvAshzu3PURCtUTF0wLTaljUzQCLcBGAs/s5000/0%2B%252815%2529.jpg\" width=\"100%\" />
  
  "
-}
-,
-
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၁၂)",
-"cover" : "https://3.bp.blogspot.com/-vk3l9YDe61s/XGBA0EbYP_I/AAAAAAAAUaw/NitsEvraJ4cQKO30CVpcxENTmp1RSb6jwCLcBGAs/s400/0.webp",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၁၂)",
+                                                   "cover": "https://3.bp.blogspot.com/-vk3l9YDe61s/XGBA0EbYP_I/AAAAAAAAUaw/NitsEvraJ4cQKO30CVpcxENTmp1RSb6jwCLcBGAs/s400/0.webp",
+                                                   "post": "
 <img src=\"https://1.bp.blogspot.com/-4pSduEQTSdg/XGBA0OW5lRI/AAAAAAAAUa0/zDihATT5nCw0_c688gLFmr45XjmaBxAIACLcBGAs/s5000/1.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-JN4DW2U7BAc/XGBA16haXmI/AAAAAAAAUbI/zkymLlSujqMpsb7iPIw3vzo3gtMWFXxDACLcBGAs/s5000/2.jpg\" width=\"100%\" />
 <img src=\"https://3.bp.blogspot.com/-NO46WTcAKTM/XGBA2Mjw2nI/AAAAAAAAUbM/QoMKiaLL5w4VKGlljN9w56RalDkioyX_wCLcBGAs/s5000/3.jpg\" width=\"100%\" />
@@ -2546,14 +2479,12 @@
 <img src=\"https://3.bp.blogspot.com/-f85FwQATLc4/XGBA1pY8LBI/AAAAAAAAUbE/NAjXsVxtWsA5ykRN97DC8Ri-Io0JVg8kwCLcBGAs/s5000/13.jpg\" width=\"100%\" />
  
  "
-}
-,
-
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၁၁)",
-"cover" : "https://2.bp.blogspot.com/-KtKwz8Wpjgk/XF7mJFmf0aI/AAAAAAAAUYw/jKCKS2UF7R8xn4rO-BR1Nztj_jFwK509gCLcBGAs/s400/0.webp",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၁၁)",
+                                                   "cover": "https://2.bp.blogspot.com/-KtKwz8Wpjgk/XF7mJFmf0aI/AAAAAAAAUYw/jKCKS2UF7R8xn4rO-BR1Nztj_jFwK509gCLcBGAs/s400/0.webp",
+                                                   "post": "
 <img src=\"https://2.bp.blogspot.com/-tDoWuPY4_Pg/XF7mJL51SGI/AAAAAAAAUY0/-EMlBik3HzAaru6m9UBUVipSHFmOwHVdwCLcBGAs/s5000/1.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-EZP4wnIh_u0/XF7mKjtd28I/AAAAAAAAUZE/OnU_ogmy5gEHnnJNxEFoCD5WqUFNGbNQQCLcBGAs/s5000/2.jpg\" width=\"100%\" />
 <img src=\"https://2.bp.blogspot.com/-oXyt63_PeXY/XF7mLTxv0LI/AAAAAAAAUZI/ixfD7kmmbJwm6YssJXqW2ro0PQAvv4PMgCLcBGAs/s5000/3.jpg\" width=\"100%\" />
@@ -2568,14 +2499,12 @@
 <img src=\"https://3.bp.blogspot.com/-tWi-SvHD8ZU/XF7mKalOuJI/AAAAAAAAUZA/UdWHmtjDBQcVPx7IigCIjlXDuy8Kz_3PgCLcBGAs/s5000/12.jpg\" width=\"100%\" />
  
  "
-}
-,
-
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၁၀)",
-"cover" : "https://1.bp.blogspot.com/-1odwmdQZJHU/XF2Y0249gjI/AAAAAAAAUV8/WRRLmk0tq-soqhzK_jP90Q3XuN47znaRACLcBGAs/s400/0.webp",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၁၀)",
+                                                   "cover": "https://1.bp.blogspot.com/-1odwmdQZJHU/XF2Y0249gjI/AAAAAAAAUV8/WRRLmk0tq-soqhzK_jP90Q3XuN47znaRACLcBGAs/s400/0.webp",
+                                                   "post": "
 <img src=\"https://3.bp.blogspot.com/-XTbmiAL5spA/XF2Y1clJsvI/AAAAAAAAUWA/P6YMGbNIY1wwf5NqecwgdAEE0vOy7OWJACLcBGAs/s5000/1.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-Oi8023dPgO8/XF2Y3IXlC2I/AAAAAAAAUWY/KD8GYcSatCobMd41AZPnjLtCCbSBpMbHwCLcBGAs/s5000/2.jpg\" width=\"100%\" />
 <img src=\"https://2.bp.blogspot.com/-1a-hinROc4U/XF2Y3rO5o4I/AAAAAAAAUWc/U1QTx94wKR0SE3lt40NqQusi6QnNaIgswCLcBGAs/s5000/3.jpg\" width=\"100%\" />
@@ -2591,13 +2520,12 @@
 <img src=\"https://4.bp.blogspot.com/-dG9c6855Nj0/XF2Y2rG4JPI/AAAAAAAAUWU/7CSKd26gA44BlZjjycHdmbevXq6Ou39tQCLcBGAs/s5000/13.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-tnGBtUZT1WA/XF2Y2klV30I/AAAAAAAAUWQ/9_VZ_tWiTmsUtMGCso31d4kZKoLikUbpACLcBGAs/s5000/14.jpg\" width=\"100%\" />
  "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၀၉)",
-"cover" : "https://4.bp.blogspot.com/-dBLCj2ftvko/XFxB9fTJzVI/AAAAAAAAUUk/qhOJJUdNGxIyujsy-u6bb2T4Hq1d8jQfgCLcBGAs/s400/0.webp",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၀၉)",
+                                                   "cover": "https://4.bp.blogspot.com/-dBLCj2ftvko/XFxB9fTJzVI/AAAAAAAAUUk/qhOJJUdNGxIyujsy-u6bb2T4Hq1d8jQfgCLcBGAs/s400/0.webp",
+                                                   "post": "
 <img src=\"https://3.bp.blogspot.com/-FgBIhde9zvQ/XFxB9ZnUeUI/AAAAAAAAUUo/mIiJlHjMceowkn3qbcNVhsz6ORIZEMEawCLcBGAs/s5000/1.jpg\" width=\"100%\" />
 <img src=\"https://2.bp.blogspot.com/-707Y3-HUTKM/XFxB_T4ggpI/AAAAAAAAUU8/79Gfp-dS0y8_mWgj8V1cgkJFfF_60JDogCLcBGAs/s5000/2.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-Jvzq88RwnmU/XFxB_ZCYKxI/AAAAAAAAUVA/wPbLbnS98yAJrDiTyfzgxlIR5WQAJ0urgCLcBGAs/s5000/3.jpg\" width=\"100%\" />
@@ -2612,13 +2540,12 @@
 <img src=\"https://1.bp.blogspot.com/-H3EArrG8s2Y/XFxB-KExYrI/AAAAAAAAUUw/1Sc_Qr2eERkk7UHgJfVPouKcXBVtca8fQCLcBGAs/s5000/12.jpg\" width=\"100%\" />
 <img src=\"https://3.bp.blogspot.com/-JXrUSPAzhR0/XFxB-fSCx7I/AAAAAAAAUU4/-wu6obp5BSUpByRSkFEqqUOjy5Av0lkVwCLcBGAs/s5000/13.jpg\" width=\"100%\" /> 
  "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၀၈)",
-"cover" : "https://2.bp.blogspot.com/-Gd8zEyu-2fA/XFmz9jxIazI/AAAAAAAAUTM/kXehff8gRJMd8RxQtKunxf8krNJrYQcVQCLcBGAs/s400/0.webp",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၀၈)",
+                                                   "cover": "https://2.bp.blogspot.com/-Gd8zEyu-2fA/XFmz9jxIazI/AAAAAAAAUTM/kXehff8gRJMd8RxQtKunxf8krNJrYQcVQCLcBGAs/s400/0.webp",
+                                                   "post": "
 <img src=\"https://4.bp.blogspot.com/-isjlaBSW4uk/XFmz9uaYd5I/AAAAAAAAUTQ/G3MdPPmYu9sf3oHzkvSV5RgPUvIWscn4gCLcBGAs/s5000/1.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-kG3u9DucrMg/XFmz_KJCO2I/AAAAAAAAUTs/RcGCrg_G8SkMNZpHjvcx16k5Ko-T-ClggCLcBGAs/s5000/2.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-11iekz65ns0/XFmz_Yk1ZuI/AAAAAAAAUTw/LHSFv0B7n_MzOvIoI6z5SSB2yCjWibQyQCLcBGAs/s5000/3.jpg\" width=\"100%\" />
@@ -2635,13 +2562,12 @@
 <img src=\"https://4.bp.blogspot.com/-2xyJF1LFCPw/XFmz-_UWUtI/AAAAAAAAUTk/AnfydDYmkTg-IxrmCoiwSB-PrlkOrFivwCLcBGAs/s5000/14.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-SksMPXXUJJs/XFmz-3xLVlI/AAAAAAAAUTo/MhoRhpoErrMpaBEvWTd4qqtAv_wq1NLmACLcBGAs/s5000/15.jpg\" width=\"100%\" /> 
  "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၀၇)",
-"cover" : "https://1.bp.blogspot.com/-2iefIzmvfYs/XFRYGY9obLI/AAAAAAAAUMU/dU2Tsnh4ht43E8oPk6oroCsN-ZFA55R4QCLcBGAs/s400/0.webp",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၀၇)",
+                                                   "cover": "https://1.bp.blogspot.com/-2iefIzmvfYs/XFRYGY9obLI/AAAAAAAAUMU/dU2Tsnh4ht43E8oPk6oroCsN-ZFA55R4QCLcBGAs/s400/0.webp",
+                                                   "post": "
 <img src=\"https://3.bp.blogspot.com/-nKNe2Orj7nk/XFRYGatvx3I/AAAAAAAAUMc/PqGG6UqrTE0bxV8leXwjR7OdkgucWO47ACLcBGAs/s5000/1.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-_U9OEaO6kuU/XFRYJKhjpDI/AAAAAAAAUNE/5mCgdcRS9hgcNelaNHO8mkYH0Yu0fh8JQCLcBGAs/s5000/2.jpg\" width=\"100%\" />
 <img src=\"https://3.bp.blogspot.com/-rVzi8zmpu6k/XFRYKSYxLQI/AAAAAAAAUNM/wIxoE-_RF2AkUPuxAEd1mmGap4oQl67jgCLcBGAs/s5000/3.jpg\" width=\"100%\" />
@@ -2665,14 +2591,12 @@
 
  
  "
-}
-,
-
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၀၆)",
-"cover" : "https://4.bp.blogspot.com/-XYLQXk8k_aw/XFMG2vDQM4I/AAAAAAAAUKc/EFp5O54tfXw_oJ0wqxuXPQk79XV_PqFGgCLcBGAs/s400/0.webp",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၀၆)",
+                                                   "cover": "https://4.bp.blogspot.com/-XYLQXk8k_aw/XFMG2vDQM4I/AAAAAAAAUKc/EFp5O54tfXw_oJ0wqxuXPQk79XV_PqFGgCLcBGAs/s400/0.webp",
+                                                   "post": "
 <img src=\"https://3.bp.blogspot.com/-AuM-0le7qGU/XFMG2WWowII/AAAAAAAAUKY/PWZI4CFg1poxY5bUgG2waX4MbuKPHwhiQCLcBGAs/s5000/177.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/--gSx2wnZyi4/XFMG2KrSx8I/AAAAAAAAUKU/76329-Pfc44Mr9VMy4JKJHOLvhtquphhwCLcBGAs/s5000/178.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-ApxXa6dtvvY/XFMG7H3oJ9I/AAAAAAAAUKo/s3Xufj48tT4VG_C6miThRCEkMpi8yiWawCLcBGAs/s5000/179.jpg\" width=\"100%\" />
@@ -2698,14 +2622,12 @@
 
  
  "
-}
-,
-
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၀၆)",
-"cover" : "https://3.bp.blogspot.com/-DY0IEpf4qSg/XFG6a5f1tII/AAAAAAAAUIQ/Ibuv7e-gqUorKMDAh9QNc0_hDhspP8xgQCLcBGAs/s400/0.webp",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၀၆)",
+                                                   "cover": "https://3.bp.blogspot.com/-DY0IEpf4qSg/XFG6a5f1tII/AAAAAAAAUIQ/Ibuv7e-gqUorKMDAh9QNc0_hDhspP8xgQCLcBGAs/s400/0.webp",
+                                                   "post": "
 <img src=\"https://1.bp.blogspot.com/-zQe9rFmdyzw/XFG6bEp1QaI/AAAAAAAAUIY/PButzrOfehQSRQwy4t1-4cr9_HxN1CZfQCLcBGAs/s5000/146.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-YmhsfLOL8-Q/XFG6a1OJK4I/AAAAAAAAUIU/Q2NiQIUyRvYKgbXvEFPB_4NDTmwdU1iDACLcBGAs/s5000/147.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-zm3npjNiSbk/XFG6bhWVeHI/AAAAAAAAUIc/aGXFO7TY8YAXNs2pZuhnlS4cWC5cC9ENwCLcBGAs/s5000/148.jpg\" width=\"100%\" />
@@ -2732,13 +2654,12 @@
 <img src=\"https://1.bp.blogspot.com/-vtXGlX2wSMM/XFG6fg75QQI/AAAAAAAAUJw/hoDMWeo7Ps4fOHmO7LbhQwb44n_ul9XigCLcBGAs/s5000/174.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-JtJTNn1DlZk/XFG6fzVpO8I/AAAAAAAAUJ0/OsiKOzI_3ZoeDswrBWVrjXxvXP9Jyd0rACLcBGAs/s5000/176.jpg\" width=\"100%\" />
  "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၀၄)",
-"cover" : "https://4.bp.blogspot.com/-RKWj9o8naIM/XFBKBRkQzmI/AAAAAAAAUGc/3MVTyfVJz5kTdSbNcWgV37O_M_5RR62qgCLcBGAs/s400/0.webp",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၀၄)",
+                                                   "cover": "https://4.bp.blogspot.com/-RKWj9o8naIM/XFBKBRkQzmI/AAAAAAAAUGc/3MVTyfVJz5kTdSbNcWgV37O_M_5RR62qgCLcBGAs/s400/0.webp",
+                                                   "post": "
 <img src=\"https://1.bp.blogspot.com/-R6KxD8tghcs/XFBKBcEQKfI/AAAAAAAAUGg/wgushiUQ84wl5vAxHGRJmiuk4WfTAdgTgCLcBGAs/s5000/112.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-_nux-b9A7Ks/XFBKBZilusI/AAAAAAAAUGY/p-bh49E4Px8m8bfcLJsO_OJBbJT8rohxgCLcBGAs/s5000/113.jpg\" width=\"100%\" />
 <img src=\"https://2.bp.blogspot.com/-aakCBwkmexM/XFBKBwkO1gI/AAAAAAAAUGk/8nrs8LQS4jcVyaJsw3sQriKwbKm8LhMzQCLcBGAs/s5000/114.jpg\" width=\"100%\" />
@@ -2762,13 +2683,12 @@
 <img src=\"https://4.bp.blogspot.com/-txg5zd21l0k/XFBKGQdxhtI/AAAAAAAAUHs/yglgcDWmhek0vUjmYdJkMJd38a33xQiDQCLcBGAs/s5000/142.jpg\" width=\"100%\" />
 <img src=\"https://3.bp.blogspot.com/-84y-GcwwCSc/XFBKGffPILI/AAAAAAAAUHw/CDBaso8Br78hGa9UqecFM_nC2F78DwvLACLcBGAs/s5000/144.jpg\" width=\"100%\" />
  "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၀၃)",
-"cover" : "https://4.bp.blogspot.com/-REIe6FeCu48/XE74dZOQtFI/AAAAAAAAUEg/S_h-XxXnTNgVm8bzQQlH3_yWTirnAJlYACLcBGAs/s300/0.webp",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၀၃)",
+                                                   "cover": "https://4.bp.blogspot.com/-REIe6FeCu48/XE74dZOQtFI/AAAAAAAAUEg/S_h-XxXnTNgVm8bzQQlH3_yWTirnAJlYACLcBGAs/s300/0.webp",
+                                                   "post": "
 <img src=\"https://3.bp.blogspot.com/-qsoB_5fMRMY/XE74dSyjIQI/AAAAAAAAUEk/FGl2eyUbu9Yh_aHeVlZBU5ZJiqPvTt_-ACLcBGAs/s5000/087.jpg\" width=\"100%\" />
 <img src=\"https://3.bp.blogspot.com/-I6HtWXg9Lbc/XE74dkkfWWI/AAAAAAAAUEo/bR5LNUowSjwMfV16rBvBo7cPlOvYHrGAwCLcBGAs/s5000/089.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-bXn5OHhd2A8/XE74d5VDqlI/AAAAAAAAUEs/wcWn5MuzUWklViCGKSEZI_8Wh9Bf1bHwwCLcBGAs/s5000/090.jpg\" width=\"100%\" />
@@ -2792,13 +2712,12 @@
 <img src=\"https://3.bp.blogspot.com/-qLLEyz6tDhs/XE74jzt4aGI/AAAAAAAAUF0/CWIRs1bZAhgEEuJNPxVAkuDV3dVEELQfgCLcBGAs/s5000/110.jpg\" width=\"100%\" />
 <img src=\"https://3.bp.blogspot.com/-2VIDuXBIRbc/XE74kFArCtI/AAAAAAAAUF4/StLMRUoO6xgwN7_HtaAZ3TwWKszMxG_RgCLcBGAs/s5000/111.jpg\" width=\"100%\" />
  "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၀၂)",
-"cover" : "https://1.bp.blogspot.com/-fto9B10JvQQ/XE3QospN-uI/AAAAAAAAUCE/yWm2wWlLBfE6NujY7XxPIeCtAYg0m7FJQCLcBGAs/s400/0.webp",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၀၂)",
+                                                   "cover": "https://1.bp.blogspot.com/-fto9B10JvQQ/XE3QospN-uI/AAAAAAAAUCE/yWm2wWlLBfE6NujY7XxPIeCtAYg0m7FJQCLcBGAs/s400/0.webp",
+                                                   "post": "
 <img src=\"https://3.bp.blogspot.com/-h_NNP4G7E1E/XE3Qo9fw0gI/AAAAAAAAUCI/xoGlH6pS2x4Av-WlN25kIYtwDwx0_EhqgCLcBGAs/s5000/1.jpg\" width=\"100%\" />
 <img src=\"https://4.bp.blogspot.com/-zP_0R2JMST8/XE3QqwHKqnI/AAAAAAAAUC0/dWgUxeCZSv0vBhVg4FRqFo535XubFahWgCLcBGAs/s5000/2.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-LGm9WMUwkJ8/XE3Qsz8GSKI/AAAAAAAAUDc/nA0PT53a-8k-_leSTuTFYcYqaxaAIm4nwCLcBGAs/s5000/3.jpg\" width=\"100%\" />
@@ -2828,13 +2747,12 @@
 <img src=\"https://2.bp.blogspot.com/-juREraqEXZk/XE3Qsuq7I0I/AAAAAAAAUDU/55QiTJ2LN1Qb3UFgnxEgNcyqAgOSWv6ugCLcBGAs/s5000/27.jpg\" width=\"100%\" />
 <img src=\"https://3.bp.blogspot.com/-vIgqaTsDyfY/XE3QszuqArI/AAAAAAAAUDY/NgdmZP7LrVIXJR6EV-iVWjepan58yJb4gCLcBGAs/s5000/28.jpg\" width=\"100%\" />
  "
-}
-,
-{
-"title" : "တိတ်တခိုး",
-"status" : "အပိုင်း (၀၁)",
-"cover" : "https://2.bp.blogspot.com/-4P9GfnynzJY/XEx1vfvdhXI/AAAAAAAAUAU/b2gUAlEZMboHd8hvEHtdlgpSmgEbnw9zACLcBGAs/s400/0_1.webp",
-"post" : "
+                                                },
+                                                {
+                                                   "title": "တိတ်တခိုး",
+                                                   "status": "အပိုင်း (၀၁)",
+                                                   "cover": "https://2.bp.blogspot.com/-4P9GfnynzJY/XEx1vfvdhXI/AAAAAAAAUAU/b2gUAlEZMboHd8hvEHtdlgpSmgEbnw9zACLcBGAs/s400/0_1.webp",
+                                                   "post": "
 <img src=\"https://2.bp.blogspot.com/-mhWYZeqqBzk/XEx1vQJb6JI/AAAAAAAAUAY/wVK2dO-s_8ETrkKPFnn73M4w21OVDrTdwCLcBGAs/s5000/1.jpg\" width=\"100%\" />
 <img src=\"https://2.bp.blogspot.com/-sYibhRs8b5o/XEx1yhGJB3I/AAAAAAAAUBE/tHs1AgDrYoctUhU7V6Bft9p4yrsk-87rACLcBGAs/s5000/2.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-i6H1Ctn38xg/XEx1y2NsF3I/AAAAAAAAUBI/qBnFdK8Xd-oQkmEeDcA7dzb21bVzDYDGgCLcBGAs/s5000/3.jpg\" width=\"100%\" />
@@ -2855,6 +2773,6 @@
 <img src=\"https://2.bp.blogspot.com/-OUEYo6EaPuA/XEx1yKw2__I/AAAAAAAAUA8/QuTOmIr-DeMMRwVBEsHpqmXTS66hSpKWACLcBGAs/s5000/18.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-Fqi8Y-zFAcs/XEx1ymP9zFI/AAAAAAAAUBA/7_ZI61eLKDs2g-iOd1WykX9InyS80VQVACLcBGAs/s5000/19.jpg\" width=\"100%\" />
  "
-}
-]
-}
+                                                }
+                                             ]
+                                          }
