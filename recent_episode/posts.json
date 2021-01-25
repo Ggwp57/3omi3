@@ -1174,5 +1174,34 @@
 ဟွန်းတစ်ယောက် ဘာတွေဆက်ဖြစ်လာသလဲ....... 
 "
     }
+    ,
+    {
+      "title": "Twice The Love",
+      "status": "အပိုင်း(၄၀)",
+      "cover": "https://1.bp.blogspot.com/-r2BreSFbjj8/X2DSZ9SZWNI/AAAAAAAAhxo/8b5SyGVLaJAQLokSivzgbusuwNYfyJRkwCLcBGAsYHQ/s320/Twice-the-Love-193x278.jpg",
+      "image": "https://1.bp.blogspot.com/-covlZw35QT4/X2DR0qRJ09I/AAAAAAAAhxg/s_EFaCblxZI8ikaO5ext54CcH-7HtahiwCLcBGAsYHQ/s1600/Screenshot_20200915-210501_Chrome-picsay.jpg",
+      "link": "https://raw.githubusercontent.com/Ggwp57/3omi3/main/twice_the_love/",
+      "tag": "",
+      "vol": ""
+    },
+    {
+      "title": "Close As Neighbors",
+      "status": "အပိုင်း (၉)",
+      "cover": "https://1.bp.blogspot.com/-1TMQ_5yDDpU/X_b1MRUn2FI/AAAAAAAADP4/m7e-5cCcmTEQuSDnXi4d15RGivmIilsuQCLcBGAsYHQ/s0/OIP.jpg",
+      "image": "https://1.bp.blogspot.com/-W3nUWE1j_1Q/X_b1R4mKCUI/AAAAAAAADP8/7C6A_jp5Im4QMpVMY1EuALCXjhoHRHeogCLcBGAsYHQ/s0/closeasneighbors.png",
+      "link": "https://raw.githubusercontent.com/Ggwp57/3omi3/main/closeAsNeighbors/",
+      "tag": "",
+      "vol": ""
+    }
+    ,
+    {
+      "title": "Mind Reader",
+      "status": "အပိုင်း (၂၇)",
+      "tag": "",
+      "image": "https://1.bp.blogspot.com/-xsKFQ7GRc18/XzERhwTLIKI/AAAAAAAAYXc/PAcQvuSzYfQq6i3NtkCxnS7FBBl-huWLgCLcBGAsYHQ/s1600/IMG_20200810_154910.jpg",
+      "cover": "https://1.bp.blogspot.com/-qIkPx_JmauQ/XzEJ9pNw39I/AAAAAAAAX1g/y2VNBN_poZEiF1j6kJPhlNDy6IRQ_6XswCLcBGAsYHQ/s320/Mind-Reader-193x278.jpg",
+      "link": "https://raw.githubusercontent.com/Ggwp57/3omi3/main/mind_reader/",
+      "vol": "."
+    }
   ]
 }
