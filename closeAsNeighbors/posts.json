@@ -1,6 +1,136 @@
 {
 "allbook":
 [
+    {
+"title" : "Close As Neighbors",
+"status" : "အပိုင်း (၁၁)",
+"cover" : "https://1.bp.blogspot.com/-VSA0pGzUKYg/YBqc2qdGKNI/AAAAAAAAJPo/6NlhbC_GszET16IVLOlj30WlfUEG8M04ACLcBGAsYHQ/s0/0000cover.jpg",
+"encoder" : "XC3",
+"tag" : "series,013",
+"price" : "0",
+
+"post" :"
+      <img src=\"https://1.bp.blogspot.com/--YSPhMzaSs0/YBqc2eklJHI/AAAAAAAAJPk/oWuxo_MHAbswDroYi-GgFJIpETFaRT_ZQCLcBGAsYHQ/s5000/01.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-K2-nstRJ9r4/YBqc2WzIXdI/AAAAAAAAJPg/X4ddcZMczc0WtG67ugSgYUQfdYtGOoUpACLcBGAsYHQ/s5000/02.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-2DFAbO1tYP8/YBqc3ga3L2I/AAAAAAAAJPw/8fLZPpY0RQYR4iXvwy7TWqfpxuBGmktUACLcBGAsYHQ/s5000/03.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-5Zbu5O0_aCA/YBqc4HGYcEI/AAAAAAAAJP0/HdWnObaK5qwkIuz8hLh0JDv0IPy_0jOkgCLcBGAsYHQ/s5000/04.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-txDWushFhFQ/YBqc4oWryFI/AAAAAAAAJP4/KvtWwOZCmbEWDwKmuBIjdDvHsfvw4NQrwCLcBGAsYHQ/s5000/05.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-8XTd37vyAgU/YBqc6DJ5_ZI/AAAAAAAAJQE/oa_52pqr7EklvWw170QkYbp0lg0dgUYTACLcBGAsYHQ/s5000/06.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-T3hKhSGML4M/YBqc7Fd2rGI/AAAAAAAAJQM/DYv89MdT7OcSStz13NjxpqekirXkodcpgCLcBGAsYHQ/s5000/07.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-n2LWJw-StwY/YBqc7sI59II/AAAAAAAAJQQ/aSfFDBDshDELG5eEuLwTbRB4REiIIObHQCLcBGAsYHQ/s5000/08.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-EaKHbA_h7F0/YBqc8ZiwElI/AAAAAAAAJQU/BfmxBL7_gJclGHLwJa8rcDBeNbdkrbHtgCLcBGAsYHQ/s5000/09-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-QXe99G3JZok/YBqc8bCZMSI/AAAAAAAAJQY/U64aE-Ht11MUBILszwFYaWOXELQkqLcswCLcBGAsYHQ/s5000/10.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-4oBhdoNpLCE/YBqc_QiI4ZI/AAAAAAAAJRE/jbwvRzMy1KwugVjU319GGT845_ydcs6mwCLcBGAsYHQ/s5000/11-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-w6zGi4Uv0iA/YBqdDAJkb0I/AAAAAAAAJRw/4HnTpXWOvCYAnizsOEdeU-wtIZshCiR1gCLcBGAsYHQ/s5000/12-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-rC0UWzTm2L4/YBqdDozjX6I/AAAAAAAAJR0/_QYT2of90A0PelfmeppQ7eRhZrZkMu7vQCLcBGAsYHQ/s5000/13-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-tmup52UnDuY/YBqdEH_Z0bI/AAAAAAAAJR4/a1OFiuabODIIryhZfdNp3UOUDYQwdUx7ACLcBGAsYHQ/s5000/14-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-A45hyXO_1eY/YBqdEXG8D6I/AAAAAAAAJR8/0OoknSOnfjQbaxqk12iYmrWL8uxkxgFPQCLcBGAsYHQ/s5000/15-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-rYkk2YuAKmo/YBqdEoyudiI/AAAAAAAAJSA/4mwwEkW5jS4EQTGKvShfOse8P1n1xUhyQCLcBGAsYHQ/s5000/16-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-seDhbDaQlto/YBqdFDuWiJI/AAAAAAAAJSE/tvMDsEnWBtEds7u3K8uwBVmoG3GzE9WDQCLcBGAsYHQ/s5000/17-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-vD_8ys7v05Y/YBqdFoYYGII/AAAAAAAAJSI/OtafpHw3GMcYnOjHAtbAEvMMYRQ_TsQIQCLcBGAsYHQ/s5000/18-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-LFup5lYiU6c/YBqdF5ly7wI/AAAAAAAAJSM/A757r9aoYQ88aDn0AKKYc8WqOquS_dHhACLcBGAsYHQ/s5000/19-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-14xxjyPyRJI/YBqdGA3_TEI/AAAAAAAAJSQ/CvFd1F1XGeQMTSQvZ7eOw8XBTANdiHJPQCLcBGAsYHQ/s5000/20-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-ZwPzloPA-i4/YBqdGXue3sI/AAAAAAAAJSU/H219vwKAlbwWHF2k4asAAkEsQ5R108wogCLcBGAsYHQ/s5000/21-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-HtrKRBiigvw/YBqdGlnGzjI/AAAAAAAAJSY/KCqzZ5a2hEcKZ68SLGnHX__k5nyRLuqAQCLcBGAsYHQ/s5000/22-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-p8gUAJ7PzBo/YBqdGyKeU4I/AAAAAAAAJSc/esXaSTsD1HYtepxYEpWEhyqeFkB1ug8DACLcBGAsYHQ/s5000/23.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-bE1r6WWXyhI/YBqdHOHtinI/AAAAAAAAJSg/M5Wi1c4m-qogMON9k75zJauIayEGJCubACLcBGAsYHQ/s5000/24-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-8ReM0SnG5ME/YBqdHcKSN4I/AAAAAAAAJSk/GSs_DyZz4-UHMyG7x2UuJQkv6nFLbtghACLcBGAsYHQ/s5000/25-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-9dY3WXZNuDk/YBqdH3tIwhI/AAAAAAAAJSo/G9q7zqu49vw1lasOEq4WON-hBhDEdBwbACLcBGAsYHQ/s5000/26-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-Ua3OcmsCSpE/YBqdILnjUmI/AAAAAAAAJSs/OA2-WiKTBgMRvWF67FaJyO006WHUrAqvgCLcBGAsYHQ/s5000/27-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-L38OeGvXD4c/YBqc3Plq_qI/AAAAAAAAJPs/gSaDMabw6nQ4_b28omSUTcNIfjxPKk8sQCLcBGAsYHQ/s5000/028.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-_GwwUqqg6_E/YBqdIdIHZtI/AAAAAAAAJSw/waNPmRgJvjUSKltA3BtlCUZvYVcEsSO1ACLcBGAsYHQ/s5000/29-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-wqk5YYMMAJ4/YBqdIpZiizI/AAAAAAAAJS0/4pBZU1BVuco7QXjkKePjo91LwPj9kemJwCLcBGAsYHQ/s5000/30-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-9KuIS5wi5mo/YBqdJN9FXnI/AAAAAAAAJS4/4hRbqQ4aR0gqyj0v4G7nHA-co_gS949EgCLcBGAsYHQ/s5000/31-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-2ZpMUK8k1fc/YBqdJsQbFiI/AAAAAAAAJS8/9RKty5sb-jQYCeb6ORWdxkaAAvy53lOKQCLcBGAsYHQ/s5000/32-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-NFihmEo5zRE/YBqdKKs4QJI/AAAAAAAAJTA/MJQ-yH5DZ5YapqcjjCc7lmd3ZWqc4zoJACLcBGAsYHQ/s5000/33.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-WUwDH2_XNaY/YBqdKl8qGPI/AAAAAAAAJTE/KeuXEZAOPbkGaProfCsuRtCZGgE5IFIugCLcBGAsYHQ/s5000/34.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-MEtBnAU9IxY/YBqdLDpU_FI/AAAAAAAAJTI/CdT04_gDmRIxaMhmqEGWi2_U0QFtLWlegCLcBGAsYHQ/s5000/35-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-zR1nJ2naCek/YBqdLunyNOI/AAAAAAAAJTM/r8SlTnkXe2cLOU4mf3WSq6Tbuh4GdoevwCLcBGAsYHQ/s5000/36.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-wr7bt85qGgE/YBqdMNfy2UI/AAAAAAAAJTQ/cYI0m1SiOcwdGZZdPK0AqZP_I71vjglOACLcBGAsYHQ/s5000/37.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-0FobVMzSaS0/YBqdMXg4JZI/AAAAAAAAJTU/vu4d5t2OXRAygiQFgt3go153uZ2UU4q7QCLcBGAsYHQ/s5000/38-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-Hx9LKMdM48A/YBqdMma8cCI/AAAAAAAAJTY/LiZaegnQpCAmva6jS_7z8PHrcpCiQwLzwCLcBGAsYHQ/s5000/39-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-Hz7LgFamG-Y/YBqdM0erawI/AAAAAAAAJTc/ufxGjCNKCOo1lBf3WTbCZgqsGkg3-WnvQCLcBGAsYHQ/s5000/40-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-uiBBe2r3G7s/YBqdNPLSCZI/AAAAAAAAJTg/Z8F_Q20jvOQDWWjT_8jLpKW9gUybSGwSQCLcBGAsYHQ/s5000/41-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-Nbt63s4KfmE/YBqdNfRVpLI/AAAAAAAAJTk/KBZW3V0zcFg091k1t10Ps_5WUNgYsXdWQCLcBGAsYHQ/s5000/42-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-8dZKfytJkrE/YBqdNvTCZkI/AAAAAAAAJTo/k2fbsYPj4_EDpSgk246kJR3pCWlrH0f1gCLcBGAsYHQ/s5000/43-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-vWVJNWdX7b8/YBqdN4rrdzI/AAAAAAAAJTs/49ax74nKJaAy16suwHeeNCWjFV_rW3uSgCLcBGAsYHQ/s5000/44-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-Oh14axZdU_Q/YBqdORArNoI/AAAAAAAAJTw/kcxcPIf490wACwhiy8xgHq3MuqNQnYoBACLcBGAsYHQ/s5000/45-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-pINTtUc_iPc/YBqdOQip9aI/AAAAAAAAJT0/RAckjvmLA-QtXV1AshLcNQXF_8yaHwywwCLcBGAsYHQ/s5000/46.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-w6u_0crVq_Y/YBqdOhOVkbI/AAAAAAAAJT4/ryyEPlIcHNkyakxii7fdW7nxV46_vdeoQCLcBGAsYHQ/s5000/47-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-ZWwaGa2XTYM/YBqdPT9dP1I/AAAAAAAAJT8/GAM3_r4ZwCsdyvzXduV2qjVwAi8J8qAIgCLcBGAsYHQ/s5000/48-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-NfFMeMGBB8Y/YBqdPqnomVI/AAAAAAAAJUA/BUhjwLjdDxI6WitmCl1V0w0n_izBx_pMACLcBGAsYHQ/s5000/49-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-bO0Lg8QU_SE/YBqdPkRBgvI/AAAAAAAAJUE/CZdRAS1VEQMDKCh1LoBs7ab9e_UD9tOXACLcBGAsYHQ/s5000/50-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-D_Z2_OUmg_E/YBqdQQSpPKI/AAAAAAAAJUI/XDZ7Er1sWxYROLIeSeI-uqtCtIjvMZOAwCLcBGAsYHQ/s5000/51-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-IpLp52-dXbI/YBqdQrI4fdI/AAAAAAAAJUM/McELPmtJynA8pEEi9KLvlys9lU_M9D3MACLcBGAsYHQ/s5000/52-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-NtbTLKF9BJM/YBqdQ7jZjLI/AAAAAAAAJUQ/_iFHBbA2VU4eCGGUHrJUvQwuTxuvvl71ACLcBGAsYHQ/s5000/53-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-nefd5RNrbbY/YBqc5OAtoMI/AAAAAAAAJP8/DDzDMOESo5cmcpcqdhcLdEn2eXQZvbnrACLcBGAsYHQ/s5000/054.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-at7BnKH5Rwo/YBqc5gYJRCI/AAAAAAAAJQA/WxeBm77o6V0oCyzNZJG1ksZTBr75YGduQCLcBGAsYHQ/s5000/055.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-0RkWFH8z0TE/YBqdRLWXiDI/AAAAAAAAJUU/xfpyHmO24_Y1xi3b9372lNK59OBLgSJ0wCLcBGAsYHQ/s5000/56-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-ot82QPdL3EU/YBqdRrHAcaI/AAAAAAAAJUY/2IPf1F0_wpkPk2PP9j0ASPC0Trpmq2hNwCLcBGAsYHQ/s5000/57-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-x2H3GhXxZvM/YBqdRuZ5X8I/AAAAAAAAJUc/MUN2vWwBfx09aUyQhdYXZG6lNzUD-4L8gCLcBGAsYHQ/s5000/58-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-AuzCYun9G0E/YBqdRwOz0eI/AAAAAAAAJUg/YlH4q5OoJxEf1vYLh9R0kdL2No4Y35edACLcBGAsYHQ/s5000/59-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-nqB-W3BN4gc/YBqdSdV_c9I/AAAAAAAAJUk/7Nq0Cq5zVHQQhnwyXo9rA1yLvoGvt1rbgCLcBGAsYHQ/s5000/60-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-cIiqc1_Qo4A/YBqdSd0Wd5I/AAAAAAAAJUo/gjpUOepOaXggR6Qph5efiTU-3EX7vjf-gCLcBGAsYHQ/s5000/61-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-npamMadaIrM/YBqdSndcRJI/AAAAAAAAJUs/WfEsOuAog20UjbEp4Bd-ODtw7656GvBLACLcBGAsYHQ/s5000/62-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-fCkgvLBv8c0/YBqdS3k-8iI/AAAAAAAAJUw/Oa6Zj3Rf39cUwMjbbujVGLe8BpnnHGF6gCLcBGAsYHQ/s5000/63-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-qZ9Nd5Qm2kU/YBqc6uxX4rI/AAAAAAAAJQI/t7JHdyeEqCA7TgOUOof-nSvwBuCCnFJYQCLcBGAsYHQ/s5000/064.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-XhFdD1D898Q/YBqdTcGablI/AAAAAAAAJU0/TLXN0XtrGW0LzgA-AGWeFjXH676Md7PtgCLcBGAsYHQ/s5000/65-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-ASOh6C7F7A4/YBqdTSBxQfI/AAAAAAAAJU4/j2WLjWiZj7c-jJI9vwVhjzBjO0580wIQACLcBGAsYHQ/s5000/66-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-o96B-rfXDTA/YBqdTsunlvI/AAAAAAAAJU8/oua3ZWsU4uEWmDOTXVdePiM2t0IPqBRHACLcBGAsYHQ/s5000/67-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-uJYeaxBuEK4/YBqdUAGJHjI/AAAAAAAAJVA/gWnQMuzUG5AcFgMI3ybxC0idx5o9k61LgCLcBGAsYHQ/s5000/68-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-dld_a0JopgU/YBqdUcq2OkI/AAAAAAAAJVE/3xWol9ESR4A0bqZ3DXqvmVJgwMT9xHHcQCLcBGAsYHQ/s5000/69-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-tcxmHakUyXU/YBqdUs4ph8I/AAAAAAAAJVI/sJ6N8QwKrQwR4vQguqNBUxEAZNcV4ChzACLcBGAsYHQ/s5000/70-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-Qp-F_JqTuKQ/YBqdUsE69TI/AAAAAAAAJVM/n9J3VaMR_EkHow7OUg3gBeS2-Wdv8eHPACLcBGAsYHQ/s5000/71.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-O_QnYFaP3n4/YBqdVEHzh9I/AAAAAAAAJVQ/k9L2apoUaIUrdbKWajz1UUAW92NHCKdiQCLcBGAsYHQ/s5000/72.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-3Qlfn00QtBM/YBqdVZ7jQCI/AAAAAAAAJVU/jYfMgtmDGk8QSy6CPC8be5qlOwUEooXKgCLcBGAsYHQ/s5000/73-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-l6CqzJmdZgM/YBqdVY99QHI/AAAAAAAAJVY/bxJfDyi2eGcsDXelQt_vdgH-0pxWVU-NQCLcBGAsYHQ/s5000/74-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-YtWY8Rlea3Y/YBqdVgkoNqI/AAAAAAAAJVc/9L1blQLHcyMv26zzbeWubWEnNuL5pl_8ACLcBGAsYHQ/s5000/75.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-T76Fevl4JP0/YBqdWJX8dSI/AAAAAAAAJVg/kWvYiN715n4Z0kgt02hxHUPrZEDVAc5zACLcBGAsYHQ/s5000/76-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-VaNr-9C2KJg/YBqdWTtJ_0I/AAAAAAAAJVk/vAZy3phlTk4pyb3rKl2_zkDCX1EoUGkCwCLcBGAsYHQ/s5000/77.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-ptO5v-lziXs/YBqdWZZMKLI/AAAAAAAAJVo/TSeIxAfVNGkuAHlDeDEdWPskifVnZMlbgCLcBGAsYHQ/s5000/78.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-Rs9pZBplvRY/YBqdWoWvyII/AAAAAAAAJVs/lqMmf2cXfjAp0BGPU9opITL1hTu2Agw3QCLcBGAsYHQ/s5000/79-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-uQD2Z4vk6i0/YBqdXLFb2fI/AAAAAAAAJVw/YkzH_mQxHp8z5KQqf7vOKETMcAqvWSmPgCLcBGAsYHQ/s5000/80-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-xuJpUBz3kl8/YBqdXeL6RLI/AAAAAAAAJV0/PBabcfik_GYdLYZX9KAEMTTZGOxMHAbQgCLcBGAsYHQ/s5000/81-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-9MijlvBJkPY/YBqdXQust_I/AAAAAAAAJV4/RIrDBbJt-Yol8tjggwNLPb6hy699KQ6kwCLcBGAsYHQ/s5000/82-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-hCfm60h_3sA/YBqdYLubVzI/AAAAAAAAJV8/WYv7iWszMCUW4ZtlUrQ96k7DIXjHo4uQQCLcBGAsYHQ/s5000/83-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-OEcocBH7OP0/YBqdYgSvWDI/AAAAAAAAJWA/vqLSMfH4S2039w5u4OGw4liMLRjiFEsugCLcBGAsYHQ/s5000/84-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-LnBjB7YEOB8/YBqdZIYk4PI/AAAAAAAAJWE/lZt4y9c4TjMfEcKl2lLDGtHI1SYbfQBtwCLcBGAsYHQ/s5000/85.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-jg3ncJqzEPk/YBqdZrYuvGI/AAAAAAAAJWI/aaH8-lOix5UavUXpK_CbwezxRx-z_MRzACLcBGAsYHQ/s5000/86-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-McNwWCx9-88/YBqdaNoGzqI/AAAAAAAAJWM/EnX1IxLduHQh4lf-g23srqKCMeDAdNNKACLcBGAsYHQ/s5000/87-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-u23o_tD1YFM/YBqdaWedcdI/AAAAAAAAJWQ/51I5I0fJlcwyn8BTRsKO153itXtT9dZEACLcBGAsYHQ/s5000/88-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-DX57CKGtWoc/YBqdamI_u7I/AAAAAAAAJWU/iLf68ky7ND0mK9OcHjnbQmLax4eDiLqdACLcBGAsYHQ/s5000/89.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-VLBe-LoaNlI/YBqda-0j8XI/AAAAAAAAJWY/CWTLcYrjiHMV9c0B0Pu-0BWSuQpP78KFQCLcBGAsYHQ/s5000/90-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-k-h6D8RbsXc/YBqdbMU5NLI/AAAAAAAAJWc/Ybc-qHV7WvQklFP6sRgV55942zxS7ugMACLcBGAsYHQ/s5000/91-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-JQu9-p5bNhM/YBqdbbJk_RI/AAAAAAAAJWg/YBXrqT1a_igxwFKfKYL4V6d6Swq1tV-GgCLcBGAsYHQ/s5000/92-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-OYPxfabRHKw/YBqdbhnjK7I/AAAAAAAAJWk/8NjqsFqEanw55bN2ANELB9xY9IypDoDVgCLcBGAsYHQ/s5000/93.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-VI3g6LKnUK8/YBqdb8hFwVI/AAAAAAAAJWo/SLwj2FA2f-QFVf7doIEU8PZXhHTeIMNMQCLcBGAsYHQ/s5000/94-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-l_0ulWiCaW4/YBqdcFXJYYI/AAAAAAAAJWs/YYMl1UUmaKoO1Nc5HZ_D9nV3q1_-MysmgCLcBGAsYHQ/s5000/95-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-teS1eWDvJrY/YBqdcVBkvoI/AAAAAAAAJWw/7uad7KAlfuIpUE6NPscgl7DXqYin8KuNACLcBGAsYHQ/s5000/96-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-UvpE5nt6cfQ/YBqdcgRPAUI/AAAAAAAAJW0/LQr5lUEBnYQcikLiqSChJNXmOU9qgEFwwCLcBGAsYHQ/s5000/97-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-eokbrMzWX8I/YBqdczE8rYI/AAAAAAAAJW4/1Tppoc4ouj8HAogmgDAnAhtKowzDbGVeACLcBGAsYHQ/s5000/98-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-50j6ezrNALI/YBqddHFQjDI/AAAAAAAAJW8/ta5FH3-uCukPRT9HwMfzy1Ruo0hRkZbbwCLcBGAsYHQ/s5000/99.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-FBqSr6gHbQQ/YBqc8h01sfI/AAAAAAAAJQc/Py87YHF40fUaK2iU6wyG5OIr9CG6rY-VACLcBGAsYHQ/s5000/100.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-buP5Q2rKhLs/YBqc80-Q0iI/AAAAAAAAJQg/1S1h-kWHA2ch8KYzt1O7kExG9hJYflAJACLcBGAsYHQ/s5000/101.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-bfSBPFZ2q7Y/YBqc9KoluPI/AAAAAAAAJQk/F7kbEhbWWPsOeyUsVtJBwkozJ0jn5hqpQCLcBGAsYHQ/s5000/102.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-L2XbCUcuKB4/YBqc9aq5WGI/AAAAAAAAJQo/dwAy4hoO0qo5BlGLho6ZFwU4rICAMZyxgCLcBGAsYHQ/s5000/103-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-yIcuqIPlQ-g/YBqc9ncoAfI/AAAAAAAAJQs/H1QdDU0ZD-ARAyUDbujxpeTCgrHHY734wCLcBGAsYHQ/s5000/104.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-SZckmcAHWjg/YBqc916TOcI/AAAAAAAAJQw/cJGeljR0Srwm2XLl5Awspm17_DgCrngPACLcBGAsYHQ/s5000/105-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-2NtJZKbfs00/YBqc-KHBFWI/AAAAAAAAJQ0/4iKVKPQ1NaUEKxfcda5mdzh55JxQWYlxQCLcBGAsYHQ/s5000/106-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-BAa1p5g2npw/YBqc-TZwX3I/AAAAAAAAJQ4/IapsVZZKRh45xyJ9iAFnUnhclnRwbniEwCLcBGAsYHQ/s5000/107-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-fQqyv86MKwc/YBqc-mQSSTI/AAAAAAAAJQ8/t-M7s6j67KwcVDj6WWe6G5E3hkdcjF3eQCLcBGAsYHQ/s5000/108-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-v5lnjgCkZPI/YBqc--qetCI/AAAAAAAAJRA/RG_XeZSOcLk_AfKz5FBF2uKWBU2kIp1vgCLcBGAsYHQ/s5000/109-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-EQ9JWJ2Hmwc/YBqc_kuVFAI/AAAAAAAAJRI/xpv-zdxbFXsJLujOQu4umXF_Iz0bFcAywCLcBGAsYHQ/s5000/110-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-in1avuSrWDA/YBqc_mMz5BI/AAAAAAAAJRM/RPi0YtorJ6o1ajocQP0MBcgTvmFz5rqmgCLcBGAsYHQ/s5000/111-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/--Of3L-1PLpQ/YBqdAV3rAdI/AAAAAAAAJRQ/6If6w_LepZw9z-4U7msDlnUwHFrkNTTtgCLcBGAsYHQ/s5000/112-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-OAE-tItzp8k/YBqdApUrGAI/AAAAAAAAJRU/jzG-cj7RuZklKPkmxV-KSja92nQhzOSXQCLcBGAsYHQ/s5000/113-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-hybMbb9TxL4/YBqdApttF1I/AAAAAAAAJRY/wnNFJNwd8dENxxL4QTQYqsnxRCIpOIIAQCLcBGAsYHQ/s5000/114-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-dcbkEIed09M/YBqdBHkVJHI/AAAAAAAAJRc/7h6UKYhHruI06PAkr31vZrFcR7KbKhHaQCLcBGAsYHQ/s5000/115-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-Cc5NLnjqnLY/YBqdBV3q4BI/AAAAAAAAJRg/ke3bdlkr_HEZ3naGl-dNRaapOBlsqE2EACLcBGAsYHQ/s5000/116.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-u_6YbopqgwA/YBqdBfOno7I/AAAAAAAAJRk/jI0dpw3PXpwQ_xTPdzvRyh69AKyUE6OIgCLcBGAsYHQ/s5000/117.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-vvxUasw-bwA/YBqdCIGTOFI/AAAAAAAAJRo/fxC-JVrSGUAM0-SQCiRPPHaPlIgFf4ZMgCLcBGAsYHQ/s5000/118-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-72KgFmfAYeI/YBqdCcbxdUI/AAAAAAAAJRs/1VfRA1OmyLce8flp9lJV2Q6WgUJ9oyGxACLcBGAsYHQ/s5000/119-picsay.jpg\"width=\"100%\"/>
+      "
+    },
                {
 "title" : "Close As Neighbors",
 "status" : "အပိုင်း (၁၀)",
